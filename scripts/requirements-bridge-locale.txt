@@ -1,0 +1,2 @@
+# 生成桥梁多语言 JSON：npm run data:bridge-locale
+pypinyin>=0.50.0

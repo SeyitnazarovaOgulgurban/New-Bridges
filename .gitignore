@@ -1,0 +1,13 @@
+.vscode/
+node_modules/
+dist/
+
+.env
+.env.*
+!.env.example
+
+# 从古桥数据集 docx 导出的原图体积大；若需入库请用 Git LFS 或删本行后自行提交
+/data/bridge-images/raw/
+
+# Word 打开 docx 时的临时锁文件
+**/~$*.docx

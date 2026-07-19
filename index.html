@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="zh-CN" id="htmlRoot">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>中国桥梁文化 · 时空演进</title>
+        <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+        <!-- 入口：src/app/main.ts（样式与 map 库 CSS 在模块中引入） -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=ZCOOL+XiaoWei&display=swap" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- 主标题区 -->
+        <header class="main-header">
+            <div class="header-content">
+                <h1 data-i18n="app.title">中国桥梁文化</h1>
+                <p class="subtitle" data-i18n="app.subtitle">跨越千年的建筑智慧 · 时空演进数字档案</p>
+            </div>
+            <div class="header-search" id="headerSearch">
+                <input type="text" id="bridgeSearchInput" class="search-input" placeholder="搜索桥梁…" data-i18n-placeholder="search.placeholder" autocomplete="off" />
+                <div class="search-results" id="searchResults"></div>
+            </div>
+            <div class="header-lang">
+                <label class="header-lang__label" data-i18n="lang.selectorLabel">语言：</label>
+                <div class="lang-dropdown" id="langDropdown">
+                    <button class="lang-dropdown__trigger" id="langTrigger" type="button">
+                        <span class="lang-dropdown__current" id="langCurrent">中文</span>
+                        <span class="lang-dropdown__arrow">▾</span>
+                    </button>
+                    <ul class="lang-dropdown__menu" id="langMenu">
+                        <li class="lang-dropdown__item" data-lang="zh">中文</li>
+                        <li class="lang-dropdown__item" data-lang="en">English</li>
+                        <li class="lang-dropdown__item" data-lang="tk">Türkmençe</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="header-famous" id="headerFamous">
+                <button class="famous-btn" id="famousBridgesBtn" type="button">
+                    <span data-i18n="famous.btnLabel">⭐ 著名桥梁</span>
+                </button>
+                <div class="famous-dropdown" id="famousDropdown"></div>
+            </div>
+            <div class="header-stats" id="headerStats">
+                <div class="stat-item">
+                    <span class="stat-value" id="totalBridges">0</span>
+                    <span class="stat-label" data-i18n="stats.historicalBridges">历史名桥</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="dynastyCount">0</span>
+                    <span class="stat-label" data-i18n="stats.dynastiesSpanned">跨越朝代</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-value" id="provinceCount">0</span>
+                    <span class="stat-label" data-i18n="stats.provincesCovered">覆盖省份</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- 地图容器 -->
+        <div id="map"></div>
+        <div id="mapTexture"></div>
+        <!-- 合规：底图来源 + 审图号（竞赛规定要求标注） -->
+        <div id="mapApproval" class="map-approval"></div>
+        <div id="bridgeImageDock" class="bridge-image-dock" aria-live="polite"></div>
+
+        <!-- 时间轴控制面板 -->
+        <div class="timeline-panel">
+            <div class="timeline-header">
+                <h3 data-i18n="timeline.title">⏱ 时空演进</h3>
+                <div class="timeline-controls">
+                    <button
+                        id="playBtn"
+                        class="control-btn"
+                        type="button"
+                        data-i18n-title="timeline.playPause"
+                        title="播放/暂停"
+                    >
+                        <span class="play-icon">▶</span>
+                    </button>
+                    <button id="resetBtn" class="control-btn" type="button" data-i18n-title="timeline.reset" title="重置">
+                        ⟲
+                    </button>
+                    <select
+                        id="speedSelect"
+                        class="speed-select"
+                        data-i18n-title="timeline.speedHint"
+                        title="每座桥停留时长"
+                    >
+                        <option value="3500" data-i18n="timeline.speedSlow">慢速</option>
+                        <option value="2800" selected data-i18n="timeline.speedNormal">正常</option>
+                        <option value="1800" data-i18n="timeline.speedFast">快速</option>
+                    </select>
+                </div>
+            </div>
+            <div class="timeline-content">
+                <div class="dynasty-markers" id="dynastyMarkers"></div>
+                <input type="range" id="timeSlider" min="600" max="1911" value="600" step="1" />
+                <div class="year-display">
+                    <span id="currentYear">公元 600 年</span>
+                    <span id="currentDynasty">隋朝</span>
+                </div>
+            </div>
+            <div class="timeline-legend">
+                <div class="legend-item">
+                    <span class="dot stone"></span><span data-i18n="timeline.legendStone">石桥</span>
+                </div>
+                <div class="legend-item">
+                    <span class="dot wood"></span><span data-i18n="timeline.legendWood">木桥</span>
+                </div>
+                <div class="legend-item">
+                    <span class="dot iron"></span><span data-i18n="timeline.legendIron">铁桥</span>
+                </div>
+                <div class="legend-item">
+                    <span class="dot mixed"></span><span data-i18n="timeline.legendMixed">混合</span>
+                </div>
+            </div>
+            <div
+                class="panel-resize-grip panel-resize-grip--top-left"
+                data-resize-target=".timeline-panel"
+                data-resize-corner="top-left"
+                title="拖拽调整大小"
+            ></div>
+        </div>
+
+        <!-- 数据统计面板 -->
+        <div class="stats-panel">
+            <div class="panel-header">
+                <h3 data-i18n="statsPanel.title">📊 数据洞察</h3>
+                <button class="toggle-btn" id="toggleStats" type="button">−</button>
+            </div>
+            <div class="panel-content" id="statsContent">
+                <div class="chart-container" data-chart="dynasty">
+                    <button class="chart-zoom-btn" type="button" title="放大">⤢</button>
+                    <div id="dynastyChart" class="chart"></div>
+                </div>
+                <div class="chart-container" data-chart="material">
+                    <button class="chart-zoom-btn" type="button" title="放大">⤢</button>
+                    <div id="materialChart" class="chart"></div>
+                </div>
+                <div class="chart-container" data-chart="region">
+                    <button class="chart-zoom-btn" type="button" title="放大">⤢</button>
+                    <div id="regionChart" class="chart"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 桥梁详情弹窗 -->
+        <div class="bridge-modal" id="bridgeModal">
+            <div class="modal-content">
+                <button class="close-btn" id="closeModal">×</button>
+                <div class="modal-header">
+                    <h2 id="bridgeName">赵州桥</h2>
+                    <div class="bridge-tags">
+                        <span class="tag dynasty" id="bridgeDynasty">隋朝</span>
+                        <span class="tag level" id="bridgeLevel">国家级</span>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <label data-i18n="modal.labelYearBuilt">建造年代</label>
+                            <span id="bridgeYear">公元605年</span>
+                        </div>
+                        <div class="info-item">
+                            <label data-i18n="modal.labelLocation">所在地</label>
+                            <span id="bridgeLocation">河北省</span>
+                        </div>
+                        <div class="info-item">
+                            <label data-i18n="modal.labelType">桥梁类型</label>
+                            <span id="bridgeType">敞肩石拱桥</span>
+                        </div>
+                        <div class="info-item">
+                            <label data-i18n="modal.labelMaterial">建筑材质</label>
+                            <span id="bridgeMaterial">石</span>
+                        </div>
+                        <div class="info-item">
+                            <label data-i18n="modal.labelLength">桥长</label>
+                            <span id="bridgeLength">50.82米</span>
+                        </div>
+                        <div class="info-item">
+                            <label data-i18n="modal.labelSpan">跨度</label>
+                            <span id="bridgeSpan">37.02米</span>
+                        </div>
+                    </div>
+                    <div class="poem-section">
+                        <h4 data-i18n="poem.sectionTitle">📜 相关诗词</h4>
+                        <div class="poem-content" id="bridgePoem">
+                            <p class="poem-text"></p>
+                            <p class="poem-author"></p>
+                        </div>
+                    </div>
+                    <div class="history-section">
+                        <h4 data-i18n="poem.historyTitle">📖 历史故事</h4>
+                        <p id="bridgeHistory"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 关联分析面板 -->
+        <div class="analysis-panel" id="analysisPanel">
+            <div class="panel-header">
+                <h3 data-i18n="analysis.title">🔗 关联分析</h3>
+                <button class="toggle-btn" id="toggleAnalysis" type="button">+</button>
+            </div>
+            <div class="panel-content collapsed" id="analysisContent">
+                <div class="analysis-options">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="showTradeRoutes" /> <span data-i18n="analysis.showTradeRoutes">显示商道</span>
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="showWaterways" /> <span data-i18n="analysis.showWaterways">显示漕运水道</span>
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="showClusters" /> <span data-i18n="analysis.showClusters">显示桥梁聚集区</span>
+                    </label>
+                </div>
+                <div id="correlationChart" class="chart"></div>
+            </div>
+            <div class="panel-resize-grip" data-resize-target="#analysisPanel" title="拖拽调整大小"></div>
+        </div>
+
+        <!-- 树形导航面板 -->
+        <div class="tree-panel" id="treePanel">
+            <div class="panel-header">
+                <h3 data-i18n="tree.title">🌳 桥梁导航</h3>
+                <button class="toggle-btn" id="toggleTree" type="button">−</button>
+            </div>
+            <div class="tree-poem-filter" id="treePoemFilter">
+                <label class="checkbox-label">
+                    <input type="checkbox" id="filterPoemBridges" />
+                    <span data-i18n="tree.poemFilter">📜 古诗词桥梁</span>
+                    <span class="tree-poem-count" id="poemBridgeCount"></span>
+                </label>
+            </div>
+            <div class="panel-content" id="treeContent"></div>
+        </div>
+
+        <!-- 图例说明 -->
+        <div class="map-legend">
+            <h4 data-i18n="mapLegend.title">桥梁规模</h4>
+            <div class="legend-scale">
+                <span class="scale-item small"></span>
+                <span class="scale-label" data-i18n="mapLegend.small">小型 (&lt;30m)</span>
+            </div>
+            <div class="legend-scale">
+                <span class="scale-item medium"></span>
+                <span class="scale-label" data-i18n="mapLegend.medium">中型 (30-100m)</span>
+            </div>
+            <div class="legend-scale">
+                <span class="scale-item large"></span>
+                <span class="scale-label" data-i18n="mapLegend.large">大型 (&gt;100m)</span>
+            </div>
+        </div>
+
+        <!-- 图片放大浮层 -->
+        <div class="lightbox" id="imageLightbox">
+            <img class="lightbox__img" id="lightboxImg" src="" alt="" />
+        </div>
+
+        <div class="page-corner-tl"></div>
+        <div class="page-corner-tr"></div>
+        <div class="page-corner-bl"></div>
+        <div class="page-corner-br"></div>
+
+        <script type="module" src="./src/app/main.ts"></script>
+    </body>
+</html>

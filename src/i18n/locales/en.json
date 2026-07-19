@@ -1,0 +1,238 @@
+{
+    "meta": {
+        "pageTitle": "Chinese Bridge Culture · Spatio-temporal Evolution"
+    },
+    "app": {
+        "title": "Chinese Bridge Culture",
+        "subtitle": "A millennium of engineering · A digital spatio-temporal archive"
+    },
+    "lang": {
+        "selectorLabel": "Language",
+        "selectorAria": "Interface language"
+    },
+    "stats": {
+        "historicalBridges": "Historic bridges",
+        "dynastiesSpanned": "Dynasties spanned",
+        "provincesCovered": "Provinces covered"
+    },
+    "timeline": {
+        "title": "⏱ Spatio-temporal evolution",
+        "playPause": "Play / Pause",
+        "reset": "Reset",
+        "speedHint": "Dwell time per bridge",
+        "speedSlow": "Slow",
+        "speedNormal": "Normal",
+        "speedFast": "Fast",
+        "legendStone": "Stone",
+        "legendWood": "Wood",
+        "legendIron": "Iron",
+        "legendMixed": "Mixed"
+    },
+    "statsPanel": {
+        "title": "📊 Data insight"
+    },
+    "chart": {
+        "dynasty": "By dynasty",
+        "material": "By material",
+        "region": "By region"
+    },
+    "modal": {
+        "labelYearBuilt": "Year built",
+        "labelLocation": "Location",
+        "labelType": "Bridge type",
+        "labelMaterial": "Material",
+        "labelLength": "Length",
+        "labelSpan": "Span",
+        "unranked": "Unlisted",
+        "unknown": "Unknown",
+        "meterUnit": "m",
+        "meterValue": "{n} m",
+        "adYear": "{year} CE"
+    },
+    "poem": {
+        "sectionTitle": "📜 Related verse",
+        "historyTitle": "📖 Story",
+        "originalLanguageNote": "The following lines are quoted in classical Chinese (original text)."
+    },
+    "analysis": {
+        "title": "🔗 Correlation analysis",
+        "showTradeRoutes": "Trade routes",
+        "showWaterways": "Historical waterways",
+        "showClusters": "Bridge clusters (heatmap)",
+        "routeSilk": "Silk Road",
+        "routeTeaN": "Tea-Horse Road (Sichuan-Tibet)",
+        "routeTeaS": "Tea-Horse Road (Yunnan-Tibet)",
+        "routeCanal": "Grand Canal",
+        "routeCanalDesc": "Fully connected in 1293 (Yuan dynasty), stretching 1,794 km from Beijing to Hangzhou — the longest artificial waterway in the world",
+        "routeSilkDesc": "A major east-west trade route formed after Zhang Qian's missions, connecting Chang'an to Central Asia via the Hexi Corridor",
+        "routeTeaNDesc": "Northern tea-horse route from Chengdu through Ya'an and Luding Bridge to Lhasa",
+        "routeTeaSDesc": "Southern tea-horse route from Kunming through Dali and Lijiang to Lhasa",
+        "riverYangtze": "Yangtze River",
+        "riverYangtzeDesc": "Over 6,300 km long, China's longest river, flowing through 11 provinces from Qinghai to Shanghai",
+        "riverHuanghe": "Yellow River",
+        "riverHuangheDesc": "5,464 km long, cradle of Chinese civilization, flowing through 9 provinces from Qinghai to Shandong",
+        "waterwayLingqu": "Lingqu Canal",
+        "waterwayLingquDesc": "Built in 214 BC under Qin Shi Huang, connecting the Xiang and Li rivers — one of the world's oldest canals",
+        "waterwayHangou": "Hangou Canal",
+        "waterwayHangouDesc": "Dug by King Fuchai of Wu in 486 BC, linking the Yangtze and Huai rivers — the earliest section of the Grand Canal",
+        "waterwayTongji": "Tongji Canal",
+        "waterwayTongjiDesc": "Built in 605 AD by Emperor Yang of Sui, running from Luoyang through Kaifeng to the Huai River — the core of the Sui-Tang Grand Canal",
+        "waterwayYongji": "Yongji Canal",
+        "waterwayYongjiDesc": "Built in 608 AD, running north from Luoyang to Zhuojun (modern Beijing) — a supply route for the Goguryeo campaigns",
+        "waterwayJiangnan": "Jiangnan Canal",
+        "waterwayJiangnanDesc": "Completed in 610 AD, from Zhenjiang through Suzhou to Hangzhou — the lifeline of the prosperous Jiangnan region",
+        "waterwayHuitong": "Huitong River",
+        "waterwayHuitongDesc": "Built in 1289 under the Yuan dynasty, cutting through Shandong to straighten the canal route bypassing Luoyang",
+        "waterwayBeiyun": "Beiyun River",
+        "waterwayBeiyunDesc": "Opened in 1293, running from Tianjin to Dadu (Beijing) — the northernmost section of the Beijing-Hangzhou Grand Canal",
+        "waterwayZhongyun": "Zhongyun Canal",
+        "waterwayZhongyunDesc": "Built in the Yuan dynasty, connecting Huai'an to Jining — a direct north-south replacement for the Sui-Tang Tongji Canal",
+        "waterwayZhedong": "Zhedong Canal",
+        "waterwayZhedongDesc": "Originating around 490 BC, from Hangzhou through Shaoxing to Ningbo — connecting the Qiantang and Yong rivers",
+        "riverZhujiang": "Pearl River",
+        "riverZhujiangDesc": "2,320 km long, the largest river in southern China, flowing through Yunnan, Guizhou, Guangxi and Guangdong into the South China Sea",
+        "riverHuaihe": "Huai River",
+        "riverHuaiheDesc": "1,000 km long, the geographic boundary between north and south China, flowing through Henan, Anhui and Jiangsu",
+        "riverHaihe": "Hai River",
+        "riverHaiheDesc": "The largest river system in North China, converging five major tributaries at Tianjin before reaching the Bohai Sea",
+        "riverSonghua": "Songhua River",
+        "riverSonghuaDesc": "1,927 km long, the largest tributary of the Amur River, flowing through Jilin and Heilongjiang provinces",
+        "riverLiaohe": "Liao River",
+        "riverLiaoheDesc": "1,345 km long, the main river of southern Manchuria, flowing through Inner Mongolia, Jilin and Liaoning",
+        "riverHanjiang": "Han River",
+        "riverHanjiangDesc": "1,577 km long, the longest tributary of the Yangtze, flowing through Shaanxi and Hubei provinces",
+        "riverGanjiang": "Gan River",
+        "riverGanjiangDesc": "766 km long, the largest river in Jiangxi province, flowing north into Poyang Lake",
+        "riverXiangjiang": "Xiang River",
+        "riverXiangjiangDesc": "856 km long, the largest river in Hunan province, flowing north into Dongting Lake",
+        "riverMinjiang": "Min River (Fujian)",
+        "riverMinjiangDesc": "577 km long, the largest river in Fujian province, flowing through Nanping to Fuzhou and into the sea",
+        "riverQiantang": "Qiantang River",
+        "riverQiantangDesc": "688 km long, the largest river in Zhejiang, famous worldwide for its spectacular tidal bore",
+        "riverWeihe": "Wei River",
+        "riverWeiheDesc": "818 km long, the largest tributary of the Yellow River, the mother river of the Guanzhong Plain in Shaanxi",
+        "riverLuohe": "Luo River",
+        "riverLuoheDesc": "447 km long, an important southern tributary of the Yellow River; Luoyang was named after this river",
+        "riverDaduhe": "Dadu River",
+        "riverDaduheDesc": "1,062 km long, the largest tributary of the Min River, flowing through western Sichuan — the Luding Bridge spans this river"
+    },
+    "mapLegend": {
+        "title": "Bridge size",
+        "small": "Small (<30 m)",
+        "medium": "Medium (30–100 m)",
+        "large": "Large (>100 m)"
+    },
+    "year": {
+        "unknown": "Year unknown",
+        "bc": "{n} BCE",
+        "ad": "{n} CE"
+    },
+    "dynasty": {
+        "unknown": "Unknown era",
+        "preSui": "Before Sui",
+        "sui": "Sui dynasty",
+        "tang": "Tang dynasty",
+        "five": "Five Dynasties & Ten Kingdoms",
+        "song": "Song dynasty",
+        "yuan": "Yuan dynasty",
+        "ming": "Ming dynasty",
+        "qing": "Qing dynasty"
+    },
+    "dynastyShort": {
+        "sui": "Sui",
+        "tang": "Tang",
+        "five": "5D10K",
+        "song": "Song",
+        "yuan": "Yuan",
+        "ming": "Ming",
+        "qing": "Qing"
+    },
+    "material": {
+        "unknown": "Unknown",
+        "石": "Stone",
+        "木": "Wood",
+        "铁": "Iron",
+        "竹": "Bamboo",
+        "砖": "Brick",
+        "混凝土": "Concrete",
+        "石/木": "Stone / wood",
+        "木/石": "Wood / stone",
+        "铁/石": "Iron / stone",
+        "竹/木": "Bamboo / wood",
+        "青砖+青石": "Blue brick & stone",
+        "石梁": "Stone beam",
+        "木材": "Timber",
+        "青石": "Bluestone",
+        "条石": "Dressed stone",
+        "石板": "Flagstone",
+        "石梁+石墩": "Stone beam & pier",
+        "青白石": "White marble",
+        "花岗岩": "Granite",
+        "铁链/木": "Iron chain / wood",
+        "铁/木": "Iron / wood",
+        "钢": "Steel"
+    },
+    "region": {
+        "other": "Other",
+        "华东": "East China",
+        "华北": "North China",
+        "华中": "Central China",
+        "华南": "South China",
+        "西南": "Southwest",
+        "西北": "Northwest",
+        "东北": "Northeast",
+        "古代": "Ancient"
+    },
+    "popup": {
+        "builtYear": "Built {year} CE",
+        "provinceUnknown": "Unknown",
+        "viewDetail": "Details →"
+    },
+    "dock": {
+        "jumpYearTitle": "Click to move the timeline to when this bridge appears",
+        "edgeAfter": "No later bridges",
+        "edgeBefore": "No earlier bridges",
+        "edgeAfterDetail": "No more bridges after the current one in the chronological list (year ≤ 1920).",
+        "edgeBeforeDetail": "No more bridges before the current one in the full chronological list.",
+        "noPhoto": "No image"
+    },
+    "load": {
+        "done": "Loaded {count} bridges (rows without coordinates or parsable year were skipped).",
+        "failed": "Failed to load data:"
+    },
+    "famous": {
+        "btnLabel": "⭐ Famous Bridges"
+    },
+    "search": {
+        "placeholder": "Search bridges…",
+        "noResult": "No bridges found"
+    },
+    "tree": {
+        "title": "🌳 Bridge Navigator",
+        "empty": "No data available",
+        "poemFilter": "📜 Bridges in poetry"
+    },
+    "csvDynasty": {
+        "战国时期": "Warring States",
+        "汉代": "Han Dynasty",
+        "六朝时期": "Six Dynasties",
+        "唐宋时期": "Tang-Song",
+        "宋元时期": "Song-Yuan",
+        "明清时期": "Ming-Qing",
+        "未知": "Unknown"
+    },
+    "csvProvince": {
+        "河北": "Hebei", "河南": "Henan", "山西": "Shanxi", "山东": "Shandong",
+        "陕西": "Shaanxi", "甘肃": "Gansu", "四川": "Sichuan", "云南": "Yunnan",
+        "贵州": "Guizhou", "广东": "Guangdong", "广西": "Guangxi",
+        "福建": "Fujian", "浙江": "Zhejiang", "江苏": "Jiangsu", "安徽": "Anhui",
+        "江西": "Jiangxi", "湖南": "Hunan", "湖北": "Hubei", "北京": "Beijing",
+        "天津": "Tianjin", "上海": "Shanghai", "重庆": "Chongqing",
+        "新疆": "Xinjiang", "西藏": "Tibet", "内蒙古": "Inner Mongolia", "宁夏": "Ningxia",
+        "青海": "Qinghai", "吉林": "Jilin", "辽宁": "Liaoning", "黑龙江": "Heilongjiang",
+        "海南": "Hainan", "台湾": "Taiwan", "未知": "Unknown"
+    },
+    "warn": {
+        "noPlayableBridges": "[Bridge] No bridges available for playback (need year ≤ 1920 and coordinates within China bounds). Playback stopped — check data or scrub the timeline manually."
+    }
+}

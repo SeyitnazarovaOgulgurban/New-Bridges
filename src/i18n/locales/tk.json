@@ -1,0 +1,238 @@
+{
+    "meta": {
+        "pageTitle": "Hytaý köpri medeniýeti · Wagt-giňişlik ewolýusiýasy"
+    },
+    "app": {
+        "title": "Hytaý köpri medeniýeti",
+        "subtitle": "Müň ýyllyk gurluşyk mirasy · Sanly wagt-giňişlik arhiwi"
+    },
+    "lang": {
+        "selectorLabel": "Dil",
+        "selectorAria": "Interfeýs dili"
+    },
+    "stats": {
+        "historicalBridges": "Taryhy köpriler",
+        "dynastiesSpanned": "Dinastiýalar",
+        "provincesCovered": "Welaýatlar"
+    },
+    "timeline": {
+        "title": "⏱ Wagt-giňişlik ewolýusiýasy",
+        "playPause": "Oýnat / Duruz",
+        "reset": "Başyna",
+        "speedHint": "Her köpri üçin wagt",
+        "speedSlow": "Haýal",
+        "speedNormal": "Adaty",
+        "speedFast": "Çalt",
+        "legendStone": "Daş",
+        "legendWood": "Agaç",
+        "legendIron": "Demir",
+        "legendMixed": "Garyşyk"
+    },
+    "statsPanel": {
+        "title": "📊 Maglumat syny"
+    },
+    "chart": {
+        "dynasty": "Dinastiýa boýunça",
+        "material": "Material boýunça",
+        "region": "Sebit boýunça"
+    },
+    "modal": {
+        "labelYearBuilt": "Gurlan ýyly",
+        "labelLocation": "Ýerleşişi",
+        "labelType": "Köpri görnüşi",
+        "labelMaterial": "Material",
+        "labelLength": "Uzynlyk",
+        "labelSpan": "Aralyk",
+        "unranked": "Bellenmedik",
+        "unknown": "Näbelli",
+        "meterUnit": "m",
+        "meterValue": "{n} m",
+        "adYear": "{year} ý."
+    },
+    "poem": {
+        "sectionTitle": "📜 Baglanyşykly goşgy",
+        "historyTitle": "📖 Taryhy hekaýa",
+        "originalLanguageNote": "Aşakdaky setirler klasik hytaý dilinde (asyl tekst)."
+    },
+    "analysis": {
+        "title": "🔗 Analiz",
+        "showTradeRoutes": "Söwda ýollary",
+        "showWaterways": "Taryhy suw ýollary",
+        "showClusters": "Köpri ýygyndylary",
+        "routeSilk": "Ýüpek ýoly",
+        "routeTeaN": "Çaý-at ýoly (Syçuan-Tibet)",
+        "routeTeaS": "Çaý-at ýoly (Ýunnan-Tibet)",
+        "routeCanal": "Uly kanal",
+        "routeCanalDesc": "1293-nji ýylda doly birikdirilen, Pekinden Hançžoua çenli 1794 km uzalyp gidýän dünýädäki iň uzyn emeli suw ýoly",
+        "routeSilkDesc": "Çžan Sýanyň ýöritelerinden soň emele gelen gündogar-günbatar söwda ýoly",
+        "routeTeaNDesc": "Çendu şäherinden Ýaan, Luzdin köprüsi arkaly Lhasa çenli demirgazyk çaý-at ýoly",
+        "routeTeaSDesc": "Kunmin şäherinden Dali, Liçžian arkaly Lhasa çenli günorta çaý-at ýoly",
+        "riverYangtze": "Ýanszyý derýasy",
+        "riverYangtzeDesc": "6300 km-den gowrak, Hytaýyň iň uzyn derýasy, 11 welaýatdan akyp geçýär",
+        "riverHuanghe": "Sary derýa",
+        "riverHuangheDesc": "5464 km uzynlykda, hytaý siwilizasiýasynyň sallançagy, 9 welaýatdan akyp geçýär",
+        "waterwayLingqu": "Lingku kanaly",
+        "waterwayLingquDesc": "B.e.öň 214-nji ýylda gurlan, dünýäniň iň gadymy kanallaryndan biri",
+        "waterwayHangou": "Hangou kanaly",
+        "waterwayHangouDesc": "B.e.öň 486-njy ýylda gazylan, Uly kanalyň iň gadymy bölegi",
+        "waterwayTongji": "Toňji kanaly",
+        "waterwayTongjiDesc": "605-nji ýylda Suý nesilşalygynda gazylan, Suý-Tan Uly kanalynyň esasy bölegi",
+        "waterwayYongji": "Ýoňji kanaly",
+        "waterwayYongjiDesc": "608-nji ýylda gazylan, Luoýandan Pekine çenli demirgazyk ugruny",
+        "waterwayJiangnan": "Jiangnan kanaly",
+        "waterwayJiangnanDesc": "610-njy ýylda tamamlanan, Çženjiangdan Hançžouwa çenli",
+        "waterwayHuitong": "Hueýtoň derýasy",
+        "waterwayHuitongDesc": "1289-njy ýylda Ýuan nesilşalygynda gazylan, Şandundaky göni ugur",
+        "waterwayBeiyun": "Beýýun derýasy",
+        "waterwayBeiyunDesc": "1293-nji ýylda açylan, Týanszinden Pekine çenli iň demirgazyk bölek",
+        "waterwayZhongyun": "Joňýun kanaly",
+        "waterwayZhongyunDesc": "Ýuan nesilşalygynda gazylan, Huaýandan Szinine çenli",
+        "waterwayZhedong": "Žedoň kanaly",
+        "waterwayZhedongDesc": "B.e.öň 490-njy ýylda döredilen, Hançžoudan Ninbowa çenli",
+        "riverZhujiang": "Çžuçžian derýasy",
+        "riverZhujiangDesc": "2320 km, Hytaýyň günortasyndaky iň uly derýa, Günorta Hytaý deňzine guýýar",
+        "riverHuaihe": "Huaýhe derýasy",
+        "riverHuaiheDesc": "1000 km, Hytaýyň demirgazyk-günorta geografik serhedi",
+        "riverHaihe": "Haýhe derýasy",
+        "riverHaiheDesc": "Demirgazyk Hytaýyň iň uly suw ulgamy, Týançžinde deňze guýýar",
+        "riverSonghua": "Sunhua derýasy",
+        "riverSonghuaDesc": "1927 km, Amur derýasynyň iň uly şahasy, Çžilin we Heýlunçžian welaýatlaryndan akyp geçýär",
+        "riverLiaohe": "Lýaohe derýasy",
+        "riverLiaoheDesc": "1345 km, Mançžuriýanyň günortasyndaky esasy derýa",
+        "riverHanjiang": "Han derýasy",
+        "riverHanjiangDesc": "1577 km, Ýanszyý derýasynyň iň uzyn şahasy, Şaansi we Hubeý welaýatlaryndan akyp geçýär",
+        "riverGanjiang": "Gan derýasy",
+        "riverGanjiangDesc": "766 km, Çžiansi welaýatynyň iň uly derýasy, Poýan kölüne guýýar",
+        "riverXiangjiang": "Sýan derýasy",
+        "riverXiangjiangDesc": "856 km, Hunan welaýatynyň iň uly derýasy, Duntin kölüne guýýar",
+        "riverMinjiang": "Min derýasy",
+        "riverMinjiangDesc": "577 km, Fuçžian welaýatynyň iň uly derýasy",
+        "riverQiantang": "Sýantan derýasy",
+        "riverQiantangDesc": "688 km, Çžeçžian welaýatynyň iň uly derýasy, aýratyn tolkunlary bilen meşhur",
+        "riverWeihe": "Weýhe derýasy",
+        "riverWeiheDesc": "818 km, Sary derýanyň iň uly şahasy, Guançžun düzlüginiň esasy derýasy",
+        "riverLuohe": "Luohe derýasy",
+        "riverLuoheDesc": "447 km, Sary derýanyň günorta şahasy, Luoýan şäheri şu derýadan at alýar",
+        "riverDaduhe": "Dadu derýasy",
+        "riverDaduheDesc": "1062 km, Min derýasynyň iň uly şahasy, Luzdin köprüsi şu derýanyň üstünde"
+    },
+    "mapLegend": {
+        "title": "Köpri ululygy",
+        "small": "Kiçi (<30 m)",
+        "medium": "Orta (30–100 m)",
+        "large": "Uly (>100 m)"
+    },
+    "year": {
+        "unknown": "Ýyly näbelli",
+        "bc": "B.e.öň {n}",
+        "ad": "B.e. {n}"
+    },
+    "dynasty": {
+        "unknown": "Näbelli döwür",
+        "preSui": "Suýdan öň",
+        "sui": "Suý hanlygy",
+        "tang": "Taň hanlygy",
+        "five": "Bäş hanlyk we on patyşalyk",
+        "song": "Suň hanlygy",
+        "yuan": "Ýuan hanlygy",
+        "ming": "Miň hanlygy",
+        "qing": "Çiň hanlygy"
+    },
+    "dynastyShort": {
+        "sui": "Suý",
+        "tang": "Taň",
+        "five": "5H10P",
+        "song": "Suň",
+        "yuan": "Ýuan",
+        "ming": "Miň",
+        "qing": "Çiň"
+    },
+    "material": {
+        "unknown": "Näbelli",
+        "石": "Daş",
+        "木": "Agaç",
+        "铁": "Demir",
+        "竹": "Bambuk",
+        "砖": "Kerpiç",
+        "混凝土": "Beton",
+        "石/木": "Daş / agaç",
+        "木/石": "Agaç / daş",
+        "铁/石": "Demir / daş",
+        "竹/木": "Bambuk / agaç",
+        "青砖+青石": "Gök kerpiç we daş",
+        "石梁": "Daş şöhle",
+        "木材": "Agaç material",
+        "青石": "Gök daş",
+        "条石": "Ýonulan daş",
+        "石板": "Daş plita",
+        "石梁+石墩": "Daş şöhle we sütün",
+        "青白石": "Ak mermer",
+        "花岗岩": "Granit",
+        "铁链/木": "Demir zynjyr / agaç",
+        "铁/木": "Demir / agaç",
+        "钢": "Polat"
+    },
+    "region": {
+        "other": "Başga",
+        "华东": "Gündogar Hytaý",
+        "华北": "Demirgazyk Hytaý",
+        "华中": "Merkezi Hytaý",
+        "华南": "Günorta Hytaý",
+        "西南": "Günorta-günbatar",
+        "西北": "Demirgazyk-günbatar",
+        "东北": "Demirgazyk-gündogar",
+        "古代": "Gadymy"
+    },
+    "popup": {
+        "builtYear": "Gurlan {year} ý.",
+        "provinceUnknown": "Näbelli",
+        "viewDetail": "Jikme-jik →"
+    },
+    "dock": {
+        "jumpYearTitle": "Basyp wagt şkalasyny şu köpri görünýän ýyla geçiriň",
+        "edgeAfter": "Soňky köpri ýok",
+        "edgeBefore": "Öňki köpri ýok",
+        "edgeAfterDetail": "Häzirki merkezden soň köpri ýok (ýyly ≤ 1920 tertip boýunça).",
+        "edgeBeforeDetail": "Doly wagt tertibinde öňki köpri ýok.",
+        "noPhoto": "Surat ýok"
+    },
+    "load": {
+        "done": "{count} köpri ýüklenildi (koordinatasyz ýa-da ýyly ýok setirler geçirildi).",
+        "failed": "Maglumat ýüklenmedi:"
+    },
+    "famous": {
+        "btnLabel": "⭐ Meşhur köprüler"
+    },
+    "search": {
+        "placeholder": "Köpri gözle…",
+        "noResult": "Köpri tapylmady"
+    },
+    "tree": {
+        "title": "🌳 Köpri nawigatory",
+        "empty": "Maglumat ýok",
+        "poemFilter": "📜 Goşguly köprüler"
+    },
+    "csvDynasty": {
+        "战国时期": "Söweşýän döwletler",
+        "汉代": "Han nesilşalygy",
+        "六朝时期": "Alty nesilşalyk",
+        "唐宋时期": "Taň-Suň",
+        "宋元时期": "Suň-Ýuan",
+        "明清时期": "Miň-Çiň",
+        "未知": "Näbelli"
+    },
+    "csvProvince": {
+        "河北": "Hebeý", "河南": "Henan", "山西": "Şansi", "山东": "Şandoň",
+        "陕西": "Şaansi", "甘肃": "Gansu", "四川": "Syçuan", "云南": "Ýunnan",
+        "贵州": "Guýçžou", "广东": "Guangdoň", "广西": "Guangsi",
+        "福建": "Fujian", "浙江": "Çžejiang", "江苏": "Jiangsu", "安徽": "Anhuý",
+        "江西": "Jiangsi", "湖南": "Hunan", "湖北": "Hubeý", "北京": "Pekin",
+        "天津": "Týanszin", "上海": "Şanhaý", "重庆": "Çunsin",
+        "新疆": "Sinszýan", "西藏": "Tibet", "内蒙古": "Içki Mongoliýa", "宁夏": "Ninsiýa",
+        "青海": "Sinhaý", "吉林": "Szilin", "辽宁": "Lýaonin", "黑龙江": "Heýlunszýan",
+        "海南": "Haýnan", "台湾": "Taýwan", "未知": "Näbelli"
+    },
+    "warn": {
+        "noPlayableBridges": "[Bridge] Oýnatmak üçin köpri ýok (ýyl ≤ 1920 we Hytaý çägindäki koordinatalar). Oýnatma duruzyldy — maglumaty barlaň ýa-da wagt şkalasyny elde süýşüriň."
+    }
+}

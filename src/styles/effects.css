@@ -1,0 +1,114 @@
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(201, 163, 78, 0.06);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--gold);
+    border-radius: 3px;
+    opacity: 0.6;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--gold-bright);
+}
+
+@keyframes glow-pulse {
+    0%,
+    100% {
+        box-shadow:
+            0 0 8px var(--marker-color, #d4af37),
+            0 0 12px rgba(255, 255, 255, 0.3);
+    }
+    50% {
+        box-shadow:
+            0 0 16px var(--marker-color, #d4af37),
+            0 0 28px var(--marker-color, #d4af37),
+            0 0 12px rgba(255, 255, 255, 0.4);
+    }
+}
+
+@keyframes marker-enter {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.bridge-marker {
+    will-change: box-shadow, opacity;
+}
+
+.bridge-marker.marker-enter {
+    opacity: 0;
+    animation: marker-enter 0.4s ease-out forwards;
+}
+
+.bridge-marker.marker-visible {
+    animation: glow-pulse 2.5s ease-in-out 0.4s infinite;
+    opacity: 1;
+}
+
+.bridge-marker.marker-hover {
+    animation: none;
+    opacity: 1;
+    box-shadow:
+        0 0 24px var(--marker-color, #d4af37),
+        0 0 40px var(--marker-color, #d4af37),
+        0 0 16px rgba(255, 255, 255, 0.5);
+    transition: box-shadow 0.2s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease forwards;
+}
+
+@media (max-width: 768px) {
+    .main-header {
+        flex-direction: column;
+        gap: 15px;
+        padding: 15px 20px;
+    }
+
+    .header-content h1 {
+        font-size: 1.8rem;
+    }
+
+    .header-stats {
+        gap: 25px;
+    }
+
+    .stat-value {
+        font-size: 1.5rem;
+    }
+
+    .timeline-panel {
+        width: 95%;
+        padding: 15px 20px;
+    }
+
+    .stats-panel,
+    .analysis-panel {
+        width: 280px;
+    }
+
+    .modal-content {
+        width: 95%;
+    }
+}

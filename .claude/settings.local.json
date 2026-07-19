@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk -F',' '{print $2\"  经=\"$4\"  纬=\"$5\"  \\(\"$6\"\\)\"}')",
+      "Bash(node --input-type=module -e ' *)",
+      "Bash(echo \"ts installed: $?\")",
+      "WebFetch(domain:lbs.tianditu.gov.cn)",
+      "Read(//Users/lirui/Documents/lyric/上海理工大学/竞赛/古桥/**)",
+      "Bash(textutil -convert txt -stdout \"附件3-公开地图内容表示规范.docx\")",
+      "Read(//private/tmp/**)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" \"http://127.0.0.1:5173/\")",
+      "Bash(curl -s \"http://127.0.0.1:5173/\")",
+      "Bash(curl -s \"http://127.0.0.1:5173/src/app/main.ts\")",
+      "Bash(curl -s -o /dev/null -w \"/@vite/client HTTP %{http_code}\\\\n\" \"http://127.0.0.1:5173/@vite/client\")",
+      "Bash(pkill -f \"vite --config\")",
+      "Bash(rm -rf node_modules/.vite)",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w \"/ → HTTP %{http_code}\\\\n\" \"http://localhost:5173/\")",
+      "Bash(curl -s -o /dev/null -w \"tile → HTTP %{http_code}\\\\n\" \"http://localhost:5173/tdt/vec_w/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=vec&STYLE=default&TILEMATRIXSET=w&FORMAT=tiles&TILEMATRIX=4&TILEROW=6&TILECOL=12&tk=cb035a1bbd0a0824846a41fae3dd457d\")",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" --max-time 5 http://localhost:5173/)",
+      "Bash(unzip -p \"附件3-公开地图内容表示规范.docx\" word/document.xml)",
+      "Bash(unzip -p \"../附件3-公开地图内容表示规范.docx\" word/document.xml)"
+    ]
+  }
+}

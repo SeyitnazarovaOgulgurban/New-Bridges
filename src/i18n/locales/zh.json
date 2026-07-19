@@ -1,0 +1,220 @@
+{
+    "meta": { "pageTitle": "中国桥梁文化 · 时空演进" },
+    "app": {
+        "title": "中国桥梁文化",
+        "subtitle": "跨越千年的建筑智慧 · 时空演进数字档案"
+    },
+    "lang": { "selectorLabel": "语言", "selectorAria": "界面语言" },
+    "stats": {
+        "historicalBridges": "历史名桥",
+        "dynastiesSpanned": "跨越朝代",
+        "provincesCovered": "覆盖省份"
+    },
+    "timeline": {
+        "title": "⏱ 时空演进",
+        "playPause": "播放/暂停",
+        "reset": "重置",
+        "speedHint": "每座桥停留时长",
+        "speedSlow": "慢速",
+        "speedNormal": "正常",
+        "speedFast": "快速",
+        "legendStone": "石桥",
+        "legendWood": "木桥",
+        "legendIron": "铁桥",
+        "legendMixed": "混合"
+    },
+    "statsPanel": { "title": "📊 数据洞察" },
+    "chart": {
+        "dynasty": "朝代分布",
+        "material": "材质分布",
+        "region": "区域分布"
+    },
+    "modal": {
+        "labelYearBuilt": "建造年代",
+        "labelLocation": "所在地",
+        "labelType": "桥梁类型",
+        "labelMaterial": "建筑材质",
+        "labelLength": "桥长",
+        "labelSpan": "跨度",
+        "unranked": "未定级",
+        "unknown": "未知",
+        "meterUnit": "米",
+        "meterValue": "{n} 米",
+        "adYear": "公元 {year} 年"
+    },
+    "poem": {
+        "sectionTitle": "📜 相关诗词",
+        "historyTitle": "📖 历史故事",
+        "originalLanguageNote": "以下诗词为汉语古典原文。"
+    },
+    "analysis": {
+        "title": "🔗 关联分析",
+        "showTradeRoutes": "显示商道",
+        "showWaterways": "显示历史水道",
+        "showClusters": "显示桥梁聚集区",
+        "routeSilk": "丝绸之路",
+        "routeTeaN": "茶马古道·川藏线",
+        "routeTeaS": "茶马古道·滇藏线",
+        "routeCanal": "京杭大运河",
+        "routeCanalDesc": "元代至元三十年（1293年）全线贯通，北起北京、南至杭州，全长约1794公里，是世界上最长的人工运河",
+        "routeSilkDesc": "西汉张骞出使西域后形成的东西方贸易要道，从长安经河西走廊通往中亚",
+        "routeTeaNDesc": "从成都经雅安、泸定至拉萨的北线茶马商道",
+        "routeTeaSDesc": "从昆明经大理、丽江至拉萨的南线茶马商道",
+        "riverYangtze": "长江",
+        "riverYangtzeDesc": "全长6300余公里，中国第一大河，流经青、藏、川、滇、渝、鄂、湘、赣、皖、苏、沪等11省市",
+        "riverHuanghe": "黄河",
+        "riverHuangheDesc": "全长5464公里，中华文明发祥地，流经青、甘、宁、蒙、陕、晋、豫、鲁等9省区",
+        "waterwayLingqu": "灵渠",
+        "waterwayLingquDesc": "秦始皇三十三年（前214年）开凿，沟通湘江与漓江，是世界最古老的运河之一",
+        "waterwayHangou": "邗沟",
+        "waterwayHangouDesc": "吴王夫差于前486年开凿，连接长江与淮河，中国大运河最早的河段",
+        "waterwayTongji": "通济渠",
+        "waterwayTongjiDesc": "隋炀帝大业元年（605年）开凿，自洛阳经开封通往淮河，隋唐大运河的核心段",
+        "waterwayYongji": "永济渠",
+        "waterwayYongjiDesc": "隋炀帝大业四年（608年）开凿，自洛阳向北直达涿郡（今北京），北征高丽的运输要道",
+        "waterwayJiangnan": "江南运河",
+        "waterwayJiangnanDesc": "隋炀帝大业六年（610年）贯通，自镇江经常州、苏州至杭州，江南富庶之地的水运命脉",
+        "waterwayHuitong": "会通河",
+        "waterwayHuitongDesc": "元至元二十六年（1289年）开凿，纵贯山东，使运河截弯取直不再绕道洛阳",
+        "waterwayBeiyun": "北运河",
+        "waterwayBeiyunDesc": "元至元三十年（1293年）通航，从天津直达大都（北京），京杭大运河最北段",
+        "waterwayZhongyun": "中运河",
+        "waterwayZhongyunDesc": "元代开凿，连接淮安至济宁，取代隋唐通济渠的南北直线新航道",
+        "waterwayZhedong": "浙东运河",
+        "waterwayZhedongDesc": "春秋时期（约前490年）即有雏形，自杭州经绍兴至宁波，沟通钱塘江与甬江",
+        "riverZhujiang": "珠江",
+        "riverZhujiangDesc": "全长2320公里，中国南方最大河流，流经云、贵、桂、粤等省，注入南海",
+        "riverHuaihe": "淮河",
+        "riverHuaiheDesc": "全长1000公里，中国南北地理分界线，流经豫、皖、苏三省",
+        "riverHaihe": "海河",
+        "riverHaiheDesc": "华北最大水系，汇集五大支流于天津入海，流域面积26.5万平方公里",
+        "riverSonghua": "松花江",
+        "riverSonghuaDesc": "全长1927公里，黑龙江最大支流，流经吉林、黑龙江两省",
+        "riverLiaohe": "辽河",
+        "riverLiaoheDesc": "全长1345公里，东北地区南部主要河流，流经内蒙古、吉林、辽宁",
+        "riverHanjiang": "汉江",
+        "riverHanjiangDesc": "全长1577公里，长江最大支流，流经陕、鄂两省，古称汉水",
+        "riverGanjiang": "赣江",
+        "riverGanjiangDesc": "全长766公里，江西省最大河流，纵贯南北注入鄱阳湖",
+        "riverXiangjiang": "湘江",
+        "riverXiangjiangDesc": "全长856公里，湖南省最大河流，自南向北注入洞庭湖",
+        "riverMinjiang": "闽江",
+        "riverMinjiangDesc": "全长577公里，福建省最大河流，流经南平、福州入海",
+        "riverQiantang": "钱塘江",
+        "riverQiantangDesc": "全长688公里，浙江省最大河流，以钱塘潮闻名天下",
+        "riverWeihe": "渭河",
+        "riverWeiheDesc": "全长818公里，黄河最大支流，流经甘肃、陕西，关中平原的母亲河",
+        "riverLuohe": "洛河",
+        "riverLuoheDesc": "全长447公里，黄河南岸重要支流，洛阳因此河得名，河洛文化发源地",
+        "riverDaduhe": "大渡河",
+        "riverDaduheDesc": "全长1062公里，岷江最大支流，流经川西高原，泸定桥即横跨此河"
+    },
+    "mapLegend": {
+        "title": "桥梁规模",
+        "small": "小型 (<30m)",
+        "medium": "中型 (30-100m)",
+        "large": "大型 (>100m)"
+    },
+    "year": {
+        "unknown": "年代不详",
+        "bc": "公元前 {n} 年",
+        "ad": "公元 {n} 年"
+    },
+    "dynasty": {
+        "unknown": "年代不详",
+        "preSui": "隋前",
+        "sui": "隋朝",
+        "tang": "唐朝",
+        "five": "五代十国",
+        "song": "宋朝",
+        "yuan": "元朝",
+        "ming": "明朝",
+        "qing": "清朝"
+    },
+    "dynastyShort": {
+        "sui": "隋",
+        "tang": "唐",
+        "five": "五代",
+        "song": "宋",
+        "yuan": "元",
+        "ming": "明",
+        "qing": "清"
+    },
+    "material": {
+        "unknown": "未知",
+        "石": "石",
+        "木": "木",
+        "铁": "铁",
+        "竹": "竹",
+        "砖": "砖",
+        "混凝土": "混凝土",
+        "石/木": "石/木",
+        "木/石": "木/石",
+        "铁/石": "铁/石",
+        "竹/木": "竹/木",
+        "青砖+青石": "青砖+青石",
+        "石梁": "石梁",
+        "木材": "木材",
+        "青石": "青石",
+        "条石": "条石",
+        "石板": "石板",
+        "石梁+石墩": "石梁+石墩",
+        "青白石": "青白石",
+        "花岗岩": "花岗岩",
+        "铁链/木": "铁链/木",
+        "钢": "钢"
+    },
+    "region": { "other": "其他" },
+    "popup": {
+        "builtYear": "建于 {year} 年",
+        "provinceUnknown": "未知",
+        "viewDetail": "查看详情 →"
+    },
+    "dock": {
+        "jumpYearTitle": "点击将时间轴调至该桥已进入视线的年份",
+        "edgeAfter": "已无后续",
+        "edgeBefore": "已无更前",
+        "edgeAfterDetail": "在「建造年不晚于 1920」的全表时间序中，当前中心之后已无更多桥梁。",
+        "edgeBeforeDetail": "在全表时间序中，当前中心之前已无更多桥梁。",
+        "noPhoto": "暂无配图"
+    },
+    "load": {
+        "done": "加载了 {count} 座桥梁数据（已跳过缺坐标/年代无法解析的行）",
+        "failed": "加载数据失败:"
+    },
+    "famous": {
+        "btnLabel": "⭐ 著名桥梁"
+    },
+    "search": {
+        "placeholder": "搜索桥梁…",
+        "noResult": "未找到匹配的桥梁"
+    },
+    "tree": {
+        "title": "🌳 桥梁导航",
+        "empty": "暂无数据",
+        "poemFilter": "📜 古诗词桥梁"
+    },
+    "csvDynasty": {
+        "战国时期": "战国时期",
+        "汉代": "汉代",
+        "六朝时期": "六朝时期",
+        "唐宋时期": "唐宋时期",
+        "宋元时期": "宋元时期",
+        "明清时期": "明清时期",
+        "未知": "未知"
+    },
+    "csvProvince": {
+        "河北": "河北", "河南": "河南", "山西": "山西", "山东": "山东",
+        "陕西": "陕西", "甘肃": "甘肃", "四川": "四川", "云南": "云南",
+        "贵州": "贵州", "广东": "广东", "广西": "广西",
+        "福建": "福建", "浙江": "浙江", "江苏": "江苏", "安徽": "安徽",
+        "江西": "江西", "湖南": "湖南", "湖北": "湖北", "北京": "北京",
+        "天津": "天津", "上海": "上海", "重庆": "重庆",
+        "新疆": "新疆", "西藏": "西藏", "内蒙古": "内蒙古", "宁夏": "宁夏",
+        "青海": "青海", "吉林": "吉林", "辽宁": "辽宁", "黑龙江": "黑龙江",
+        "海南": "海南", "台湾": "台湾", "未知": "未知"
+    },
+    "warn": {
+        "noPlayableBridges": "[Bridge] 当前没有可参与播放的桥梁（需建造年≤1920且坐标在中国范围内）。已停止播放，请检查数据或仅拖动时间轴浏览。"
+    }
+}

@@ -1,0 +1,199 @@
+.stats-panel {
+    position: fixed;
+    top: 120px;
+    right: 20px;
+    width: 260px;
+    max-height: calc(65vh - 150px);
+    transition: width 0.3s ease;
+    background:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='p'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.6' numOctaves='5' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23p)' opacity='0.07'/%3E%3C/svg%3E"),
+        linear-gradient(180deg, rgb(245, 235, 215), rgb(238, 225, 200));
+    border: 2px solid var(--frame-color);
+    border-radius: 14px;
+    z-index: 100;
+    overflow: hidden;
+    box-shadow:
+        0 6px 28px rgba(40, 25, 10, 0.2),
+        0 2px 6px rgba(0, 0, 0, 0.08),
+        inset 0 1px 0 rgba(255, 255, 255, 0.25);
+}
+
+.stats-panel::before {
+    content: '';
+    position: absolute;
+    inset: 3px;
+    border: 1px solid rgba(201, 163, 78, 0.25);
+    border-radius: 11px;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    border-bottom: 1px solid rgba(201, 163, 78, 0.2);
+}
+
+.panel-header h3 {
+    color: var(--gold);
+    font-size: 1rem;
+    letter-spacing: 2px;
+}
+
+.toggle-btn {
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    background: transparent;
+    color: var(--text-light);
+    cursor: pointer;
+    font-size: 1.2rem;
+    line-height: 1;
+}
+
+.toggle-btn:hover {
+    border-color: var(--gold);
+    color: var(--gold);
+}
+
+.panel-content {
+    padding: 10px;
+    max-height: 420px;
+    overflow-y: auto;
+    transition: all 0.3s ease;
+}
+
+.panel-content.collapsed {
+    max-height: 0;
+    padding: 0 15px;
+    overflow: hidden;
+}
+
+.stats-panel .panel-content:not(.collapsed) {
+    max-height: 560px;
+    overflow-y: hidden;
+}
+
+.chart-container {
+    margin-bottom: 8px;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.chart-container .chart-zoom-btn {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    z-index: 5;
+    width: 22px;
+    height: 22px;
+    border-radius: 4px;
+    border: 1px solid var(--border-color);
+    background: rgba(245, 235, 215, 0.85);
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 13px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+.chart-container:hover .chart-zoom-btn {
+    opacity: 1;
+}
+
+.chart-container .chart-zoom-btn:hover {
+    border-color: var(--gold);
+    color: var(--gold);
+}
+
+.chart-container.chart-expanded .chart-zoom-btn {
+    opacity: 1;
+}
+
+.chart-container.chart-expanded .chart {
+    height: clamp(220px, calc(65vh - 220px), 320px);
+}
+
+.panel-content.has-expanded .chart-container:not(.chart-expanded) {
+    display: none;
+}
+
+.stats-panel.panel-expanded,
+.stats-panel:has(.has-expanded) {
+    width: 400px;
+}
+
+.stats-panel.panel-collapsed {
+    width: 260px;
+}
+
+.stats-panel.panel-collapsed .panel-content {
+    display: none;
+    max-height: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.analysis-panel.panel-collapsed .panel-content {
+    display: none;
+    max-height: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.chart {
+    width: 100%;
+    height: clamp(86px, calc((65vh - 235px) / 3), 150px);
+    transition: height 0.3s ease;
+}
+
+.panel-resize-grip {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 18px;
+    height: 18px;
+    cursor: nwse-resize;
+    background: linear-gradient(
+        135deg,
+        transparent 40%,
+        var(--border-color) 40%,
+        var(--border-color) 50%,
+        transparent 50%,
+        transparent 65%,
+        var(--border-color) 65%,
+        var(--border-color) 75%,
+        transparent 75%
+    );
+    opacity: 0.5;
+    border-radius: 0 0 14px 0;
+    z-index: 10;
+    transition: opacity 0.2s;
+    touch-action: none;
+}
+
+.panel-resize-grip:hover {
+    opacity: 1;
+}
+
+.panel-resize-grip--top-left {
+    top: 0;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    border-radius: 14px 0 0 0;
+    transform: rotate(180deg);
+}
+
+.panel-is-resizing,
+.panel-is-resizing * {
+    cursor: nwse-resize !important;
+    user-select: none;
+}
