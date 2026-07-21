@@ -5018,5 +5018,770 @@
     "level": "Döwlet derejesinde goragly möhüm taryhy-medeni ýadygärlik",
     "history": "Puxiu köprüsi Hunanyň Huaihua şäherindäki Tongdao Dong awtonom etrabynda Pingtan derýasynyň üstünden geçýär. Ol Çiň döwrüniň Çianlong ýyllarynda gurlup, suw joşmasynda ýykylýar we 1803-nji ýylda täzeden dikeldilýär. Uzynlygy 57,7 m, ini 4,2 m bolan agaç gurluş köprini, ýapyk geçelgäni we pawilýonlary birleşdirýär. Köprüde däp bolan agaç gözenekli penjireler bilen bezelen 21 ýapyk bölüm we üç pawilýon bar. Iki gapdal pawilýon üç gat erňekli, merkezi pawilýon bolsa ýedi gat dykyz erňekli. Onuň üçegindäki gara palçyk guş şemalda aýlanyp, ses çykaryp bilýär we köpriniň özboluşly keşbini güýçlendirýär.",
     "dynastyTag": "Çiň döwri"
+  },
+  "br_new_213": {
+    "name": "Simahui köprüsi",
+    "province": "Zhejiang",
+    "type": "daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Simahui köprüsi Zhejiang welaýatynyň Şaosing şäherindäki taryhy daş köprüleriň biridir. Ol ilki Song dinastiýasy döwründe gurlup, şäheriň kanal ulgamy arkaly ýaşaýjylaryň we söwdagärleriň möhüm geçelgesi bolup hyzmat edipdir. Asyrlaryň dowamynda birnäçe gezek täzeden dikeldilip, Jiangnan sebitiniň däp bolan köpri gurluşygynyň ajaýyp nusgasy bolup galýar.",
+    "dynastyTag": "Song dinastiýasy"
+  },
+  "br_new_214": {
+    "name": "Sanjie köprüsi",
+    "province": "Jiangxi",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Etrap derejesindäki medeni miras ýadygärligi",
+    "history": "Sanjie köprüsi Jiangxi welaýatyndaky ýerli derýanyň üstünden geçýär. Ol goňşy obalary birleşdirmek üçin gurlup, köp asyrlaryň dowamynda ýerli ilatyň esasy geçelgeleriniň biri bolup hyzmat edipdir.",
+    "dynastyTag": "Demirgazyk Song dinastiýasy"
+  },
+  "br_new_215": {
+    "name": "Zhaikou köprüsi",
+    "province": "Zhejiang",
+    "type": "daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Zhaikou köprüsi Şaosingiň gadymy daş köprüleriniň biridir. Ol kanallar bilen bölünen ilatly ýerleri birleşdirmek üçin gurlupdyr. Taryhy dowamynda birnäçe gezek abatlanan hem bolsa, öz däp bolan daş gurluşyny saklap galypdyr.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_216": {
+    "name": "Maoyang köprüsi",
+    "province": "Zhejiang",
+    "type": "daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Maoyang köprüsi Zhejiang welaýatynyň Şaosing şäherinde ýerleşýär. Min dinastiýasy döwründe gurlan bu köpri köp asyrlaryň dowamynda ýerli ilata hyzmat edip, sebitiň iň gowy saklanyp galan taryhy köprüleriniň biri bolup durýar.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_217": {
+    "name": "Tanggong köprüsi",
+    "province": "Zhejiang",
+    "type": "daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Tanggong köprüsi Şaosing şäherindäki kanalyň iki kenaryndaky ýaşaýyş ýerlerini birleşdirmek üçin gurlupdyr. Ol taryhy dowamynda birnäçe gezek abatlanan hem bolsa, öz gadymy daş kemerli görnüşini saklap galypdyr.",
+    "dynastyTag": "Çing dinastiýasy"
+  },
+  "br_new_218": {
+    "name": "Sanjiangzha köprüsi",
+    "province": "Zhejiang",
+    "type": "daş şöhleli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Sanjiangzha köprüsi Şaosing şäherindäki taryhy Sanjiang suw derwezesiniň golaýynda ýerleşýär. Ol şäheriň suw dolandyryş ulgamy bilen baglanyşykly möhüm ulag geçelgesi bolup hyzmat edipdir.",
+    "dynastyTag": "Çing dinastiýasy"
+  },
+  "br_new_219": {
+    "name": "Kuiyuan köprüsi",
+    "province": "Zhejiang",
+    "type": "daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Kuiyuan köprüsi Şaosing şäheriniň iň gowy saklanyp galan gadymy köprüleriniň biridir. Ol köp asyrlaryň dowamynda kanalyň iki kenaryndaky ýaşaýyş ýerlerini birleşdirip, Jiangnan sebitiniň däp bolan köpri gurluşyk usullaryny görkezýär.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_220": {
+    "name": "Dongwei köprüsi",
+    "province": "Zhejiang",
+    "type": "daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Dongwei köprüsi Zhejiang welaýatynyň Şaosing şäherindäki taryhy daş köprüleriň biridir. Ol ilki Min dinastiýasy döwründe gurlup, şäheriň kanal ulag ulgamynyň möhüm bölegi bolup hyzmat edipdir. Häzirki wagtda hem öz gadymy binagärlik aýratynlyklaryny saklap galýar.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_221": {
+    "name": "Daqing köprüsi",
+    "province": "Zhejiang",
+    "type": "üç gözli tertipsiz daşdan gurlan kemerli köpri",
+    "material": "daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Daqing köprüsi, Zhenzhao Daqing köprüsi diýlip hem atlandyrylýar. Ol Xinchang etrabynyň Zhenzhao obasynyň günbatarynda, Huangze derýasynyň ýokarky goşandy bolan Zhenzhao çeşmesiniň üstünde ýerleşýär. Üç kemerli köpriniň uzynlygy 56 metr, kemerleriniň gerimleri bolsa 13, 13,9 we 13,2 metrdir. Ol Şaosingdäki iň uzyn daş kemerli köprüleriň biridir. Köpri ilki Çing dinastiýasynyň Jiaqing döwründe tekiz köpri hökmünde gurlupdyr, emma suw joşguny zerarly ýumrulypdyr. Yu Weiqianyň ýolbaşçylygyndaky obalylar ony 1861-nji ýylda täzeden gurupdyrlar. Gurluşyk ýedinji aýyň ýedinji güni tamamlanandygy üçin oňa Daqing köprüsi diýlipdir.",
+    "dynastyTag": "Çing dinastiýasy; 1861-nji ýylda täzeden gurlan"
+  },
+  "br_new_222": {
+    "name": "Ruanshe köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli nal görnüşli daş kemerli köpri",
+    "material": "daş",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Ruanshe köprüsi Şaosingdäki Gündogar Zhejiang kanalynyň kenarynda ýerleşýär. Ol Günorta Song döwründe 1201-nji ýylda tamamlanan Jiatai Kuaiji ýyl ýazgysynda agzalýar. Köpriniň ady golaýda ýerleşen Tang döwrüniň Ruanshe Jiaosi ybadathanasy bilen baglanyşykly bolup biler. Köpri Çing dinastiýasynyň Guangxu döwründe we 1947-nji ýylda ýerli şerap söwdagärleriniň serişdeleri bilen abatlandy. Onuň nal görnüşli kemeriniň egri burçy 272 gradus bolup, köpri üýtgeýän giňlikli kemer gurluşynyň möhüm nusgasy hasaplanýar.",
+    "dynastyTag": "Günorta Song dinastiýasy"
+  },
+  "br_new_223": {
+    "name": "Xianning köprüsi",
+    "province": "Hubei",
+    "type": "bir gözli daş şöhleli köpri",
+    "material": "ýonulan daş",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Şaosingiň daş köprüleri baradaky ýazgylara görä, Xianning köprüsi Çing dinastiýasynyň Jiaqing döwrüniň ýedinji ýylynda, ýagny 1802-nji ýylda gurlupdyr. Ol demirgazykdan günorta tarap uzalýan, takmynan 15 metr uzynlykdaky kiçi daş şöhleli köprüdir.",
+    "dynastyTag": "Çing dinastiýasy, 1802"
+  },
+  "br_new_224": {
+    "name": "Fangche köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli daş şöhleli köpri",
+    "material": "ýonulan daş",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Fangche köprüsi uzak taryha eýedir we golaýdaky Guanyin ybadathanasy bilen baglanyşdyrylýar. Ýerli rowaýata görä, Wuyue patyşasy Qian Liu düýşünde bir gözel zenanyň beren dermanyndan soň göz keselinden gutulypdyr. Başga bir rowaýat köprini Yue patyşasy Goujianiň aýaly bilen baglanyşdyrýar. Goujian Wu döwletinden ýeňlip, zamun hökmünde äkidilenden soň, halk onuň aýalynyň ýüplük egirip we mata dokap geçýän daş köprüsine Fangche, ýagny Çarh köprüsi diýip at beripdir.",
+    "dynastyTag": "Gadymy gelip çykyş; soňky dinastiýalarda saklanyp galan"
+  },
+  "br_new_225": {
+    "name": "Kualong köprüsi",
+    "province": "Guangdong",
+    "type": "üç gözli daş kemerli köpri",
+    "material": "granit",
+    "level": "Guangzhou şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Kualong köprüsi öň Jielong köprüsi diýlip atlandyrylyp, Guangzhoudaky Xinqiao çeşmesiniň üstünden geçýär. Ol Min dinastiýasy döwründe gurlup, 1567–1572-nji ýyllarda baý ýerli ýaşaýjy Wang Tianxiangyň serişdeleri bilen abatlandy. 1669-njy ýylda obalylar agaç köprini daş sütünli agaç şöhleli köprä öwürdiler. 1713-nji ýylda bolsa ol granit daş kemerli köpri hökmünde täzeden guruldy. Köpri 1746-njy we 1911-nji ýyllarda hem abatlandy. Häzirki köpri üç kemerden ybarat bolup, uzynlygy 23,6 metrdir.",
+    "dynastyTag": "Min dinastiýasy; Çing döwründe täzeden gurlan"
+  },
+  "br_new_226": {
+    "name": "Ji'an köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli ýarym tegelek daş kemerli köpri",
+    "material": "daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Ji'an köprüsi Xinchang etrabynyň taryhy merkezinden takmynan altmyş li gündogarda ýerleşýän Qiuwu obasynda ýerleşýär. Respublikanyň döwründe taýýarlanan Xinchang etrap ýyl ýazgysyna görä, köpriniň gurluşygy üçin serişdeleri ýygnamak işini Wu Zhonghuai we Wu Xiaozhen gurapdyr. Gündogar-günbatar ugurly köpriniň uzynlygy 39,9 metr, gerimi bolsa 19,87 metrdir.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_227": {
+    "name": "Hehu köprüsi (Dengying köprüsi)",
+    "province": "Zhejiang",
+    "type": "köp gözli daş şöhleli joşgun köprüsi",
+    "material": "daş",
+    "level": "Şaosing şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Taryhy ady Dengying bolan Hehu köprüsi 1585-nji ýylda Puzhao atly ruhanynyň serişde ýygnamagy netijesinde gurlupdyr. 1688-nji ýylda köpri we iki kenardaky bent ýollary abatlandy. Häzirki esasy gurluş Çing dinastiýasynyň Qianlong döwründäki giň gerimli täzeden gurluşykdan galypdyr. Köpriniň ilkibaşda dört beýik we on pes gözden ybarat jemi on dört gözi bolupdyr, soňra olaryň sany ona çenli azaldylypdyr. Beýgelip-peselýän köpri üsti suwuň üstünde ýatan uzyn aždarha meňzeýär.",
+    "dynastyTag": "Min dinastiýasy; Çing döwründe täzeden gurlan"
+  },
+  "br_new_228": {
+    "name": "Xin'an köprüsi",
+    "province": "Hunan",
+    "type": "bir gözli gyzyl çäge daşly kemerli ýapyk köpri",
+    "material": "gyzyl çäge daşy we agaç",
+    "level": "Hunan welaýat derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Xin'an köprüsi Hunanyň Liuyang şäheriniň Shegang şäherçesindäki Hesheng obasynda ýerleşýär. Ol 1474-nji ýylda ýerli Xun urugynyň agzalary tarapyndan gurlupdyr. Köpriniň bir gyzyl çäge daşly kemeri we çüý ulanylmazdan, agaç birleşdiriş usuly bilen gurlan ýel-ýagyş pawilýony bar. Köpri 1529-njy ýylda ilkinji gezek abatlandy, 1947-nji ýylda gök daşdan düşek goýuldy we 2010-njy ýylda öňki görnüşine laýyklykda täzeden dikeldildi.",
+    "dynastyTag": "Min dinastiýasy, 1474"
+  },
+  "br_new_229": {
+    "name": "Yongjia köprüsi",
+    "province": "Sichuan",
+    "type": "bäş gözli daş kemerli köpri",
+    "material": "ýonulan daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Yongjia köprüsi 1796-njy ýylda gurlup, Luxian etrabyndaky Jiuqu derýasynyň üstünden geçýär. Onuň bir bölegi 1825-nji ýylda suw joşguny zerarly ýumruldy we bir ýyl soň abatlandy. Köpriniň dört sütüni, bäş kemeri bolup, uzynlygy 50,12 metr, ini 7,13 metrdir. Öň köpriniň sütünleriniň we kemerleriniň üstünde dokuz aždarha heýkeli bolupdyr, emma olar Medeni ynkylap döwründe ýok edilipdir. Saklanyp galan daş ýazgy köpriniň adyny we taryhyny beýan edýär.",
+    "dynastyTag": "Çing dinastiýasy, 1796"
+  },
+  "br_new_230": {
+    "name": "Linghe köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli ýarym tegelek tertipsiz daş kemerli köpri",
+    "material": "iri daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Linghe köprüsi Xinchang etrabynyň Xiaojiang obasynyň girelgesinde, Xiaojiang çeşmesiniň üstünde ýerleşýär. Ol Çing dinastiýasynyň Guangxu döwründe, 1878–1879-njy ýyllarda gurlupdyr. Köpriniň uzynlygy 28 metr, ini 5 metr we gerimi 18 metrdir. Köpri üsti we basgançaklary çagyl daşlary bilen düşelipdir. Dag suwlarynyň güýçli akymyna garşy durnuklylygyny artdyrmak üçin kemeriň üstünde on dört sany uly daş ýerleşdirilipdir.",
+    "dynastyTag": "Giçki Çing dinastiýasy, 1878–1879"
+  },
+  "br_new_231": {
+    "name": "Xiwei köprüsi (Xianyang köprüsi)",
+    "province": "Shaanxi",
+    "type": "taryhy köpri ýeri; häzirki demirbeton konsol köpri",
+    "material": "demirbeton",
+    "level": "Taryhy ulag ýadygärligi",
+    "history": "Xiwei köprüsi Bian köprüsi we Xianyang köprüsi diýlip hem atlandyrylypdyr. Ol ilkinji gezek Günbatar Han imperatory Wudi döwründe, biziň eýýamymyzdan öňki 138-nji ýylda häzirki Xianyangyň günortasynda gurlupdyr. Köpri Chang'andan Günbatar ýurtlara we Sichuana barýan möhüm ýoluň bir bölegi bolupdyr. Tang imperatory Taizong şu ýerde gündogar türk hökümdary Illig Qaghan bilen duşuşypdyr. Tang döwründe köpri ýolagçylary ugratmak we hoşlaşmak bilen baglanyşykly goşgularda meşhur bolupdyr. Gadymy köpri saklanmadyk hem bolsa, bu geçelge häzir hem möhüm ulag ýoludyr.",
+    "dynastyTag": "Günbatar Han döwründe gurlan; Tang döwründe meşhur bolan"
+  },
+  "br_new_232": {
+    "name": "Wanshan ýüzýän köprüsi",
+    "province": "Zhejiang",
+    "type": "ýüzýän köpri",
+    "material": "polat we ýüzýän pontonlar",
+    "level": "Taryhy landşaft desgasy",
+    "history": "Wanshan köprüsi Yiwunyň Fotang şäherçesinde Yiwu derýasynyň üstünden geçýän ýüzýän köprüdir. Ol parom hyzmatynyň ýeterlik bolmandygy sebäpli ýerli abraýly adamlaryň we ilatyň serişdeleri bilen 1760–1763-nji ýyllarda gurlupdyr. 1960-njy ýyllarda ulag zerurlygy üçin kem-kemden daş sütünli beton köpri bilen çalşyryldy. Taryhy ýüzýän köprini dikeltmek üçin 2013-nji ýylda ýerli başlangyç başlandy. Adaty görnüşli häzirki polat ponton köpri 2017-nji ýylda tamamlandy.",
+    "dynastyTag": "Çing döwründe gurlan; 2017-nji ýylda täzeden dikeldilen"
+  },
+  "br_new_233": {
+    "name": "Chengbo köprüsi",
+    "province": "Jiangxi",
+    "type": "bäş gözli agaç konsolly ýapyk köpri",
+    "material": "agaç we daş",
+    "level": "Jiangxi welaýat derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Chengbo köprüsi Yanshan etrabynyň Hufang şäherçesinde Chenfang derýasynyň üstünden geçýär. Ol 630-njy ýylda Tang döwründe Chengbo atly ruhanynyň serişde ýygnamagy bilen gurlup, onuň ady bilen atlandyrylypdyr. Rowaýata görä, gurluşyk wagtynda köpri sütüni gaýta-gaýta suwa çümüpdir, şonda ruhany hasa taşlap, çuň suwy çäge adasyna öwrüpdir. Häzirki köpri 1866-njy ýylda halkyň serişdeleri bilen täzeden gurlupdyr. Onuň dört sütüni, bäş gözi we takmynan 80 metr uzynlygyndaky ýapyk agaç gurluşy bar.",
+    "dynastyTag": "Tang döwründe gurlan; 1866-njy ýylda täzeden dikeldilen"
+  },
+  "br_new_234": {
+    "name": "Jinlan köprüsi",
+    "province": "Hunan",
+    "type": "üç gözli daş kemerli köpri",
+    "material": "granit",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Jinlan köprüsi öň Altyn Sebet köprüsi diýlip atlandyrylypdyr we Jinqiao şäherçesiniň hökümet binasynyň golaýynda ýerleşýär. Ol Min dinastiýasynyň Wanli döwrüniň başynda ýerli daýhan Zhou Jideniň ýolbaşçylygynda halkdan serişde we zähmet ýygnalyp gurlupdyr. Köpriniň ady Budda rowaýatyndaky ýitirilen gymmatly zat bilen baglanyşyklydyr. Köpriniň üç kemeri bolup, uzynlygy 25 metr, ini 6 metrdir.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_235": {
+    "name": "Waishan köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli bäşburç görnüşli daş kemerli köpri",
+    "material": "daş",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Waishan köprüsi Min dinastiýasy döwründe gurlup, Çing döwründe birnäçe gezek abatlandy. Ol Şaosinge mahsus bäşburç görnüşli daş kemerli köprüdir. Gadymda bu ýer daglyk sebit bilen düzlükleriň araçäginde ýerleşipdir. Köpriniň demirgazyk basgançagynyň öňünde derwezeli kerpiç pawilýon bolup, ol gündiz açylyp, agşam bolsa ýabany haýwanlaryň oba girmeginiň öňüni almak üçin ýapylypdyr. Köpri daşky daglardan gelýän howplara garşy päsgelçilik bolandygy sebäpli Waishan köprüsi diýlip atlandyrylypdyr.",
+    "dynastyTag": "Min dinastiýasy; Çing döwründe abatlanan"
+  },
+  "br_new_236": {
+    "name": "Huacheng köprüsi",
+    "province": "Zhejiang",
+    "type": "üç gözli daş kemerli pyýada köprüsi",
+    "material": "ýonulan daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Huacheng köprüsi Tang köprüsi we Puguang köprüsi diýlip hem atlandyrylýar. Ol Huzhou şäherindäki Shuanglin kanalynyň üstünden geçýär we döwlet tarapyndan goralýan Shuangliniň üç köprüsiniň biridir. Köpri 1314–1320-nji ýyllarda Huacheng ybadathanasynyň ruhanysynyň serişde bermegi bilen agaçdan gurlupdyr. Soňra kerpiçden täzeden gurlup, Min döwründe üç gözli daş köprä öwrüldi. 1630-njy we 1793-nji ýyllarda abatlandy. Min we Çing döwründe söwdagärleri hem-de gijeki gaýyklary ugrukdyrmak üçin köpriniň üstünde ýagtylandyrylan beýik sütün bolupdyr.",
+    "dynastyTag": "Ýuan döwründe gurlan; Min we Çing döwründe täzeden dikeldilen"
+  },
+  "br_new_237": {
+    "name": "Jindou köprüsi",
+    "province": "Fujian",
+    "type": "bir gözli daş plitaly köpri",
+    "material": "daş",
+    "level": "Fuzhou şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Jindou köprüsi Fuzhoudaky Wenrufang köçesiniň günbatar girelgesinde Antai derýasynyň üstünden geçýär. Ol Qiong derýasynyň goralýan ýedi köprüsiniň biridir. Köpri iň giç 901-nji ýylda, Wang Shenzhi Fuzhounyň daşky gorag şäherini guranda bina edilipdir. Ol günorta-günbatar şäher derwezesi bolan Jindou derwezesiniň daşyndaky gorag hendeginiň üstünde ýerleşipdir. Köpri 1818-nji we 1986-njy ýyllarda abatlandy.",
+    "dynastyTag": "Giçki Tang dinastiýasy"
+  },
+  "br_new_238": {
+    "name": "Dengci köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Zhejiang welaýat derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Dengci köprüsi Jiushi köprüsi we Dengshi köprüsi diýlip hem atlandyrylýar. Ol Şaosingiň Shangyu etrabyndaky Fenghui şäherçesinde ýerleşýär. Köpriniň kemeri kese ýagdaýda biri-biriniň gapdalynda goýlan daşlardan gurlupdyr; bu usul Şaosing sebitinde seýrek duşýar. Köpri Song döwrüniň ýazgylarynda agzalýar we onda 1215-nji ýyldaky abatlaýyş barada ýazgy bar. Dengci ybadathanasynyň ruhanylary 1343-nji ýylda ony täzeden gurmak üçin serişde ýygnapdyrlar. Köpri 1583-nji ýylda hem abatlandy.",
+    "dynastyTag": "Song döwründe gurlan; Ýuan we Min döwründe täzeden dikeldilen"
+  },
+  "br_new_239": {
+    "name": "Shuangxi ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "ýapyk agaç şöhleli köpri",
+    "material": "ýonulan daş we arça agajy",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Shuangxi ýel-ýagyş köprüsi Fuchuan Yao awtonom etrabynyň Chaodong şäherçesindäki Dongshui obasynda ýerleşýär. Ol Çing dinastiýasynyň Guangxu döwründe, 1885-nji ýylda gurlupdyr. Köpriniň sütünleri we diregleri ýonulan daşdan, agaç şöhleleri hem-de üstüniň düşegi arça agajyndan gurlupdyr. Köpriniň üstünde ýedi bölümli ýapyk geçelge we däp bolan agaç gurluşly, çal kerpiçli pawilýon ýerleşýär.",
+    "dynastyTag": "Giçki Çing dinastiýasy, 1885"
+  },
+  "br_new_240": {
+    "name": "Yulong köprüsi",
+    "province": "Guangxi",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "ýonulan daş",
+    "level": "Yangshuo etrabynyň möhüm medeni ýadygärligi",
+    "history": "Yulong köprüsi Yangshuo etrabynyň Yulong obasynda Yulong derýasynyň üstünden geçýär. Ol Min dinastiýasynyň Yongle döwründe, 1412-nji ýylda gurlupdyr. Uzynlygy 36 metr bolan köpri ýonulan daşlaryň gury usulda örülmegi bilen gurlup, Guangxide saklanyp galan iň uly bir gözli daş köpri hasaplanýar. Rowaýata görä, döwlet synagyna barýan bir alym güýçli tupan sebäpli derýadan geçip bilmändir. Aždarha şazadasy oňa kömek edipdir. Alym üstünlik gazanandan soň minnetdarlyk hökmünde bu daş köprini gurduryp, oňa Yulong, ýagny Aždarha bilen duşuşmak adyny beripdir.",
+    "dynastyTag": "Min dinastiýasy, 1412"
+  },
+  "br_new_241": {
+    "name": "Bailiang köprüsi",
+    "province": "Zhejiang",
+    "type": "ýedi gözli daş sütünli agaç ýapyk köpri",
+    "material": "agaç we daş",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Bailiang köprüsi Ningbodaky Huijiang obasynda Yin derýasynyň üstünden geçýär. Öňki ýüzýän köpriniň ýerine Zhu Wenwei we onuň ogly tarapyndan Demirgazyk Song döwründe, 1078-nji ýylda agaç şöhleli köpri hökmünde täzeden gurlupdyr. Köpriniň uzynlygy 77,4 metr bolup, üstüni saklamak üçin 124 sany iri arça agajy ulanylypdyr. Onuň adynyň hem şol köp sanly agaç şöhlelerden gelip çykandygy aýdylýar. Köpriniň üstünde kerpiç üçekli 23 bölümli ýapyk geçelge ýerleşýär.",
+    "dynastyTag": "Demirgazyk Song dinastiýasy, 1078"
+  },
+  "br_new_242": {
+    "name": "Wuyanzha köprüsi",
+    "province": "Zhejiang",
+    "type": "bäş gözli daş şöhleli bent-köpri",
+    "material": "daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Wuyanzha köprüsi Biantuozha diýlip hem atlandyrylýar we Şaosingdäki Qixian obasynda ýerleşýär. Ol taryhy suw derwezesi bilen birleşdirilen bäş gözli daş şöhleli köprüdir. Uly daş diregleriň we dört merkezi sütüniň içinde suw derwezelerini ýokary-aşak hereket etdirmek üçin dik oýuklar bar. Üçburç suw bölekleýjiler akymyň güýjüni azaldýar. Ýazgylara görä, suw derwezesi 1511-nji ýylda Shanyin etrabynyň häkimi Zhang Huan tarapyndan gurlupdyr. 1803-nji ýyldan soň günorta derweze köpri hökmünde ulanylyp başlandy.",
+    "dynastyTag": "Min dinastiýasy, 1511; Çing döwründe köprä öwrülen"
+  },
+  "br_new_243": {
+    "name": "Zhugong köprüsi",
+    "province": "Fujian",
+    "type": "merkezi sütünli iki gözli daş kemerli köpri",
+    "material": "ýonulan daş",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Zhugong köprüsi Lianjiang etrabynyň Zhugong obasynda Baiyan çeşmesiniň üstünden geçýär we gadymy Fuzhou-Wenzhou poçta ýolunyň bir bölegi bolupdyr. Ilkinji gurluşyk wagty belli däl. Öňki agaç köpri suw joşgunlary sebäpli ýygy-ýygydan ýumrulypdyr. 1058-nji ýylda etrap häkimi Zhu Ding halkdan serişde ýygnap, ony daş köpri hökmünde täzeden gurdurypdyr. Ýerli halk onuň hyzmatyny hormatlap, köprä we çeşmä onuň adyny beripdir. Häzirki iki gözli daş kemerli köpri 1977-nji ýylda gurlup, öňki köprüden galan iki daş arslany saklapdyr.",
+    "dynastyTag": "1058-nji ýylda Demirgazyk Song döwründe täzeden gurlan; häzirki köpri 1977-nji ýylda gurlan"
+  },
+  "br_new_244": {
+    "name": "Xiachuan köprüsi",
+    "province": "Zhejiang",
+    "type": "üç gözli daş şöhleli köpri",
+    "material": "gök daş we iri daş",
+    "level": "Goralýan medeni miras ýadygärligi",
+    "history": "Xiachuan köprüsi demirgazykdan günorta tarap uzalýan üç gözli daş şöhleli köprüdir. Onuň üç köpri gözi we iki sütüni kölüň suwuny üç akyma bölýär. Uzakdan seredilende bu görnüş hytaý dilindäki derýa manysyny berýän chuan nyşanyna meňzeýär. Gün ýaşanda gyzyl agşam bulutlarynyň şöhlesi köpriniň gözlerinden geçip, asuda suwuň ýüzünde şöhlelenýär. Şu owadan görnüş sebäpli köprä Xiachuan ady berlipdir.",
+    "dynastyTag": "Song dinastiýasy"
+  },
+  "br_new_245": {
+    "name": "Chang'an köprüsi (Xingfu köprüsi)",
+    "province": "Zhejiang",
+    "type": "bir gözli daş kemerli ýapyk köpri",
+    "material": "çagyl, ownuk daş we agaç",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Chang'an köprüsi, Xingfu köprüsi diýlip hem atlandyrylýar. Ol Ningbodaky Xikou şäherçesiniň Qixiakeng obasynda ýerleşýär. Häzirki köpri Çing dinastiýasynyň Tongzhi döwrüniň başynda täzeden gurlupdyr, ýöne ýerli ýazgylarda ondan öňki Min ýa-da irki Qianlong döwrüne degişli köpri barada hem maglumat bar. Uzynlygy 18 metr bolan köpri Junxi çeşmesiniň üstünden geçýär. Onuň kemeri we üsti çagyl hem-de ownuk daşlardan gurlup, üstündäki agaç ýapyk geçelge adamlary gün we ýagyşdan goraýar.",
+    "dynastyTag": "Ilkinji döwri anyk däl; Çing döwründe täzeden gurlan"
+  },
+  "br_new_246": {
+    "name": "Lequ köprüsi",
+    "province": "Zhejiang",
+    "type": "üç gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Xinchang etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Lequ köprüsi Zhejiang welaýatynyň Şaosing şäherine degişli Xinchang etrabynyň Ru'ao şäherçesindäki Nanshan obasynda ýerleşip, Wannian çeşmesiniň üstünden geçýär. Häzirki üç gözli daş kemerli köpri Çing dinastiýasynyň Guangxu döwrüniň ýigrimi birinji ýylynda, 1895-nji ýylda Yang Guilin, Li Guibin we beýleki adamlaryň ýygnan serişdeleri bilen täzeden gurlupdyr. Köpriniň ady Lequ köprüsiniň daş ýazgysyndaky 'ýagşylyk etmek iň uly şatlykdyr' we 'adamlardan alyp, ony ýagşylyk üçin ulanmak' diýen düşünjelerden gelip çykýar. Köpriniň uzynlygy 34 metr, ini 4 metr we beýikligi 7,35 metrdir. Üç kemeriniň gerimleri 8,2, 9,2 we 8,2 metrdir. Köpride uzaboýuna birleşdirilen kemer daşlary, akymyň güýjüni bölýän uçly sütün, bitewi daş germewler, basgançakly girişler we gurluşyk hem-de sadaka ýazgylary saklanýan pawilýon bar. Köpri taryhda birnäçe gezek suw joşgunlary zerarly ýumrulypdyr. Häzirki gurluş Guangxu döwründen galyp, gündogar Zhejiangyň däp bolan daş kemerli köpri gurluşyk usullarynyň möhüm nusgasydyr. Ol 2006-njy ýylda Xinchang etrabynyň medeni miras ýadygärligi hökmünde bellige alyndy.",
+    "dynastyTag": "Çing dinastiýasy, 1895-nji ýylda täzeden gurlan"
+  },
+  "br_new_247": {
+    "name": "Liulihe köprüsi",
+    "province": "Beijing",
+    "type": "on bir gözli daş kemerli köpri",
+    "material": "granit",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Liulihe köprüsi Pekiniň Fangshan etrabyndaky Liulihe şäherçesinde, Liuli derýasynyň üstünde ýerleşýär. Ol Fangshan etrabyndaky iň uly daş kemerli köpri bolup, sebitiň taryhy köprüleriniň arasynda ululygy boýunça diňe Lugou köprüsinden soň durýar. Imperator Yongle 1418-nji ýylda köprini gurmagy buýrupdyr, ol 1545-nji ýylda Min dinastiýasynyň Jiajing döwründe abatlandy. Taryhda köpri Liangxiangiň sekiz ajaýyp görnüşiniň birinjisi bolan 'Yangu uzyn köprüsi' hökmünde tanalypdyr. Demirgazyk-günorta ugurly köpriniň on bir daş kemeri bolup, merkezi kemeri iň ulusydyr. Onuň uzynlygy takmynan 191 metr, ini 11 metr we beýikligi 8 metrdir. Kemerleriň ýokarsynda suwy dolandyrýan haýwanlaryň kelleleriniň oýma şekilleri, germewlerde we sütünlerde bolsa bezeg nagyşlary bar. Köpri üstünde ýüzlerçe ýyllap demir okly arabalaryň geçmegi netijesinde emele gelen çuň tigir yzlary saklanyp galypdyr. Köpri 2013-nji ýylda döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik hökmünde bellige alyndy.",
+    "dynastyTag": "Min dinastiýasy, 1418"
+  },
+  "br_new_248": {
+    "name": "Qinglong ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "bir gözli daş kemerli ýapyk köpri",
+    "material": "daş, kerpiç we agaç",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Qinglong köprüsi Guangxiniň Fuchuan Yao awtonom etrabynda ýerleşýär. Ol Huilan köprüsi bilen bilelikde adatça Yin-Yang köprüleri diýlip atlandyrylýar. Köpri Min dinastiýasynyň Tianqi döwrüniň dördünji ýylynda, 1624-nji ýylda gurlup başlanypdyr. Ol bir gözli daş kemerden, ýapyk geçelgeden, merkezi köpri pawilýonyndan we köp gatly derweze binasyndan ybaratdyr. Pawilýonyň iki ýapgytly, dört gyraly däp bolan üçegi we sütün-şöhle görnüşli agaç gurluşy bar. Günorta tarapynda iki gatly üçekli, üç gatly kerpiç-agaç bina ýerleşýär. Onuň günorta, demirgazyk we gündogar taraplarynda girişleri bar. Her gatyň daşynda otuz iki sany nagyşly agaç penjire bolup, sütünler lotos görnüşli tegelek daş esaslaryň üstünde durýar. Birinji gatyň içki diwarlarynda birnäçe taryhy daş ýazgy ýerleşdirilipdir.",
+    "dynastyTag": "Min dinastiýasy, 1624"
+  },
+  "br_new_249": {
+    "name": "Xinjiang köprüsi",
+    "province": "Zhejiang",
+    "type": "häzirki zaman köp gözli şäher köprüsi",
+    "material": "iri daş, ýonulan daş, demirbeton we polat",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Xinjiang köprüsi Zhejiang welaýatynyň Ningbo şäherinde Yao derýasynyň üstünden geçýän möhüm köprüdir. Ol Zhongshan Gündogar ýoly bilen Jiangxia köçesiniň çatrygyndan Yangshan ýoly bilen Renmin ýolunyň çatrygyna çenli aralykda ýerleşip, Yao derýasynyň Yong derýasyna goşulmazyndan öňki iň soňky köprüdir. Bu ýerde ilkinji köpri 1862-nji ýylda britaniýalylar tarapyndan ýüzýän köpri görnüşinde gurlupdyr. 1970-nji ýylda onuň ýerine üç gözli demirbeton goşa egri kemerli köpri guruldy. Gurluşdaky agyr kemçilikler sebäpli köne köpri 2006-njy ýylyň sentýabrynda iň howply E derejesine degişli diýlip yglan edildi we ýapyldy. Wagtlaýyn köpri 2007-nji ýylyň ýanwarynda açyldy, şol ýylyň ahyrynda bolsa köne köpri sökülip başlandy. Hemişelik täze köpriniň gurluşygy 2013-nji ýylda başlanyp, onuň bir tarapy 2015-nji ýylyň sentýabrynda ulag üçin açyldy. Täze köpri taryhy kemer görnüşli bezeg aýratynlyklaryny dowam etdirýär we alty ulag zolagyndan ybaratdyr.",
+    "dynastyTag": "Ilkinji gezek 1862-nji ýylda gurlan; häzirki köpri XXI asyrda täzeden gurlan"
+  },
+  "br_new_250": {
+    "name": "Haitang köprüsi",
+    "province": "Guangxi",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "toprak we daş",
+    "level": "Hengzhou şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Haitang köprüsi Guangxiniň Hengzhou şäherindäki Haitang seýilgähinde ýerleşip, Xiangdao çeşmesiniň üstünden geçýär. Rowaýatlara görä, köpriniň ilkinji gurluşy Tang dinastiýasyna degişlidir, häzirki toprak-daş gurluşy bolsa Çing dinastiýasynyň Qianlong döwründe, 1742-nji ýylda täzeden gurlupdyr. Köpriniň uzynlygy 32 metr, ini 4 metr we beýikligi 8 metrdir. Ol gadymy Hengzhou şäherinden günbatar tarapa gidýän möhüm ýol bolup hyzmat edipdir. Köpriniň ady Demirgazyk Song döwrüniň şahyry Qin Guanyň sürgünde bu ýere gelende ýazyp geçen crabapple gülleri baradaky setirleri bilen baglanyşyklydyr. Qin Guan köpriniň golaýynda okuw jaýyny açypdyr, bu ýer soňra Huaihai akademiýasyna öwrülipdir. Şeýle hem onuň ýerli ýaşaýjylara ýüpek gurçugyny ösdürmegi öwredendigi aýdylýar. Onuň Ýüpek gurçuklary hakyndaky traktaty Hytaýda saklanyp galan iň irki ýöriteleşdirilen ýüpekçilik eserleriniň biri hasaplanýar.",
+    "dynastyTag": "Tang döwründe gelip çykan; 1742-nji ýylda Çing döwründe täzeden gurlan"
+  },
+  "br_new_251": {
+    "name": "Yuantong köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "gök daş we iri daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Yuantong köprüsi, gadymy ady bilen Xuantong köprüsi, Zhejiang welaýatynyň Hangzhou şäherine degişli Lin'an etrabynyň Qingshanhu köçesindäki Dongxiaogong obasynyň Gongli ilatly ýerinde ýerleşýär. Ol Günorta Song dinastiýasynyň Chunxi döwründe, 1184-nji ýylda gurlupdyr. Demirgazyk-günorta ugurly kiçi köpri oba çeşmesiniň üstünden geçýär. Onuň umumy uzynlygy 6,55 metr, peýdaly ini 2,7 metr, kemeriniň gerimi 1,8 metr we beýikligi 0,8 metrdir. Kemer üç bölek gök daş plitadan birleşdirilipdir, köpri diregleri bolsa tertipsiz iri daşlardan örülipdir. Köpri üstüniň iki tarapynda inedördül sütünler we oýukly bitewi daş germewler bar. Germewleriň iç ýüzünde Günorta Song döwründäki gurluşyk, Ýuan döwründäki abatlaýyş, Çing döwründäki köpri ady we seneler baradaky ýazgylar saklanyp galypdyr. Köpri öň Dongxiao köşgüne barýan dabaraly ýoluň möhüm pyýada geçelgesi bolupdyr. Ol 1988-nji ýylda etrap derejesinde goralýan medeni miras ýadygärligi hökmünde bellige alyndy.",
+    "dynastyTag": "Günorta Song dinastiýasy, 1184"
+  },
+  "br_new_252": {
+    "name": "Wuxian köprüleri",
+    "province": "Fujian",
+    "type": "gaýyk görnüşli sütünli daş plitaly köprüler toplumy",
+    "material": "daş",
+    "level": "Xiamen şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Wuxian köprüleri Fujian welaýatynyň Xiamen şäherine degişli Tong'an etrabynyň Wuxian şäherçesindäki üç taryhy daş köprüden ybaratdyr. Olar Ýuan dinastiýasynyň Dade döwründe, 1297–1307-nji ýyllaryň arasynda gurlupdyr. Wuxian birinji çeşme köprüsi Wuxian obasynyň günbatarynda ýerleşip, gaýyk görnüşli sütünlerden, sekiz sütün we dokuz gözden ybaratdyr. Her gözde üç sany uzyn daş plita ýerleşdirilipdir. Köpri Min dinastiýasynyň Chongzhen döwründe Kinmenli alym Chen Jiyunyň beren serişdeleri bilen abatlandy we häzirki wagtda Xiamen şäheriniň möhüm medeni ýadygärligidir. Wuxian ikinji çeşme köprüsi 1971-nji ýylda on ýedi gözli daş plitaly köpri hökmünde täzeden gurlupdyr. Wuxian üçünji çeşme köprüsi öň Anlu obasynyň demirgazygynda ýerleşip, üç sütünli we dört gözli bolupdyr, emma çeşmäniň ugruny üýtgetmegi sebäpli ýok bolupdyr. Taryhda bu köprüler Tong'andan Quanzhou şäherine gidýän gadymy ýoluň bölegi we Kinmen tarapa suw ulagynyň möhüm başlangyç nokady bolupdyr.",
+    "dynastyTag": "Ýuan dinastiýasy, 1297–1307"
+  },
+  "br_new_253": {
+    "name": "Qingshui suw derwezeli köprüsi",
+    "province": "Zhejiang",
+    "type": "taryhy suw derwezeli köpri",
+    "material": "daş we demirbeton",
+    "level": "Zhejiang welaýat derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Qingshui suw derwezeli köprüsi Şaosing şäheriniň Shangyu etrabyndaky Cao'e köçesine degişli Haoba obasynda ýerleşýär. Ol gadymy Jian köli bilen Cao'e derýasynyň arasyndaky möhüm baglanyşyk, Gündogar Zhejiang kanalynyň esasy suw-ulag merkezi we Xiaoshan–Şaosing deňiz bentleriniň tamamlanýan ýerini görkezýän taryhy desga bolupdyr. Onuň ilkinji görnüşi Demirgazyk Song döwründe, 1004–1007-nji ýyllarda gurlan Tongming suw derwezesine çenli uzap gidýär. Bu desga Shangyuda deňiz joşgunynyň öňüni almak, ekinleri suwarmak we artykmaç suwy çykarmak üçin gurlan iň irki suw desgalarynyň biri bolupdyr. Günorta Song döwrüniň başlarynda ulanyşdan galyp, 1208-nji ýylda we 1348-nji ýylda täzeden gurlupdyr. Häzirki desganyň taryhy Min dinastiýasynyň Jiajing döwründe, 1537-nji ýylda gurlan suw derwezesinden başlanýar. Öňki Haokou suw derwezesiniň daşynyň gyrmança bilen dolmagy sebäpli ol 1899-njy ýylda täze ýerde täzeden gurlupdyr. Çing döwründe suw joşgunlaryny çykarmak, Cao'e derýasynyň suwuny getirmek we gyrmançany arassalamak üçin goşmaça derwezeler hem-de suw ýollary gurlupdyr. 1966-njy ýylda bu desga Cao'e derýasynyň suw göteriji stansiýasynyň ulgamyna goşulyp, demirbeton derwezeler we elektrik hereketlendirijili göteriji enjamlar bilen enjamlaşdyryldy. 1973-nji we 1984-nji ýyllarda hem üýtgedilip hem-de abatlandy. Häzirki Tongming ýa-da Qingshui suw derwezesi 2017-nji ýylda Yao derýasynyň ýokarky akymyndaky günbatar suw çykaryş taslamasynyň çäginde täzeden gurlupdyr. 2011-nji ýylda ol Uly Kanalyň Bütindünýä mirasynyň sanawyna hödürlenişinde Shangyunyň esasy taryhy ýadygärligi hökmünde saýlanypdyr.",
+    "dynastyTag": "Demirgazyk Song döwründe gelip çykan; Min we Çing döwründe täzeden gurlan"
+  },
+  "br_new_254": {
+    "name": "Xianglin köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli ýedi döwük gyraly daş kemerli köpri",
+    "material": "daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Xianglin köprüsi Şaosing şäheriniň Shangyu etrabyndaky Daoxu şäherçesiniň Changlou obasynda ýerleşip, Yemaolong akymynyň üstünden geçýär. Ol Min dinastiýasyna degişli bir gözli daş kemerli köpri bolup, uzynlygy 17,8 metr, kemeriniň beýikligi 2,6 metrdir. Köpri seýrek duşýan ýedi döwük gyraly kemer gurluşyna eýedir. Onda Min dinastiýasynyň Chongzhen döwründe täzeden gurlandygy baradaky ýazgy we Çing dinastiýasynyň Guangxu döwründe, 1883-nji ýylda geçirilen abatlaýyş barada daş ýazgy saklanyp galypdyr. Köpriniň direglerinde Kuaiji we Shanyin etraplarynyň ýaşaýjylarynyň beren serişdeleri hem bellige alnypdyr. Ýerli taryha görä, iki kenaryň ýaşaýjylary golaýdaky Xianglin ybadathanasynyň ruhanylarynyň kömegi bilen köprini bilelikde dikeldipdirler. Köpriniň takmynan 25 metr demirgazyk-günbatarynda ýerleşýän Xianglin ybadathanasy bilen köpri bitewi taryhy binagärlik toplumyny emele getirýär. Xianglin köprüsi Şaosingde saklanyp galan ýeke-täk gadymy ýedi döwük gyraly daş kemerli köpri hasaplanýar we gündogar Zhejiangyň köpri gurluşyk usullaryny öwrenmek üçin möhüm maddy çeşmedir. Ol 2006-njy ýylda Shangyu şäher derejesinde goralýan medeni miras ýadygärligi hökmünde bellige alyndy.",
+    "dynastyTag": "Min dinastiýasy; Çing döwründe abatlanan"
+  },
+  "br_new_255": {
+    "name": "Diliu köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli ýarym tegelek daş kemerli köpri",
+    "material": "daş plitalar we iri daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Diliu köprüsi Shengzhou şäherindäki Xilü köprüsinden takmynan 500 metr günbatarda ýerleşýär. Ol Çing dinastiýasynyň Kangxi döwrüniň onunjy ýyly bolan 1671-nji ýyldan öň gurlan, ýönekeý we berk bir gözli ýarym tegelek daş kemerli köprüdir. Köpriniň uzynlygy 18 metr, ini 3,44 metr we beýikligi 4,2 metrdir. Kemeriniň arassa gerimi 5,8 metr, beýikligi bolsa 3,62 metrdir. Köpri üsti daş plitalar bilen düşelip, merkezinde inedördül daş ýerleşdirilipdir. Demirgazyk we günorta taraplarynyň hersinde dokuz sany daş basgançak bar. Kemer ýonulan uzyn daşlaryň gury usulda örülmegi bilen gurlup, gapdal diwarlary tertipsiz iri daşlardan örülipdir. Köpriniň golaýynda onuň Shengzhou şäheriniň goralýan medeni miras ýadygärligidigini görkezýän daş ýazgy bar.",
+    "dynastyTag": "Irki Çing dinastiýasy; 1671-nji ýyldan öň gurlan"
+  },
+  "br_new_256": {
+    "name": "Xugong köprüsi",
+    "province": "Jiangsu",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "granit we gök daş",
+    "level": "Suzhou şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Xugong köprüsi Jiangsu welaýatynyň Suzhou şäherine degişli Huaqiao şäherçesiniň Xugongqiao obasynda ýerleşýär. Ol Xugong çeşmesiniň üstünden gündogar-günbatar ugurda geçýän Çing döwrüniň bir gözli daş kemerli köprüsidir. Köpri Jiaqing döwrüniň on dördünji ýylynda, 1809-njy ýylda gurlup, 1820-nji ýylda abatlandy. Onuň uzynlygy 19,6 metr, ini 2,9 metr, kemeriniň arassa gerimi 7,1 metr we beýikligi 3,96 metrdir. Kemer uzaboýuna birleşdirilen, biri-biriniň gapdalynda ýerleşdirilen bölümler arkaly gurlupdyr. Köpri granit bilen gök daşyň birleşdirilmegi arkaly bina edilipdir. Kemeriniň depesindäki daşda Xugong köprüsi diýen at güberçek harplar bilen oýulyp, iki tarapynda jübüt ýazgylar ýerleşdirilipdir. 2018-nji ýyldaky abatlaýyş wagtynda kemerde has irki gurluşyk döwrüne degişli ýazgy tapylypdyr, emma onuň anyk senesi heniz doly kesgitlenmändir. Köpri 2018-nji ýylyň mart–maý aýlarynda taryhy görnüşini saklamak ýörelgesine laýyklykda abatlandy.",
+    "dynastyTag": "Çing dinastiýasy, 1809"
+  },
+  "br_new_257": {
+    "name": "Dongyuan ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "daş şöhleli ýapyk köpri",
+    "material": "daş, kerpiç we agaç",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Dongyuan ýel-ýagyş köprüsi Fuchuan Yao awtonom etrabynyň Chaodong şäherçesindäki Baimianzhai obasynyň ekin meýdanlarynyň arasynda ýerleşýär. Ol Çing dinastiýasynyň Qianlong döwrüniň otuz dördünji ýylynda, 1769-njy ýylda gurlupdyr. Köpri daş şöhleli gurluşa eýe bolup, üstüne gök kerpiç düşelipdir. Köpri üstünde bäş bölümli ýapyk geçelge we däp bolan sütün-şöhle usulynda gurlan, ownuk çal kerpiçli üçegi bolan pawilýon ýerleşýär. Köpriniň iki ujunda at kellesi görnüşli diwar-girişler gurlupdyr. Uzynlygy 15,4 metr bolan bu desga ýerli Yao sebitiniň häsiýetli ýapyk köpri binagärligini görkezýär.",
+    "dynastyTag": "Çing dinastiýasy, 1769"
+  },
+  "br_new_258": {
+    "name": "Longgui ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "agaç şöhleli ýapyk köpri",
+    "material": "ýonulan daş, arça agajy we agaç gurluş",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Longgui ýel-ýagyş köprüsi Fuchuan etrabynyň Chaodong şäherçesindäki Longgui obasynda ýerleşip, ekin meýdanlarynyň arasyndaky kiçi çeşmäniň üstünden geçýär. Ol Çing dinastiýasynyň Qianlong döwrüniň kyrkynjy ýylynda, 1775-nji ýylda gurlupdyr. Köpriniň diregleri we sütünleri ýonulan daşdan, esasy şöhleleri bolsa arça agajyndan ýasalypdyr. Agaç şöhleleriň üstüne tagtalar düşelip, köpri üsti döredilipdir. Onuň üstünde bäş bölümli, sütün-şöhle usulynda gurlan we ownuk çal kerpiçli üçek bilen ýapylan geçelge hem-de pawilýon bar. Iki ujunda at kellesi görnüşli diwar-girişler ýerleşýär. Köpriniň uzynlygy 14,3 metr, gerimi bolsa 7,91 metrdir.",
+    "dynastyTag": "Çing dinastiýasy, 1775"
+  },
+  "br_new_259": {
+    "name": "Xinglong ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "agaç şöhleli ýapyk köpri",
+    "material": "ýonulan daş, arça agajy we agaç gurluş",
+    "level": "Fuchuan Yao ýel-ýagyş köprüleri toplumynyň bir bölegi hökmünde goralýar",
+    "history": "Xinglong ýel-ýagyş köprüsi Hezhou şäheriniň Fuchuan etrabyna degişli Chaodong şäherçesiniň Chashan obasynda ýerleşip, obanyň içindäki kiçi çeşmäniň üstünden geçýär. Ol Çing dinastiýasynyň Jiaqing döwrüniň on sekizinji ýylynda, 1813-nji ýylda gurlupdyr. Köpriniň uzynlygy 22,34 metr, ini 6,2 metr, pawilýonynyň beýikligi bolsa takmynan 7,15 metrdir. Esasy gurluş arça agajyndan gurlup, üstüne agaç tagtalar düşelipdir. Köpriniň üstünde sekiz bölümli, ownuk çal kerpiçli üçegi bolan ýapyk geçelge we iki gatly, dört eňňitli pawilýon ýerleşýär. Köpri girişlerinde at kellesi görnüşli diwarlar bar. Xinglong köprüsi Chashan obasynyň esasy nyşanlarynyň biri bolup, baýramçylyklarda we myhmanlary garşylamak çärelerinde ýygnanyşyk ýeri hökmünde ulanylýar. Ol Fuchuandaky Yao ýel-ýagyş köprüleri toplumyna degişli bolup, köpriniň daşyndaky on metrlik çäk gorag zolagyna girýär. Soňky ýyllarda desgada abatlaýyş we gorag işleri geçirildi.",
+    "dynastyTag": "Çing dinastiýasy, 1813"
+  },
+  "br_new_260": {
+    "name": "Batuan ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "iki gatly, iki gözli we üç pawilýonly agaç ýapyk köpri",
+    "material": "agaç we daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Batuan köprüsi, Batuan ýel-ýagyş köprüsi diýlip hem atlandyrylýar. Ol Guangxiniň Liuzhou şäherine degişli Sanjiang Dong awtonom etrabynyň Dudong şäherçesindäki Batuan obasynyň golaýynda, Mengjiang derýasynyň üstünde ýerleşýär. Köpriniň gurluşygy Çing dinastiýasynyň Guangxu döwründe, 1896-njy ýylda başlanyp, 1910-njy ýylda tamamlandy. Gurluşyk on üç ýyl dowam edip, taslamany Shi Hanzhang, Wu Jintian we beýleki ussalar ýerine ýetiripdirler. Köpriniň uzynlygy 50 metr, iki kenar direginiň arasyndaky uzaklyk 30,14 metrdir. Onda iki göz, bir merkezi sütün we üç pawilýon bar. Gurluş görnüşi Chengyang köprüsine meňzeýär, emma pyýada geçelgesiniň gapdalynda mallar üçin aýratyn aşaky ýol gurlupdyr. Şeýlelikde, beýiklik tapawudy takmynan 1,5 metr bolan iki gatly agaç köpri emele gelipdir. Adamlaryň we mallaryň aýry ýollardan geçmegi pyýada geçelgesiniň arassa hem-de howpsuz bolmagyna we köpriniň hyzmat möhletiniň uzalmagyna ýardam edipdir. Bu aýratyn gurluş sebäpli köpri 'Dong halkynyň ýol çatrygy köprüsi' diýlip hem atlandyrylýar. Ol 2001-nji ýylda döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik hökmünde bellige alyndy.",
+    "dynastyTag": "Giçki Çing dinastiýasy, 1896–1910"
+  },
+  "br_new_261": {
+    "name": "Da'an köprüsi",
+    "province": "Guangxi",
+    "type": "ýedi gözli daş şöhleli köpri",
+    "material": "ýonulan daş we granit",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Da'an gadymy daş köprüsi Çing dinastiýasynyň Daoguang döwrüniň altynjy ýylynda, 1826-njy ýylda gurlupdyr we häzirki wagtda hem örän berk ýagdaýda saklanyp galýar. Ýerli rowaýata görä, köpriniň gurluşy 'Taiji iki başlangyjy döredýär, iki başlangyç dört görnüşi, dört görnüş bolsa sekiz trigrammany döredýär' diýen gadymy düşünjä esaslanypdyr. Köpriniň tutuş göwresi Taijini, iki esasy sütüni bolsa iki başlangyjy aňladýar. Sütünler gaýyk görnüşinde bolup, ýokarky akyma bakýan uçly bölekleri suwuň urgy güýjüni azaldýar. Köpri üsti ýedi aralyga bölünip, her aralyk takmynan bir chi giňlikdäki trapesiýa görnüşli daş zolaklar bilen örtülipdir. Daşlaryň giň tarapy ýokary, dar tarapy aşak goýlup, ýagşyň suwy bilen palçygyň daşlaryň arasyndan çykmagyna mümkinçilik döredilipdir. Demirgazyk ujundaky tebigy gaýa bolsa köprä goşmaça gorag berýär. Köpriniň çylşyrymly we oýlanyşykly inženerçilik gurluşy häzirki wagtda hem hünärmenler tarapyndan ýokary bahalandyrylýar.",
+    "dynastyTag": "Çing dinastiýasy, 1826"
+  },
+  "br_new_262": {
+    "name": "Jushan köprüsi",
+    "province": "Shanghai",
+    "type": "daş basgançakly bir gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Jiading etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Jushan köprüsi halk arasynda Qiu köprüsi diýlip tanalýar. Köpriniň gurluşygyna serişde berenleriň köpüsiniň aýallar bolandygy sebäpli oňa 'Aýallar köprüsi' hem diýlipdir. Ol Min dinastiýasynyň Hongwu döwründe, 1380-nji ýylda gurlup, 1612-nji ýylda täzeden gurlupdyr. Soňra 1864-nji we 1990-njy ýyllarda abatlandy. Köpri demirgazyk-günorta ugurda Lianqi derýasynyň üstünden geçýär. Ol bir gözli daş kemerli köpri bolup, uzynlygy takmynan 28 metr, ini 4 metrden gowrakdyr. Kemeriniň arassa gerimi 9,3 metr, beýikligi 5 metrdir. Köpri üsti daş basgançaklardan ybaratdyr. Köpriniň ýüzündäki ýazgylarda onuň ady, gurluşyk ýyllary we serişde beren adamlaryň atlary görkezilipdir. Bu köpri Jiadingiň gadymy köçe gurluşyny, ýerli medeni taryhyny we köpri binagärligini öwrenmek üçin möhüm ähmiýete eýedir. Ol 1992-nji ýylda Jiading etrabynyň, 2000-nji ýylda bolsa Jiading raýonynyň medeni miras ýadygärligi hökmünde bellige alyndy.",
+    "dynastyTag": "Min dinastiýasy, 1380"
+  },
+  "br_new_263": {
+    "name": "Fengyi köprüsi",
+    "province": "Sichuan",
+    "type": "ýedi gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Taryhy köpri ýadygärligi",
+    "history": "Fengyi köprüsi Pengzhou şäheriniň Danjingshan şäherçesindäki Shidongnian jemgyýetinde Yazi derýasynyň üstünden geçýär. Min dinastiýasynyň Wanli döwründe gurlan köpri dört ýüz ýyldan gowrak wagt bäri suwuň üstünde durýar we Pengzhou şäherinde saklanyp galan iň gadymy köpri hasaplanýar. Şeýle hem ol Jianjiang suwaryş miras ulgamyndaky iň möhüm suw gurluşyna degişli bolmadyk ýadygärlikleriň biridir. Köpriniň uzynlygy 70 metr, ini 5 metr we beýikligi 9 metrdir. Merkezi kemer iň uly bolup, iki tarapyndaky üç kemer kem-kemden kiçelýär. Şonuň üçin köpri üsti tebigy ýaý görnüşini emele getirip, uzakdaky daglaryň görnüşi bilen sazlaşýar. Köpriniň iň aýratyn bölegi sütünleriň ýokarky akym tarapyndaky balyk agzy görnüşli gurluşdyr. Dujiangyandaky balyk agzy görnüşli suw bölüji ýaly, ol suw joşgunyny bölýär, akymyň köprä göni urýan güýjüni azaldýar we dag suwunyň alyp gelýän agaçlaryny hem-de daşlaryny saklaýar. Bu gurluş günbatar Sichuan suw inženerligindäki suwa garşy göreşmän, onuň tebigy ugruny peýdalanmak ýörelgesini görkezýär.",
+    "dynastyTag": "Min dinastiýasy, Wanli döwri"
+  },
+  "br_new_264": {
+    "name": "Wanyuan köprüsi",
+    "province": "Jiangsu",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Jiangsu welaýat derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Wanyuan köprüsi Jiangsu welaýatynyň Changzhou şäherine degişli Xinbei etrabynyň Benniu şäherçesinde ýerleşip, köne Meng derýasynyň üstünden geçýär. Ol ilkinji gezek Song dinastiýasy döwründe gurlup, Çing dinastiýasynyň Guangxu döwründe, 1878-nji ýylda täzeden dikeldilipdir. Köpriniň ady onuň gurluşygy üçin müňlerçe öýden sadaka ýygnalandygy baradaky rowaýat bilen baglanyşyklydyr. Köpriniň depesiniň iki tarapynda ýerli halkyň 'gözelleriň oturgyjy' diýip atlandyrýan daş oturgyçlary ýerleşýär. Bu aýratynlyk Changzhou şäheriniň gadymy köprüleriniň arasynda diňe şu köpride duşýar. 1937-nji ýylda köpriniň golaýynda ýapon goşunlaryna garşy goranyş söweşi bolup geçipdir. Häzirki wagtda hem köpri gadymy şäherçäniň möhüm geçelgeleriniň biri bolup durýar. Ol 2011-nji ýylda Jiangsu welaýat derejesinde goralýan medeni miras ýadygärligi hökmünde bellige alyndy.",
+    "dynastyTag": "Song döwründe gurlan; 1878-nji ýylda Çing döwründe täzeden dikeldilen"
+  },
+  "br_new_265": {
+    "name": "Bitang köprüsi we gaçybatalga bendi",
+    "province": "Zhejiang",
+    "type": "köprüleri we daş pawilýony öz içine alýan taryhy daş bent",
+    "material": "ýonulan daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Bitang köprüsi, Yangcha kölüniň gaçybatalga bendi diýlip hem atlandyrylýar. Ol Şaosing şäheriniň Yuecheng etrabyndaky Lingzhi şäherçesinde Yangcha kölüniň üstünde ýerleşýär. Bu desga bir köpri däl-de, Min dinastiýasynyň Tianqi döwründe gurluşygyna başlanyp, 1642-nji ýylda tamamlanan uzyn daş bentdir. Onuň uzynlygy takmynan 3,5 kilometr, ini 2,3 metr bolup, demirgazyk-günorta ugurda uzalýar. Desga bitewi daş bentlerden, birnäçe daş köprüden we bir daş pawilýondan ybaratdyr. Bent güýçli şemalda gaýyklaryň gaçybatalgasy we gämi çekmek üçin ýol hökmünde hyzmat edipdir. Daşlar kese görnüşde örülip, olaryň arasynda biri-birine girýän oýukly birleşmeler ulanylypdyr. Gaýyklar köpri gözleriniň üsti bilen içki köle girip, şemaldan goralyp bilipdirler. Rowaýata görä, gaýyk heläkçiliginden aman galan bir daş ussasy bent gurmagy wada edipdir, emma bu işi tamamlap bilmändir. Soňra Kuaijili Zhang Xianchen alty müň kümüş liang serişde berip, gurluşygyň bäş ýylda tamamlanmagyna mümkinçilik döredipdir. Desganyň ilkinji ady Tianji bendi bolupdyr. Ol Çing döwründe we häzirki zamanda birnäçe gezek abatlandy. 1969-njy ýyldaky ýer özleşdiriş işlerinden soň günorta böleginiň takmynan iki kilometri adaty bende öwrüldi, demirgazykdaky 1,5 kilometrlik bölegi bolsa iki tarapyndan hem suw bilen gurşalan ýagdaýda galdy. Ol 2013-nji ýylda döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik, 2023-nji ýylda bolsa Zhejiang welaýatynyň möhüm suw hojalyk mirasynyň ilkinji sanawyna girizildi.",
+    "dynastyTag": "Min dinastiýasy, 1642-nji ýylda tamamlanan"
+  },
+  "br_new_266": {
+    "name": "Huangdu köprüsi",
+    "province": "Zhejiang",
+    "type": "uly bir gözli daş kemerli köpri",
+    "material": "ýonulan daş",
+    "level": "Xinchang etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Huangdu köprüsi taryhda Wangdu köprüsi we Hengdu köprüsi diýlip hem atlandyrylypdyr. Ol Zhejiang welaýatynyň Xinchang etrabynyň Ru'ao şäherçesindäki Hengduqiao obasynda ýerleşýär. Köpri demirgazyk-günorta ugurda Duxi çeşmesiniň üstünden, Xinchang bilen Tiantainy birleşdiren gadymy poçta ýolunda geçýär. Onuň ilkinji gurluşyk senesi belli däldir. 1477-nji ýyldaky Xinchang etrap ýyl ýazgysynda Wangdu köprüsi, 1579-njy ýyldaky ýazgyda bolsa Huangdu köprüsi hökmünde görkezilýär. Çing döwründen soň onuň ady başga bir hytaý harpy bilen Huangdu diýlip ýazylypdyr, 1950-nji ýyllaryň başynda bolsa Hengdu köprüsi diýlip üýtgedilipdir. 2019-njy ýylda köpriniň taryhy Huangdu ady gaýtaryldy. Köpri 1844-nji ýylda suw joşguny zerarly ýumrulyp, halkdan ýygnalan serişde bilen täzeden gurlupdyr. Häzirki gurluş 1851-nji ýylda tamamlandy. Rowaýata görä, soňra Günorta Song imperatory Gaozong bolan Zhao Gou Jin goşunlary tarapyndan yzarlananda şu ýerde derýadan geçmek üçin gudratly kömek alypdyr. Şonuň üçin köprä imperator geçelgesi manysyndaky Huangdu ady berlipdir. Köpriniň uzynlygy 23,9 metr, ini takmynan 4,5 metr, arassa gerimi bolsa 17 metre golaýdyr. Köpri göwresi we kemeri ýonulan daşlaryň biri-biriniň tikinini ýapýan görnüşde örülmegi bilen gurlupdyr. Iki tarapynda bitewi daş germewler we ak pil, arslan hem-de lotos şekilleri bilen bezelen sütünler bar. Kemerleriň biriniň ýüzünde 'Huangdu köprüsi' diýen ýazgy oýulypdyr. Köpriniň takmynan ýüz metr demirgazygynda Çing döwrüne degişli köpri ybadathanasy we köpriniň gurluşygy baradaky daş ýazgy saklanyp galypdyr.",
+    "dynastyTag": "Min döwrüniň ýazgylarynda agzalýar; häzirki köpri 1851-nji ýylda tamamlanan"
+  },
+  "br_new_267": {
+    "name": "Taiping köprüsi",
+    "province": "Jiangsu",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "ýonulan daş",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Taiping köprüsi diýen at Hytaýyň dürli ýerlerindäki birnäçe taryhy köpri we ilatly ýer üçin ulanylypdyr. Gongzhuling şäherindäki Taiping köprüsiniň gurluşygy 1910-njy ýylyň awgustynda ýapon kolonial häkimiýeti tarapyndan başlanyp, 1911-nji ýylda tamamlandy. Ol Gongzhuling demir ýol menziliniň demirgazyk bölegindäki ýollaryň üstünden geçýän polat pyýada köprüsi bolupdyr. Köpri üstüne galyň agaç tagtalar düşelip, olaryň arasyndaky yşlardan aşakdan geçýän otlylary görmek mümkin bolupdyr. Şonuň üçin ol ýerli ýaşaýjylar üçin özboluşly syn meýdançasyna öwrülipdir. Köpri demir ýoluň iki tarapyndaky ýaşaýyş ýerlerini birleşdirýän möhüm geçelge hökmünde hyzmat edip, 2000-nji ýyldan soň täze demir ýol menzili gurlanda sökülipdir. Köpriniň göwresi perçinlenen polat gurluşdan bolup, iki tarapynda doly ýapyk germewler bolmandyr. Agaç köpri üsti takmynan her bäş ýyldan çalşyrylypdyr. Golaýdaky ýapon harby tanklary üçin gurlan ýol galyndylary bilen bilelikde bu ýer basybalyş taryhynyň maddy şaýadydyr. Taiping adyny göterýän beýleki taryhy desgalar hem bar, şol sanda Fengjing gadymy şäherçesinde saklanyp galan bir gözli daş kemerli köpri we Cixi sebitindäki Hua urugy bilen baglanyşykly Çing döwrüniň köprüsi.",
+    "dynastyTag": "1910–1911-nji ýyllarda gurlan"
+  },
+  "br_new_268": {
+    "name": "Xilü köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Xilü köprüsi, ýerli atlandyrylyşynda Xiji köprüsi, Şaosing şäherine degişli Shengzhou şäheriniň Chongren şäherçesindäki Guangli obasynyň Kuixi obasynda, Kui çeşmesiniň üstünde ýerleşýär. Ol uzynlygy 10,2 metr, ini 3,6 metr we beýikligi 4,2 metr bolan bir gözli daş kemerli köprüdir. Merkezi kemer daşynyň ýüzüne 'Xilü köprüsi' diýen üç harp oýulypdyr. Gündogar Jin döwründe golaýdaky Huatian ybadathanasyna köp zyýaratçy gelipdir. Köpri olaryň we meýdana işlemäge gidýän obalylaryň geçmegini ýeňilleşdirmek üçin gurlupdyr. Rowaýata görä, 327–396-njy ýyllarda ýaşan meşhur alym, heýkeltaraş we terkidünýä Dai Kui köprä at bermek üçin çagyrylypdyr. Ol köpriniň üstünden geçende agaç köwşüniň arassa köpri üstünde palçyk yzlaryny galdyrandygyny görüpdir. Ötünç hökmünde derrew köwşüni çykaryp, ýuwup başlapdyr. Bu ýagdaýy gören obalylar köprä 'Aýakgabyny ýuwmak' manysyndaky Xilü adyny bermegi teklip edipdirler we Dai Kuä şol üç harpy ýazdyryp, köpriniň ýüzüne oýdurypdyrlar.",
+    "dynastyTag": "Gündogar Jin döwrüne degişli rowaýat"
+  },
+  "br_new_269": {
+    "name": "Hushang köprüsi",
+    "province": "Zhejiang",
+    "type": "ýarym tegelek daş kemerli köpri",
+    "material": "daş",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Hushang köprüsi Zhejiang welaýatynyň Şaosing şäherindäki Hushang obasynda ýerleşýär. Ol kese görnüşde birleşdirilen, biri-biriniň gapdalynda ýerleşýän kemer bölümlerinden gurlan ýarym tegelek daş kemerli köprüdir. Köpriniň uzynlygy 11 metr, beýikligi 4,2 metr, ini 3 metr, kemeriniň gerimi bolsa 4,5 metrdir. Köpri Çing dinastiýasyndan öň gurlup, Jian kölüniň suw ulgamynyň üstünden geçýän möhüm gadymy köprüleriň biridir.",
+    "dynastyTag": "Çing dinastiýasyndan öň gurlan"
+  },
+  "br_new_270": {
+    "name": "Shouchang köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli bitewi göwreli tegelek daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Shouchang köprüsi Zhejiang welaýatynyň Huzhou şäherine degişli Deqing etrabynyň Xiazhuhu köçesindäki Erdu obasynda ýerleşýär. Ol Günorta Song döwründe Wukangdan Hangzhou şäherine gidýän gadymy poçta ýolunyň Shangzhu derýasynyň üstünden geçýän bölegi hökmünde gurlupdyr. Demirgazyk-günorta ugurly köpri bir gözli, bitewi göwreli tegelek daş kemerli gurluşa eýedir. Häzirki uzynlygy takmynan 50 metr bolup, öňki ýazgylarda asyl köpriniň uzynlygy 32,85 metr diýlip görkezilýär. Köpriniň beýikligi 9,45 metr, arassa gerimi 17,4 metr, kemeriniň beýikligi 7,16 metrdir. Esasynyň ini 4,25 metr bolup, ýokarlygyna kem-kemden daralýar we köpri üstüniň ini 2,74 metre ýetýär. Ol Zhejiangda we tutuş Ýanszy derýasynyň deltasynda ýüze çykarylan iň uly hem-de iň doly saklanyp galan Song döwrüniň bir gözli daş kemerli köprüsi hasaplanýar. Esasy gurluşy bitewi bolup, Günorta Song döwründäki görnüşini esasan saklap galypdyr. Köpri Jiangnan suwly sebitleriniň gadymy kemerli köpri aýratynlyklaryny we ýokary derejeli gurluşyk usullaryny görkezýär. Ol 2006-njy ýylyň 25-nji maýynda döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik hökmünde bellige alyndy.",
+    "dynastyTag": "Günorta Song dinastiýasy"
+  },
+  "br_new_271": {
+    "name": "Yuanbao köprüsi (Yunti köprüsi)",
+    "province": "Zhejiang",
+    "type": "bir gözli üç döwük gyraly daş kemerli köpri",
+    "material": "daş",
+    "level": "Etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Yuanbao köprüsi, Yunti köprüsi diýlip hem atlandyrylýar. Ol Şaosing şäheriniň Keqiao etrabynyň Huashe köçesindäki Zhanglou obasynda ýerleşýär. Adatça köpri Min dinastiýasynyň Wanli döwrüniň ýigrimi dördünji ýylynda, 1596-njy ýylda gurlan diýlip hasaplanýar, ýöne käbir ýazgylarda 1606-njy ýyl hem görkezilýär. Köpriniň Yuanbao adyny Çing dinastiýasynyň Qianlong döwründe imperatoryň günorta syýahaty bilen baglanyşykly wakadan alandygy aýdylýar. Bir gözli, üç döwük gyraly özboluşly daş kemeriniň görnüşi Hytaýyň gadymy kümüş ýambasyna meňzeýär. Köpriniň uzynlygy 7 metr, köpri üstüniň uzynlygy 2,7 metr, ini 2 metr we beýikligi 4 metrdir. Ol 1913-nji ýylda halkdan ýygnalan serişdeler bilen täzeden abatlandy. Köpri germewlerinde bu abatlaýyş barada ýazgylar, bezeg nagyşlary we Yunti köprüsi diýen at saklanyp galypdyr. Köpri Şaosingdäki üç döwük gyraly kemer gurluşynyň nusgawy görnüşi we şöhleli köprüden kemerli köprä geçişiň gurluş görnüşleriniň biri hökmünde kabul edilýär. Ol 2002-nji ýylda etrap derejesinde goralýan medeni miras ýadygärligi hökmünde bellige alyndy. Golaýdaky ýaşaýyş toplumynyň gurluşygy wagtynda köpri öz öňki ýerinde saklanyp, toplumyň landşaft bölegi hökmünde meýilleşdirildi.",
+    "dynastyTag": "Min dinastiýasy, adatça 1596-njy ýyla degişli; 1913-nji ýylda abatlanan"
+  },
+  "br_new_272": {
+    "name": "Maju köprüsi",
+    "province": "Beijing",
+    "type": "dokuz gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Pekin şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Maju köprüsi imperatoryň resmi permany bilen Hongren köprüsi adyny alandygyna garamazdan, halk arasynda Maju köprüsi diýlip tanalýar. Ol Min döwrüniň Pekindäki dört meşhur köprüsiniň biridir. Bu ýer Liao we Jin döwürlerinde ýaş atlary ösdürip ýetişdirýän meýdan bolupdyr, şonuň üçin Maju ady döräpdir. Yongle döwründe bu ýerde agaç köpri gurlupdyr. 1463-nji ýylda, Min dinastiýasynyň Tianshun döwründe häzirki dokuz gözli daş kemerli köpri bina edilipdir. Ol asyrlar boýy Liangshui derýasynyň üstünden geçýän möhüm ýol bolup hyzmat edip gelýär we häzirki wagtda Pekiniň iň gowy saklanyp galan taryhy daş köprüleriniň biridir.",
+    "dynastyTag": "Min dinastiýasy, 1463"
+  },
+  "br_new_273": {
+    "name": "Huilan ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "üç gözli daş kemerli ýapyk köpri",
+    "material": "daş, kerpiç we agaç",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Huilan ýel-ýagyş köprüsi Guangxiniň Fuchuan Yao awtonom etrabynyň Chaodong şäherçesinde ýerleşip, Youmu we Mulong obalarynyň arasyndaky Huangsha derýasynyň üstünden geçýär. Köpri Min dinastiýasynyň Wanli döwründe, 1602-nji ýylda gurlupdyr. Ol üç gözli daş kemerden, ýapyk geçelgeden, pawilýonlardan we diňlerden ybaratdyr. Kerpiç diwarlarynda adamlar, güller we guşlar şekillendirilen diwar suratlary saklanyp galypdyr. Beýik galdyrylan üçekleri we bezegleri adaty binagärçiligiň ýokary derejesini görkezýär. Köpri häzirki güne çenli öz asyl görnüşiniň köp bölegini saklap galypdyr.",
+    "dynastyTag": "Min dinastiýasy, 1602"
+  },
+  "br_new_274": {
+    "name": "Xiajing ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "daş şöhleli ýapyk köpri",
+    "material": "daş we agaç",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Xiajing ýel-ýagyş köprüsi Guangxiniň Fuchuan etrabynyň Xiajing obasynda ýerleşip, ekin meýdanlarynyň arasyndaky kiçi çeşmäniň üstünden geçýär. Ol Çing dinastiýasynyň Daoguang döwründe, 1847-nji ýylda gurlupdyr. Köpriniň iki daş aralygy bolup, ýonulan daş sütünleriň üstünde ýerleşýär. Üstünde bäş bölümli ýapyk geçelge we adaty agaç gurluşly pawilýon ýerleşýär. Bu köpri Fuchuan sebitindäki iň gowy saklanyp galan Yao ýel-ýagyş köprüleriniň biridir.",
+    "dynastyTag": "Çing dinastiýasy, 1847"
+  },
+  "br_new_275": {
+    "name": "Luoshan köprüsi",
+    "province": "Zhejiang",
+    "type": "üç kemerli we ýedi gözli şöhleli birleşdirilen köpri",
+    "material": "daş",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Luoshan köprüsi Zhejiang welaýatynyň Şaosing şäherindäki Yangxunqiao şäherçesiniň Wucun obasynda ýerleşýär we Xixiao derýasynyň üstünden geçýär. Min dinastiýasy döwründe gurlan bu köpri üç gözli daş kemerli bölek bilen ýedi gözli daş şöhleli bölegiň birleşmeginden ybarat seýrek gurluşdyr. Köpri Xiaoshan bilen Şaosing etraplaryny birleşdirýär. Adyny onuň iki tarapynda ýerleşýän Luoshan depelerinden alypdyr. Ol gündogar Hytaýdaky birleşdirilen kemer-şöhle gurluşynyň iň gowy nusgalarynyň biri hasaplanýar.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_276": {
+    "name": "Xian'an köprüsi",
+    "province": "Jiangsu",
+    "type": "bir gözli tekiz daş plitaly köpri",
+    "material": "granit",
+    "level": "Changzhou şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Xian'an köprüsi Jiangsu welaýatynyň Changzhou şäherindäki Jiaoxi obasynda ýerleşýär. Ol Çing dinastiýasynyň Qianlong döwründe, 1743-nji ýylda gurlup, Xianfeng döwründe abatlandy. Demirgazyk-günorta ugurly granit daş plitaly köpriniň uzynlygy 18,4 metrdir. Ol Jiaoxi gadymy obasynyň 'Bir derýa, dört köpri' atly taryhy toplumynyň esasy böleklerinden biridir we 2008-nji ýylda şäher derejesinde goralýan medeni miras ýadygärligi boldy.",
+    "dynastyTag": "Çing dinastiýasy, 1743"
+  },
+  "br_new_277": {
+    "name": "Xinguan köprüsi",
+    "province": "Zhejiang",
+    "type": "ýedi gözli daş şöhleli köpri",
+    "material": "daş",
+    "level": "Shengzhou medeni miras ýadygärligi",
+    "history": "Xinguan köprüsi Zhejiang welaýatynyň Shengzhou şäheriniň Chongren şäherçesindäki Xinguanqiao obasynda ýerleşýär we Kui çeşmesiniň üstünden geçýär. Takmynan 40 metr uzynlykdaky ýedi gözli daş şöhleli köpri Günorta Song dinastiýasynyň Jiatai döwründe, 1201–1204-nji ýyllarda gurlupdyr. Köpri birnäçe gezek suw joşgunlary sebäpli ýykylsa-da, gaýtadan dikeldilipdir. Iň uly abatlaýyşlaryň biri Çing dinastiýasynyň Qianlong döwründe geçirilipdir. Köpri 2002-nji ýylda Shengzhou şäheriniň medeni miras ýadygärligi hökmünde bellige alyndy.",
+    "dynastyTag": "Günorta Song dinastiýasy"
+  },
+  "br_new_278": {
+    "name": "Lianjian köprüsi",
+    "province": "Zhejiang",
+    "type": "üç gözli daş şöhleli köpri",
+    "material": "daş",
+    "level": "Şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Lianjian köprüsi Zhejiang welaýatynyň Şaosing şäheriniň Shangyu etrabynyň Dongguan köçesindäki Lianxing obasynda ýerleşýär. Ol ýerli derýanyň üstünden demirgazyk-günorta ugurda geçýän üç gözli daş şöhleli köprüdir. Köpriniň uzynlygy 28,6 metr bolup, ady Yue patyşasy Goujianiň şu ýerde gylyç ýasandygy baradaky rowaýat bilen baglanyşyklydyr. Taryhy ýazgylara görä, köpriniň ilkinji görnüşi Günorta Song döwründen hem öň bolup, Çing dinastiýasynyň Kangxi döwründe täzeden gurlupdyr. Häzirki wagtda ol şäher derejesinde goralýan medeni miras ýadygärligidir.",
+    "dynastyTag": "Irki gelip çykyşy; Çing döwründe täzeden gurlan"
+  },
+  "br_new_279": {
+    "name": "Guyue köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli bäş burçly daş kemerli köpri",
+    "material": "daş",
+    "level": "Zhejiang welaýat derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Guyue köprüsi, öň Daqiao köprüsi we Yeshu köprüsi diýlip hem atlandyrylypdyr. Ol Zhejiang welaýatynyň Yiwu şäheriniň Chi'an şäherçesindäki Yazhi obasynda ýerleşýär. Köpri Günorta Song dinastiýasynyň Jiading döwründe, 1213-nji ýylda gurlup, 800 ýyldan gowrak taryha eýedir. Onuň esasy aýratynlygy seýrek duş gelýän bäş burçly köpburçly kemer gurluşydyr. Köpriniň umumy uzynlygy 31,2 metr, kemeriniň arassa gerimi 15 metr, köpri üstüniň ini bolsa 4,5 metrdir. Kemer üç gat ýonulan daş bloklardan gurlup, özboluşly köpburçly gurluş emele getirýär. Guyue köprüsi Hytaýda saklanyp galan iň ajaýyp köpburçly daş kemerli köprüleriň biri hasaplanýar.",
+    "dynastyTag": "Günorta Song dinastiýasy, 1213"
+  },
+  "br_new_280": {
+    "name": "Heshang köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli üç bölekli köpburçly daş kemerli köpri",
+    "material": "daş",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Heshang köprüsi Zhejiang welaýatynyň Shengzhou şäheriniň Pukou sebitindäki kiçi çeşmäniň üstünde ýerleşýär. Ol ilkinji gezek Song dinastiýasy döwründe gurlupdyr. Köpri birnäçe gezek abatlanan bolsa-da, daş gurluşynyň köp bölegi häzirki güne çenli saklanyp galypdyr. Ol Kuaiji etrabynyň Jiatai ýyl ýazgysynda hem agzalýar. Köpriniň uzynlygy 8 metr, ini 2 metr we beýikligi 4 metrdir. Çeşme köprä ýetmezden öň egrelip, köpriniň aşagynda çuň howuz emele getirýär. Bu bolsa suwuň akymyny haýalladyp, diregleriň ýuwulmagynyň öňüni alýar. Tebigy şertleriň kömegi bilen köpri örän gowy ýagdaýda saklanyp galypdyr. Ol Şaosing sebitindäki iň irki taryhy üç bölekli köpburçly daş kemerli köpri hasaplanýar.",
+    "dynastyTag": "Song dinastiýasy"
+  },
+  "br_new_281": {
+    "name": "Yunti köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli daş şöhleli köpri",
+    "material": "daş",
+    "level": "Shaoxing etrap derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Yunti köprüsi Zhejiang welaýatynyň Şaosing şäheriniň Huashe köçesindäki Zhanglou obasynda ýerleşýär. Ol Min dinastiýasy döwründe gurlup, halk arasynda Yuanbao köprüsi ady bilen hem tanalýar. Demirgazyk-günorta ugurly köpriniň uzynlygy 7,6 metr, ini 2,2 metrdir. Iki tarapynda hem üç basgançakly meýdança we on sany daş basgançak ýerleşýär. Daş sütünleri, deprek görnüşli esaslary we nagyşly bezegleri häzirki güne çenli gowy ýagdaýda saklanypdyr. Köpridäki ýazgyda onuň Min dinastiýasynyň Wanli döwrüniň Bingwu ýylynda gurlandygy görkezilýär. Köpri üstüniň görnüşi gadymy hytaý kümüş ýambasyna meňzeýändigi üçin halk arasynda Yuanbao köprüsi diýlip atlandyrylýar.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_282": {
+    "name": "Tongyun köprüsi",
+    "province": "Beijing",
+    "type": "üç gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Tongyun köprüsi Pekiniň Tongzhou etrabynyň Zhangjiawan şäherçesindäki gadymy şäher diwarynyň golaýynda ýerleşýär. Ol Min dinastiýasynyň Jiajing döwründe, 1564-nji ýylda gurlupdyr. Köpri Uly Kanalyň demirgazyk ujundaky iň möhüm ulag we söwda merkezleriniň biri bolup hyzmat edipdir. Onuň uzynlygy takmynan 40 metr, ini 10 metr bolup, üç daş kemerden ybaratdyr. Golaýdaky gadymy şäher diwarlary bilen bilelikde bu köpri Min we Çing döwürlerindäki kanal ulag ulgamynyň, harby goragyň we söwda ösüşiniň möhüm taryhy şaýady bolup durýar.",
+    "dynastyTag": "Min dinastiýasy, 1564"
+  },
+  "br_new_283": {
+    "name": "Lucitang Lantong ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "dört gözli daş şöhleli ýapyk köpri",
+    "material": "daş we agaç",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Lucitang Lantong ýel-ýagyş köprüsi Guangxiniň Fuchuan Yao awtonom etrabynyň Mailing şäherçesindäki Baojian obasynda ýerleşýär. Köpri Çing dinastiýasynyň Qianlong döwründe, 1770-nji ýylda gurlupdyr. Onuň dört daş aralygy bolup, ýonulan daş diregleriň üstünde ýerleşýär. Üstünde bäş bölümli adaty agaç geçelge we çal kerpiçli pawilýon gurlupdyr. Iki girişinde hem at daňylýan daşlar saklanyp galypdyr. Köpriniň uzynlygy 27,15 metr, ini bolsa 4,31 metr bolup, Yao halkynyň ýel-ýagyş köprüleriniň ajaýyp nusgalarynyň biridir.",
+    "dynastyTag": "Çing dinastiýasy, 1770"
+  },
+  "br_new_284": {
+    "name": "Huanghouquan ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "daş şöhleli ýapyk köpri",
+    "material": "daş we agaç",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Huanghouquan ýel-ýagyş köprüsi Guangxiniň Fuchuan Yao awtonom etrabynyň Mailing şäherçesindäki Huanghouquan obasynda ýerleşýär. Köpri Min dinastiýasynyň Tianqi döwründe, 1626-njy ýylda gurlupdyr. Ol ýonulan daş diregleriň üstünde ýerleşýän daş şöhlelerden ybarat bolup, onuň üstünde agaçdan gurlan ýapyk geçelge, pawilýonlar we adaty at kelleli diwarlar ýerleşýär. Köpri günorta Guangxidäki Yao halkynyň ýel-ýagyş köprülerine mahsus binagärlik aýratynlyklaryny gowy saklap galypdyr.",
+    "dynastyTag": "Min dinastiýasy, 1626"
+  },
+  "br_new_285": {
+    "name": "Fushou ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "agaç şöhleli ýapyk köpri",
+    "material": "daş we hytaý arçasy",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Fushou ýel-ýagyş köprüsi Guangxiniň Fuchuan Yao awtonom etrabynyň Chengbei şäherçesindäki Fengxi obasynda ýerleşýär. Köpri Min dinastiýasynyň Wanli döwründe, 1608-nji ýylda gurlupdyr. Daş diregleri gönüden-göni tebigy gaýanyň üstünde gurlup, esasy şöhleleri uly hytaý arçasyndan ýasalypdyr. Üstünde bäş bölümli agaç geçelge we çal kerpiçli pawilýon ýerleşýär. Iki ujunda hem adaty at kelleli diwarlar bar. Bu köpri Yao halkynyň häzirki güne çenli saklanyp galan iň gowy agaç ýel-ýagyş köprüleriniň biridir.",
+    "dynastyTag": "Min dinastiýasy, 1608"
+  },
+  "br_new_286": {
+    "name": "Chaoyang ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "agaç şöhleli ýapyk köpri",
+    "material": "daş we agaç",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Chaoyang ýel-ýagyş köprüsi Guangxiniň Fuchuan Yao awtonom etrabynyň Chengbei şäherçesindäki Fengxi obasynda ýerleşýär. Köpri Min dinastiýasynyň Wanli döwründe, 1607-nji ýylda gurlupdyr. Daş kemeriň üstünde agaç şöhleler arkaly üç bölege bölünen köpri üsti ýerleşýär. Üstünde adaty ýapyk geçelge we pawilýon gurlupdyr. Bu desga Yao halkynyň iň gowy saklanyp galan ýel-ýagyş köprüleriniň biridir.",
+    "dynastyTag": "Min dinastiýasy, 1607"
+  },
+  "br_new_287": {
+    "name": "Yangshou ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "agaç şöhleli ýapyk köpri",
+    "material": "tebigy daş we hytaý arçasy",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Yangshou ýel-ýagyş köprüsi Guangxiniň Fuchuan Yao awtonom etrabynyň Chengbei şäherçesindäki Liangyuan obasynda ýerleşýär. Ol Çing dinastiýasynyň Jiaqing döwründe, 1817-nji ýylda gurlupdyr. Köpriniň iki diregi tebigy daşdan gurlup, esasy şöhleleri iri hytaý arçasyndan ýasalypdyr. Üstünde üç bölümli ýapyk geçelge we çal kerpiçli pawilýon ýerleşýär. Köpriniň uzynlygy 9,93 metr, ini bolsa 3,38 metrdir.",
+    "dynastyTag": "Çing dinastiýasy, 1817"
+  },
+  "br_new_288": {
+    "name": "Yongjifu ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "daş şöhleli ýapyk köpri",
+    "material": "ýonulan daş we agaç",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Yongjifu ýel-ýagyş köprüsi Guangxiniň Fuchuan Yao awtonom etrabynyň Chengbei şäherçesindäki Weifeng obasynda ýerleşýär. Köpri Çing dinastiýasynyň Daoguang döwründe, 1827-nji ýylda gurlupdyr. Köpriniň diregleri we üsti ýonulan daşdan gurlup, onuň üstünde üç bölümli agaç geçelge we pawilýon ýerleşýär. Üçekde bezeg haýwanlary, girişlerde bolsa at kelleli diwarlar saklanyp galypdyr.",
+    "dynastyTag": "Çing dinastiýasy, 1827"
+  },
+  "br_new_289": {
+    "name": "Jinqiao ýel-ýagyş köprüsi",
+    "province": "Guangxi",
+    "type": "daş kemerli ýapyk köpri",
+    "material": "daş we agaç",
+    "level": "Medeni miras ýadygärligi",
+    "history": "Jinqiao ýel-ýagyş köprüsi Guangxiniň Fuchuan Yao awtonom etrabynyň Chaodong şäherçesindäki Fuxi obasynda ýerleşýär. Ol Çing dinastiýasynyň Daoguang döwründe, 1842-nji ýylda gurlan daş kemerli köprüdir. Köpri üsti gök daş plitalar bilen örtülip, üstünde üç bölümli agaç geçelge we dört eňňitli üçekli pawilýon ýerleşýär. Iki ujunda hem at kelleli diwarlar bar.",
+    "dynastyTag": "Çing dinastiýasy, 1842"
+  },
+  "br_new_290": {
+    "name": "Qiaotou köprüsi",
+    "province": "Hebei",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Qiaotou köprüsi, Hengshui Anji köprüsi ady bilen hem tanalýar. Ilki agaç köpri hökmünde gurlup, 1553-nji ýylda Min dinastiýasynyň Jiajing döwründe daş köprä öwrülipdir. Soňra birnäçe gezek ýykylsa-da, häzirki görnüşi Çing dinastiýasynyň Qianlong döwründe, 1766-njy ýylda tamamlandy. Merkezi kemeri 1937-nji ýylda söweş wagtynda ýumrulyp, 1956-njy ýylda wagtlaýyn agaç bilen çalşyryldy, 1982-nji ýylda bolsa demirbeton gurluş bilen täzeden dikeldildi. Häzirki wagtda hem ulanylýar we döwlet derejesinde goralýan medeni ýadygärlikdir.",
+    "dynastyTag": "Min döwründe gurlan; Çing döwründe täzeden dikeldilen"
+  },
+  "br_new_291": {
+    "name": "Masi köprüsi",
+    "province": "Jiangsu",
+    "type": "taryhy daş köpri",
+    "material": "daş",
+    "level": "Suzhou ýer atlary medeni mirasy",
+    "history": "Masi köprüsi Jiangsu welaýatyndaky Jiyang kölüniň iki kenaryndaky iki Song döwrüniň gadymy köprüsiniň umumy adydyr. Olar Zhangjiagang bilen Jiangyin şäherlerini birleşdirýär we 900 ýyldan gowrak taryha eýedir. Köprüler Han Shizhongyň Jin goşunlaryna garşy söweşi we Su Şiniň betbagtçylyk döwründe halky halas etmegi baradaky rowaýatlar bilen baglanyşyklydyr. Ilki agaçdan gurlan bu köprüler soňra daş köprülere öwrülipdir. Häzirki wagtda günbatar köprüsi 2017-nji ýylda täzeden gurlupdyr. 2023-nji ýylda Masi köprüsi Suzhou şäheriniň ýer atlary medeni mirasynyň sanawyna girizildi.",
+    "dynastyTag": "Song dinastiýasy"
+  },
+  "br_new_292": {
+    "name": "Sanli köprüsi",
+    "province": "Jiangsu",
+    "type": "bir gözli granit daş kemerli köpri",
+    "material": "granit",
+    "level": "Döwlet derejesinde goralýan medeni miras (Uly Kanal)",
+    "history": "Sanli köprüsi Jiangsu welaýatynyň Suzhou şäheriniň Wujiang etrabynda ýerleşip, Uly Kanalyň üstünden geçýär. Ol ilkinji gezek Ýuan dinastiýasynyň Taiding döwründe, 1324-nji ýylda gurlupdyr. Soňra 1462, 1797, 1875 we 1885-nji ýyllarda birnäçe gezek täzeden gurlupdyr. Köpriniň uzynlygy 50,4 metr, ini 4,65 metr, kemeriniň gerimi 16 metr, beýikligi bolsa 12,5 metrdir. Bu köpri Wujiang etrabynda saklanyp galan iň beýik gadymy köpri bolup, ÝUNESKO-nyň Bütindünýä mirasy bolan Uly Kanalyň möhüm bölekleriniň biridir.",
+    "dynastyTag": "Ýuan dinastiýasy, 1324"
+  },
+  "br_new_293": {
+    "name": "Wanling köprüsi",
+    "province": "Zhejiang",
+    "type": "bir gözli daş kemerli köpri",
+    "material": "daş",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Wanling köprüsi Zhejiang welaýatynyň Hangzhou şäheriniň Fuyang etrabynyň Lushan köçesindäki Tangjiabu obasynda ýerleşip, Jiuqu çeşmesiniň üstünden gündogar-günbatar ugurda geçýär. Min dinastiýasy döwründe gurlan köpriniň uzynlygy 15,5 metr, ini bolsa 3,5 metrdir. Köpriniň sütünlerinde dört sany uly daş arslan we sekiz sany kiçi arslan şekili oýulypdyr. Kemerinde 'Wanling köprüsi' diýen ýazgy ýerleşýär. Köpriniň göwresinde dört haýwan kelleli suw çykaryjy şekil, direkleriniň aşagynda bolsa iki sany ýüz aýakly mör-möjek şekili oýulypdyr. Bu aýratynlyklary sebäpli köpri Hangzhou sebitindäki iň özboluşly gadymy köprüleriň biri hasaplanýar.",
+    "dynastyTag": "Min dinastiýasy"
+  },
+  "br_new_294": {
+    "name": "Yanzi köprüsi",
+    "province": "Hunan",
+    "type": "agaç ýel-ýagyş köprüsi",
+    "material": "agaç",
+    "level": "Döwlet derejesinde goralýan möhüm taryhy-medeni ýadygärlik",
+    "history": "Yanzi köprüsi Hunan welaýatynyň Yiyang şäheriniň Anhua etrabynda ýerleşýär. Ol Çing dinastiýasynyň Daoguang döwründe, 1822-nji ýylda gurlan agaç ýel-ýagyş köprüsidir. Köpriniň üçeginde adaty pawilýonlar ýerleşýär. Adyny golaýda köp mukdarda tapylan garlawaç şekilli gadymy galyndylardan alypdyr. 2013-nji ýylda Anhua ýel-ýagyş köprüleriniň düzüminde döwlet derejesinde goralýan medeni miras sanawyna girizildi. 2022-nji ýylda köpride giň gerimli gorag we abatlaýyş işleri geçirildi.",
+    "dynastyTag": "Çing dinastiýasy, 1822"
+  },
+  "br_new_295": {
+    "name": "Hushang köprüsi",
+    "province": "Zhejiang",
+    "type": "ýarym tegelek daş kemerli köpri",
+    "material": "daş",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Hushang köprüsi Zhejiang welaýatynyň Şaosing şäherindäki Hushang obasynda ýerleşýär. Ol kese ýerleşdirilen parallel kemer böleklerinden gurlan ýarym tegelek daş kemerli köprüdir. Köpriniň uzynlygy 11 metr, ini 3 metr, beýikligi 4,2 metr, kemeriniň gerimi bolsa 4,5 metrdir. Çing döwründen öň gurlan bu köpri Jian kölüniň suw ulgamyndaky möhüm gadymy köprüleriň biridir.",
+    "dynastyTag": "Çing döwründen öň gurlan"
+  },
+  "br_new_296": {
+    "name": "Liyu köprüsi",
+    "province": "Hubei",
+    "type": "kerpiç-daş kemerli köpri",
+    "material": "kerpiç we daş",
+    "level": "Gorag derejesi görkezilmedik",
+    "history": "Liyu köprüsi Hubei welaýatynyň Yicheng şäheriniň günorta-günbatarynda, Gumu kanalynyň köne akymynyň üstünde ýerleşýär. Ol Min we Çing döwürlerine degişli kerpiç-daş kemerli köprüdir. Köpriniň ortasy ýokary galyp, iki ujuna tarap peselýär we uzakdan seredilende sazan balygyna meňzeýär. Şonuň üçin oňa Liyu (Sazan) köprüsi ady berlipdir. Köpri ilki ýerli ýaşaýjy Gao Jin tarapyndan gurlup, 1620-nji ýylda Min döwründe etrap häkimi Qiu Yuncheng tarapyndan täzeden gurlupdyr. 1871-nji ýylda Çing döwründe ýene bir gezek dikeldilipdir. Ol öň Yichengiň demirgazyk-günorta poçta ýolunyň möhüm bölegi bolupdyr. Asyl köpri häzirki güne çenli saklanmasa-da, 2011-nji ýylda suw howdanynyň golaýynda täze Liyu köprüsi gurlupdyr.",
+    "dynastyTag": "Min döwründe gurlan; Çing döwründe täzeden gurlan"
+  },
+  "br_new_297": {
+    "name": "Songxi köprüsi",
+    "province": "Guangdong",
+    "type": "daş plitaly köpri",
+    "material": "daş",
+    "level": "Şäher derejesinde goralýan medeni miras ýadygärligi",
+    "history": "Songxi köprüsi Guangdong welaýatynyň Meizhou şäheriniň Pingyuan etrabynyň Chagan şäherçesindäki Jiafeng we Tuanxi obalarynyň arasyndaky Songxi derýasynyň üstünden geçýär. Ol ilkinji gezek 1776-njy ýylda Çing dinastiýasynyň Qianlong döwründe gurlupdyr. Häzirki köpri bolsa 1831-nji ýylda Daoguang döwründe täzeden gurlan gurluşdyr. Köpri bilen baglanyşykly takmynan 6 kilometrlik gadymy poçta ýoly häzirki güne çenli saklanyp galypdyr. Bu ýol Günbatar Jin döwrüniň ahyrynda Han halkynyň günorta göçüşinde möhüm ýol bolup hyzmat edipdir. 1929–1930-njy ýyllarda Gyzyl Dördünji Goşun bu ýerden iki gezek geçipdir. 2019-njy ýylda surata düşürilen 'Faith in Life and Death' atly film hem şu ýerde düşürildi. Songxi köprüsi 2014-nji ýylda Meizhou şäher derejesinde goralýan medeni miras ýadygärligi hökmünde bellige alyndy.",
+    "dynastyTag": "Çing dinastiýasy, 1776-njy ýylda gurlan; 1831-nji ýylda täzeden gurlan"
   }
 }

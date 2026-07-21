@@ -5018,5 +5018,915 @@
     "level": "Major Historical and Cultural Site Protected at the National Level",
     "history": "Puxiu Bridge crosses the Pingtan River in Tongdao Dong Autonomous County, Huaihua, Hunan. It was first built during the Qianlong reign of the Qing dynasty, destroyed by flooding, and rebuilt in 1803. The 57.7 m long and 4.2 m wide timber structure combines a bridge, covered corridor, and pavilions. Twenty-one covered bays are decorated with traditional lattice windows, and three pavilions divide the corridor. The two side pavilions have triple eaves, while the central pavilion rises through seven closely spaced eaves. A black clay bird on its roof can turn in the wind and produce sound, adding to the bridge's distinctive silhouette.",
     "dynastyTag": "Qing dynasty"
+  },
+  "br_new_197": {
+    "name": "Xiegong Bridge",
+    "province": "Zhejiang",
+    "type": "single-span seven-sided stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Xiegong Bridge is located at the western end of Xinhe Lane in Shaoxing, Zhejiang, crossing the Xixiao River. According to Jiatai Gazetteer of Kuaiji compiled during the Southern Song dynasty, the bridge was named after Governor Xie, who ordered its construction. A popular local legend also tells that a wealthy elder built the bridge so his daughter-in-law could travel more conveniently to visit her family. Today, Xiegong Bridge remains one of Shaoxing's representative historic stone bridges.",
+    "dynastyTag": "Later Jin dynasty"
+  },
+  "br_new_198": {
+    "name": "Guangxiang Bridge",
+    "province": "Zhejiang",
+    "type": "single-span semicircular stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Guangxiang Bridge was originally built during the Eastern Jin dynasty and was named after the nearby Guangxiang Temple. Historical inscriptions recorded in Yuezhong Jinshi Ji indicate that the bridge underwent several major restorations, including during the Yuan dynasty, the first year of the Longqing reign of the Ming dynasty (1567), and the Qianlong and Jiaqing reigns of the Qing dynasty.",
+    "dynastyTag": "Eastern Jin dynasty"
+  },
+  "br_new_199": {
+    "name": "Wanning Bridge",
+    "province": "Beijing",
+    "type": "single-span solid stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Wanning Bridge, also known as Haizi Bridge and Houmen Bridge, is located on Di'anmenwai Street in Beijing. It was first built in 1285 during the Yuan dynasty. Originally a wooden bridge, it was later rebuilt in stone. Following restoration in 2000, its historic name Wanning Bridge was officially restored. Known as the 'First Bridge of Beijing's Central Axis,' it is the oldest bridge along the UNESCO-listed Beijing Central Axis.",
+    "dynastyTag": "Yuan dynasty"
+  },
+  "br_new_200": {
+    "name": "Bali Bridge (Yongtong Bridge)",
+    "province": "Beijing",
+    "type": "three-span stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Bali Bridge, officially named Yongtong Bridge, was granted its name by Emperor Yingzong of the Ming dynasty, symbolizing 'lasting and smooth passage.' It was one of the Four Famous Bridges of Beijing during the Ming dynasty. The bridge served as a key crossing on the Grand Canal, with its unusually high central arch specially designed for grain transport boats entering Beijing. In 1860, the Battle of Bali Bridge took place here during the Second Opium War, where Sengge Rinchen led Mongolian cavalry against the Anglo-French allied forces. Bali Bridge is also famous as one of the Eight Scenic Views of Tongzhou for its beautiful 'Long Bridge Reflecting the Moon.'",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_201": {
+    "name": "Baozhu Bridge",
+    "province": "Zhejiang",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "County-Level Protected Cultural Heritage Site",
+    "history": "Baozhu Bridge was originally built during the Song dynasty. It is one of the traditional stone arch bridges in Shaoxing and has undergone several repairs throughout history while preserving its original architectural style.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_202": {
+    "name": "Silong Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Silong Bridge, also known as Twenty-Arch Bridge, was formerly called Luxu Bridge. It crosses Qingdian Lake in Shaoxing, Zhejiang, and is one of the important bridges included in the Shaoxing Ancient Bridge Group, a Major Historical and Cultural Site Protected at the National Level.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_203": {
+    "name": "Baiwang Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Baiwang Bridge in Shaoxing derives its name from the event when local people knelt here to welcome King Qian Liu of Wuyue after he suppressed Dong Chang's rebellion. Throughout history, the bridge has been known by three names—Baiwang Bridge, Dengying Bridge, and Fengle Bridge—each associated with a different historical story. According to legend, the bridge dates back to the time when Fan Li built the ancient city during the Spring and Autumn Period. Officials traveling to meet the King of Yue were required to dismount or leave their sedan chairs before crossing it. Another famous legend tells of eighteen scholars who departed from this bridge to take the imperial examination, and all of them achieved the highest success.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_204": {
+    "name": "Rongguang Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Rongguang Bridge, also known as Keqiao Bridge, crosses the Xiaoshao Canal in Shaoxing, Zhejiang. It is an important part of the nationally protected Shaoxing Ancient Bridge Group. The bridge was originally built before the Southern Song dynasty, rebuilt during the Chenghua reign of the Ming dynasty (1465–1487), and extensively restored during the Chongzhen reign of the Ming dynasty.",
+    "dynastyTag": "Before the Southern Song dynasty; rebuilt during the Ming dynasty"
+  },
+  "br_new_205": {
+    "name": "Jiedu Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Jiedu Bridge is one of the representative historic stone bridges of Shaoxing. It was originally built during the Song dynasty and later rebuilt several times. The bridge has long served as an important crossing connecting residential districts on both sides of the canal and is now included in the nationally protected Shaoxing Ancient Bridge Group.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_206": {
+    "name": "Jingkou Bridge",
+    "province": "Zhejiang",
+    "type": "stone beam bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Jingkou Bridge is located in Shaoxing, Zhejiang. It was constructed as an important transportation bridge connecting villages and waterways. Although rebuilt several times throughout history, it has preserved its traditional stone bridge structure and remains an important example of Shaoxing's historic bridge heritage.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_207": {
+    "name": "Xiaojiang Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Xiaojiang Bridge spans one of Shaoxing's historic waterways. Built during the Song dynasty and repaired in later dynasties, the bridge has long connected neighborhoods on both sides of the river and reflects the traditional craftsmanship of Jiangnan stone bridges.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_208": {
+    "name": "Xikuahu Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Xikuahu Bridge is situated in the historic water-town area of Shaoxing. The bridge was built to facilitate local transportation across the canal and has remained an important part of the city's traditional waterway network for centuries.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_209": {
+    "name": "Damu Bridge",
+    "province": "Hunan",
+    "type": "covered wind-and-rain bridge",
+    "material": "timber",
+    "level": "Provincial Cultural Heritage Site",
+    "history": "Damu Bridge is a traditional Dong ethnic wind-and-rain bridge in Hunan Province. Besides serving as a river crossing, it has long functioned as a gathering place where local residents rest, socialize, and celebrate traditional festivals, representing the architectural heritage of the Dong people.",
+    "dynastyTag": "Qing dynasty"
+  },
+  "br_new_210": {
+    "name": "Huangyi Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Huangyi Bridge is one of the historic bridges preserved in Shaoxing. Originally constructed during the Song dynasty, it was rebuilt several times while maintaining its traditional stone arch design. Today it forms part of the nationally protected Shaoxing Ancient Bridge Group.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_211": {
+    "name": "Anhua Wind-and-Rain Bridge",
+    "province": "Hunan",
+    "type": "covered wind-and-rain bridge",
+    "material": "timber",
+    "level": "Provincial Cultural Heritage Site",
+    "history": "Anhua Wind-and-Rain Bridge is a traditional covered bridge of the Dong ethnic group. Built primarily of timber without metal nails, it combines transportation, rest, and community gathering functions. The bridge showcases the outstanding carpentry skills and architectural traditions of the Dong people.",
+    "dynastyTag": "Qing dynasty"
+  },
+  "br_new_212": {
+    "name": "Longhua Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Longhua Bridge is located in Shaoxing, Zhejiang. It was originally built during the Song dynasty and has undergone several restorations throughout history. As one of the representative ancient stone bridges in Shaoxing, it reflects the city's long tradition of water-town bridge construction and remains an important part of the nationally protected Shaoxing Ancient Bridge Group.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_213": {
+    "name": "Simahui Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Simahui Bridge is one of the historic stone bridges of Shaoxing, Zhejiang. Originally built during the Song dynasty, it served as an important crossing for residents and merchants traveling through the city's canal network. After several restorations over the centuries, it remains a valuable example of Jiangnan bridge architecture.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_214": {
+    "name": "Sanjie Bridge",
+    "province": "Jiangxi",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Sanjie Bridge spans a local waterway in Jiangxi Province. It was constructed to facilitate transportation between neighboring villages and has remained an important crossing for local residents for centuries.",
+    "dynastyTag": "Northern Song dynasty"
+  },
+  "br_new_215": {
+    "name": "Zhaikou Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Zhaikou Bridge is one of Shaoxing's traditional stone bridges. It was built to connect settlements separated by canals and has undergone several repairs while preserving its historic stone structure.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_216": {
+    "name": "Maoyang Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Maoyang Bridge is located in Shaoxing, Zhejiang. Built during the Ming dynasty, it has served local communities for centuries and remains one of the representative historic bridges in the region.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_217": {
+    "name": "Tanggong Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Tanggong Bridge was constructed to connect the residential districts on both sides of the canal in Shaoxing. It has been restored several times throughout history while retaining its traditional stone arch design.",
+    "dynastyTag": "Qing dynasty"
+  },
+  "br_new_218": {
+    "name": "Sanjiangzha Bridge",
+    "province": "Zhejiang",
+    "type": "stone beam bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Sanjiangzha Bridge stands near the historic Sanjiang Sluice in Shaoxing. It has long been an important transportation crossing associated with the city's water conservancy system.",
+    "dynastyTag": "Qing dynasty"
+  },
+  "br_new_219": {
+    "name": "Kuiyuan Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Kuiyuan Bridge is one of the well-preserved ancient bridges in Shaoxing. It has connected local neighborhoods across the canal for centuries and reflects the traditional bridge-building techniques of Jiangnan.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_220": {
+    "name": "Dongwei Bridge",
+    "province": "Zhejiang",
+    "type": "stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Dongwei Bridge is a historic stone bridge located in Shaoxing, Zhejiang. Originally built during the Ming dynasty, it played an important role in the city's canal transportation network and continues to preserve its traditional architectural style.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_221": {
+    "name": "Daqing Bridge",
+    "province": "Zhejiang",
+    "type": "three-span rubble-stone arch bridge",
+    "material": "stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Daqing Bridge, also known as Zhenzhao Daqing Bridge, is located west of Zhenzhao Village in Xinchang County and crosses Zhenzhao Stream, an upper tributary of the Huangze River. The bridge is 56 metres long and has three arches with spans of 13, 13.9 and 13.2 metres, making it one of the longest stone arch bridges in Shaoxing. It was originally built as a flat bridge during the Jiaqing reign of the Qing dynasty but was destroyed by flooding. Villagers led by Yu Weiqian rebuilt it in 1861. Because it was completed on the seventh day of the seventh lunar month, associated with the meeting of the Cowherd and Weaver Girl, it was named Daqing Bridge. It formerly served as an important route between Shaxi and Dongcun.",
+    "dynastyTag": "Qing dynasty; rebuilt in 1861"
+  },
+  "br_new_222": {
+    "name": "Ruanshe Bridge",
+    "province": "Zhejiang",
+    "type": "single-span horseshoe-shaped stone arch bridge",
+    "material": "stone",
+    "level": "Cultural Heritage Site",
+    "history": "Ruanshe Bridge stands beside the Eastern Zhejiang Canal in Ruanshe, Shaoxing. It was already recorded in the Jiatai Gazetteer of Kuaiji, completed in 1201 during the Southern Song dynasty, and may have been named after the nearby Tang-dynasty Ruanshe Jiaosi Temple. The bridge was repaired during the Guangxu reign of the Qing dynasty and again in 1947 with donations from local wine merchants. Its horseshoe-shaped arch has a curvature of 272 degrees, and the bridge is regarded as an important example of variable-width arch construction. Decorative carvings and inscriptions on the bridge record the charitable contributions made toward its restoration.",
+    "dynastyTag": "Southern Song dynasty"
+  },
+  "br_new_223": {
+    "name": "Xianning Bridge",
+    "province": "Hubei",
+    "type": "single-span stone beam bridge",
+    "material": "dressed stone",
+    "level": "Cultural Heritage Site",
+    "history": "According to Records of Shaoxing Stone Bridges, Xianning Bridge was built in the seventh year of the Jiaqing reign of the Qing dynasty, corresponding to 1802. It is a small north-south stone beam bridge with a length of approximately 15 metres.",
+    "dynastyTag": "Qing dynasty, 1802"
+  },
+  "br_new_224": {
+    "name": "Fangche Bridge",
+    "province": "Zhejiang",
+    "type": "single-span stone beam bridge",
+    "material": "dressed stone",
+    "level": "Cultural Heritage Site",
+    "history": "Fangche Bridge has a long history and is traditionally associated with a nearby Guanyin Temple. Local legend states that Qian Liu, King of Wuyue, recovered from an eye disease after dreaming that a beautiful woman gave him medicine. Another legend connects the bridge with the wife of King Goujian of Yue. After Goujian was defeated by the State of Wu and taken away as a hostage, local people named the stone bridge she frequently crossed while spinning and weaving Fangche Bridge, meaning Spinning-Wheel Bridge.",
+    "dynastyTag": "Ancient origin; preserved through later dynasties"
+  },
+  "br_new_225": {
+    "name": "Kualong Bridge",
+    "province": "Guangdong",
+    "type": "three-span stone arch bridge",
+    "material": "granite",
+    "level": "Guangzhou Municipal Cultural Heritage Site",
+    "history": "Kualong Bridge, originally called Jielong Bridge, crosses Xinqiao Creek in Guangzhou. It was first built during the Ming dynasty and was restored with funding from the wealthy local resident Wang Tianxiang during the Longqing reign between 1567 and 1572. In 1669, villagers rebuilt the wooden bridge as a stone-pier timber bridge, and in 1713 it was converted into a granite arch bridge. Further repairs were completed in 1746 and 1911. The existing bridge has three arches and is approximately 23.6 metres long and 4.5 metres wide.",
+    "dynastyTag": "Ming dynasty; rebuilt during the Qing dynasty"
+  },
+  "br_new_226": {
+    "name": "Ji'an Bridge",
+    "province": "Zhejiang",
+    "type": "single-span semicircular stone arch bridge",
+    "material": "stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Ji'an Bridge is located in Qiuwu Village, approximately sixty li east of the historic seat of Xinchang County. According to the Republican-era Xinchang County Gazetteer, construction of the bridge was organized through fundraising by Wu Zhonghuai and Wu Xiaozhen. The bridge runs east to west and has a total length of 39.9 metres and a span of 19.87 metres.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_227": {
+    "name": "Hehu Bridge (Dengying Bridge)",
+    "province": "Zhejiang",
+    "type": "multi-span stone beam tidal bridge",
+    "material": "stone",
+    "level": "Shaoxing Municipal Cultural Heritage Site",
+    "history": "Hehu Bridge, historically named Dengying Bridge, was first built in 1585 after the monk Puzhao raised funds for its construction. It was repaired in 1688 together with the embankment roads on both banks, and the present main structure largely dates from a comprehensive reconstruction during the Qianlong reign of the Qing dynasty. The bridge originally had fourteen openings, including four high openings and ten low openings, and was later adjusted to ten. Its undulating deck resembles a long dragon lying across the water. The stone-pile piers were designed to withstand tidal currents, making it a distinctive historic tidal bridge of Shaoxing.",
+    "dynastyTag": "Ming dynasty; rebuilt during the Qing dynasty"
+  },
+  "br_new_228": {
+    "name": "Xin'an Bridge",
+    "province": "Hunan",
+    "type": "single-span red-sandstone arch covered bridge",
+    "material": "red sandstone and timber",
+    "level": "Hunan Provincial Cultural Heritage Site",
+    "history": "Xin'an Bridge is located in Hesheng Village, Shegang Town, Liuyang, Hunan. It was first built by members of the local Xun clan in 1474. The bridge has a single red-sandstone arch and a timber wind-and-rain pavilion constructed with traditional mortise-and-tenon joints without nails. It was first restored in 1529, received a bluestone deck in 1947, and was repaired according to its historic appearance in 2010. Conservation authorities later approved emergency reinforcement and environmental improvement work because parts of its timber structure had deteriorated.",
+    "dynastyTag": "Ming dynasty, 1474"
+  },
+  "br_new_229": {
+    "name": "Yongjia Bridge",
+    "province": "Sichuan",
+    "type": "five-span stone arch bridge",
+    "material": "dressed stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Yongjia Bridge was built in 1796 and crosses the Jiuqu River in Luxian County. Part of it was destroyed by flooding in 1825 and repaired the following year. The bridge has four piers and five arches, is 50.12 metres long and 7.13 metres wide, and was constructed from dressed stone. It once carried nine carved dragons above the piers and arches, but these were destroyed during the Cultural Revolution. A surviving stone inscription records the bridge's name and history. The bridge reflects the political, economic and transportation conditions of historic Luxian and was designated a county-level cultural heritage site in 1995.",
+    "dynastyTag": "Qing dynasty, 1796"
+  },
+  "br_new_230": {
+    "name": "Linghe Bridge",
+    "province": "Zhejiang",
+    "type": "single-span semicircular rubble-stone arch bridge",
+    "material": "rubble stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Linghe Bridge stands at the entrance to Xiaojiang Village in Xinchang County and crosses Xiaojiang Stream. It was built during the Guangxu reign of the Qing dynasty, around 1878–1879. The bridge is 28 metres long, 5 metres wide and has an 18-metre span. Its deck and steps are paved with pebbles, while inscriptions on its stone parapet record the bridge's name and construction period. Fourteen large stones were placed above the arch to increase the bridge's weight and improve its resistance to powerful mountain floods.",
+    "dynastyTag": "Late Qing dynasty, 1878–1879"
+  },
+  "br_new_231": {
+    "name": "Xiwei Bridge (Xianyang Bridge)",
+    "province": "Shaanxi",
+    "type": "historical bridge site; modern reinforced-concrete cantilever bridge",
+    "material": "reinforced concrete",
+    "level": "Historical Transportation Site",
+    "history": "Xiwei Bridge, also known historically as Bian Bridge and Xianyang Bridge, was first built south of present-day Xianyang in 138 BCE during the reign of Emperor Wu of Han. It formed a major route from Chang'an toward the Western Regions and Sichuan. Emperor Taizong of Tang met the Eastern Turkic ruler Illig Qaghan near the bridge, and the site later became famous in Tang poetry as a place of departure and farewell. The modern Xianyang Bridge was constructed in stages beginning in 1954, expanded in 1983 and rebuilt or reinforced after 1999. Although the ancient bridge no longer survives in its original form, the crossing remains an important transport corridor.",
+    "dynastyTag": "Western Han origin; renowned during the Tang dynasty"
+  },
+  "br_new_232": {
+    "name": "Wanshan Floating Bridge",
+    "province": "Zhejiang",
+    "type": "floating bridge",
+    "material": "steel and floating pontoons",
+    "level": "Historic Landscape Structure",
+    "history": "Wanshan Bridge is a floating bridge crossing the Yiwu River in Fotang Town, Yiwu. It was first built between 1760 and 1763 after local gentry and residents raised funds because ferry service was insufficient. After 1949, it was repaired several times, and during the 1960s it was gradually replaced by a stone-pier concrete bridge for transport needs. A local campaign to reconstruct the historic floating bridge began in 2013. The present steel pontoon bridge, completed in 2017 in a traditional style, has become an important pedestrian connection and part of the cultural landscape of Fotang Ancient Town.",
+    "dynastyTag": "Qing dynasty origin; reconstructed in 2017"
+  },
+  "br_new_233": {
+    "name": "Chengbo Bridge",
+    "province": "Jiangxi",
+    "type": "five-span timber cantilever covered bridge",
+    "material": "timber and stone",
+    "level": "Jiangxi Provincial Cultural Heritage Site",
+    "history": "Chengbo Bridge crosses the Chenfang River in Hufang Town, Yanshan County. It was first built in 630 during the Tang dynasty after the monk Chengbo raised funds, and the bridge was named after him. A legend says that when a pier repeatedly sank during construction, the monk threw down his staff and transformed the deep water into a sandbank. The existing bridge was reconstructed through public donations in 1866. It has four piers, five openings and a timber cantilever covered structure approximately 80 metres long. The bridge was designated a provincial cultural heritage site in 2000 and has received further conservation work.",
+    "dynastyTag": "Tang dynasty origin; rebuilt in 1866"
+  },
+  "br_new_234": {
+    "name": "Jinlan Bridge",
+    "province": "Hunan",
+    "type": "three-span stone arch bridge",
+    "material": "granite",
+    "level": "Cultural Heritage Site",
+    "history": "Jinlan Bridge, originally known as Jinlan or Golden Basket Bridge, is located near the government offices of Jinqiao Town. It was built in the early Wanli reign of the Ming dynasty under the leadership of the local farmer Zhou Jide, who organized donations and labour. The bridge's name is connected with a local legend about a lost Buddhist treasure. It has three arches, is 25 metres long and 6 metres wide, and formerly had a bridge pavilion and stone inscription. It is regarded as one of the oldest stone arch bridges over the Bai River.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_235": {
+    "name": "Waishan Bridge",
+    "province": "Zhejiang",
+    "type": "single-span five-sided stone arch bridge",
+    "material": "stone",
+    "level": "Cultural Heritage Site",
+    "history": "Waishan Bridge was first built during the Ming dynasty and repaired several times during the Qing dynasty. It is a characteristic Shaoxing five-sided stone arch bridge, approximately 14.75 metres long with a clear span of 3.3 metres. In earlier times, the bridge stood at the boundary between the mountain area and the plains. A brick pavilion with a gate was built beside its northern approach; the gate was opened during the day and closed in the evening to prevent wild animals from entering the village. Because the bridge served as a barrier against dangers coming from the outer mountains, it became known as Waishan Bridge.",
+    "dynastyTag": "Ming dynasty; repaired during the Qing dynasty"
+  },
+  "br_new_236": {
+    "name": "Huacheng Bridge",
+    "province": "Zhejiang",
+    "type": "three-span stone arch pedestrian bridge",
+    "material": "dressed stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Huacheng Bridge, also called Tang Bridge and Puguang Bridge, crosses Shuanglin Tang in Huzhou and forms part of the nationally protected Three Bridges of Shuanglin. It was first built as a wooden bridge between 1314 and 1320 after a monk from Huacheng Temple donated funds. It was later rebuilt in brick and converted into a three-span stone bridge during the Ming dynasty, with further repairs in 1630 and 1793. During the Ming and Qing dynasties, a tall illuminated pole was placed on the bridge to guide and attract travelling merchants and night boats, a feature considered unusual in Chinese bridge history.",
+    "dynastyTag": "Yuan dynasty origin; rebuilt during the Ming and Qing dynasties"
+  },
+  "br_new_237": {
+    "name": "Jindou Bridge",
+    "province": "Fujian",
+    "type": "single-span stone slab bridge",
+    "material": "stone",
+    "level": "Fuzhou Municipal Cultural Heritage Site",
+    "history": "Jindou Bridge crosses the Antai River at the western entrance of Wenrufang in Fuzhou. It forms part of the protected group known as the Seven Bridges of the Qiong River. The bridge was first built no later than 901, when Wang Shenzhi constructed the fortified outer city of Fuzhou. It stood across the moat outside Jindou Gate, the southwestern city gate. The bridge was restored in 1818 and again in 1986. It is 10.2 metres long, 3.7 metres wide and has a span of 4.7 metres.",
+    "dynastyTag": "Late Tang dynasty"
+  },
+  "br_new_238": {
+    "name": "Dengci Bridge",
+    "province": "Zhejiang",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "Zhejiang Provincial Cultural Heritage Site",
+    "history": "Dengci Bridge, also known as Jiushi Bridge and Dengshi Bridge, is located in Fenghui Town, Shangyu District, Shaoxing. It is a single-span stone arch bridge built with horizontally laid parallel stones, a construction method considered unique in the Shaoxing region. The bridge was already recorded during the Song dynasty and bears an inscription documenting repairs in 1215. Monks from Dengci Temple raised funds to rebuild it in 1343, after which it was also called Jiushi Bridge. It was repaired again in 1583. The name Dengci resembles Dengshi, meaning advancement into official service, and was therefore considered auspicious.",
+    "dynastyTag": "Song dynasty origin; rebuilt during the Yuan and Ming dynasties"
+  },
+  "br_new_239": {
+    "name": "Shuangxi Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "covered timber beam bridge",
+    "material": "dressed stone and fir timber",
+    "level": "Cultural Heritage Site",
+    "history": "Shuangxi Wind-and-Rain Bridge is located in Dongshui Village, Chaodong Town, Fuchuan Yao Autonomous County. It was built in 1885 during the Guangxu reign of the Qing dynasty. Its abutments and piers are built of dressed stone, while its timber beams and deck are made of fir. Above the deck stands a seven-bay covered corridor and bridge pavilion with traditional timber framing and grey-tiled roofs. Horse-head walls form the entrances at both ends.",
+    "dynastyTag": "Late Qing dynasty, 1885"
+  },
+  "br_new_240": {
+    "name": "Yulong Bridge",
+    "province": "Guangxi",
+    "type": "single-span stone arch bridge",
+    "material": "dressed stone",
+    "level": "Key Cultural Heritage Site of Yangshuo",
+    "history": "Yulong Bridge crosses the Yulong River in Yulong Village, Yangshuo County. It was built in 1412 during the Yongle reign of the Ming dynasty. The 36-metre-long bridge is constructed from dry-laid dressed stone and is regarded as the largest surviving single-span stone bridge in Guangxi. According to legend, a scholar travelling to the imperial examinations was unable to cross the river during a violent storm. A dragon princess summoned the Dragon King and the Eight Immortals to defeat the water monster and created a bridge for him. After achieving success, the scholar returned and built a permanent stone bridge in gratitude, giving both the bridge and river the name Yulong, meaning Meeting the Dragon.",
+    "dynastyTag": "Ming dynasty, 1412"
+  },
+  "br_new_241": {
+    "name": "Bailiang Bridge",
+    "province": "Zhejiang",
+    "type": "seven-span stone-pier timber covered bridge",
+    "material": "timber and stone",
+    "level": "Cultural Heritage Site",
+    "history": "Bailiang Bridge crosses the Yin River in Huijiang Village, Ningbo. It was reconstructed as a timber beam bridge in 1078 during the Northern Song dynasty by Zhu Wenwei and his son, replacing an earlier floating bridge traditionally dated to the Tang dynasty. The bridge is 77.4 metres long and uses 124 large fir timbers to support its deck, from which its name is said to derive. Twenty-three tiled rooms form a covered corridor above the bridge. After many reconstructions during the Southern Song, Yuan, Ming and Qing dynasties, it remains the longest surviving timber covered bridge in Zhejiang.",
+    "dynastyTag": "Northern Song dynasty, 1078"
+  },
+  "br_new_242": {
+    "name": "Wuyanzha Bridge",
+    "province": "Zhejiang",
+    "type": "five-span stone beam sluice bridge",
+    "material": "stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Wuyanzha Bridge, also called Biantuozha, is located in Qixian Village, Shaoxing. It is a five-opening stone beam bridge combined with a historic sluice. The large stone abutments and four central piers contain vertical grooves for operating sluice gates, while triangular cutwaters reduce the force of the current. Records state that the sluice was constructed in 1511 under Zhang Huan, magistrate of Shanyin County. After 1803, the southern sluice was converted for use as a bridge but retained the traditional name Wuyanzha. It served both as a transportation route and as an important flood-control and drainage structure.",
+    "dynastyTag": "Ming dynasty, 1511; converted during the Qing dynasty"
+  },
+  "br_new_243": {
+    "name": "Zhugong Bridge",
+    "province": "Fujian",
+    "type": "two-span stone arch bridge with a central pier",
+    "material": "dressed stone",
+    "level": "Cultural Heritage Site",
+    "history": "Zhugong Bridge crosses Baiyan Stream in Zhugong Village, Lianjiang County and historically formed part of the Fuzhou-Wenzhou postal route. Its original construction date is unknown, and the earliest bridge was made of timber and frequently destroyed by floods. In 1058, county magistrate Zhu Ding organized donations to rebuild it as a stone bridge. Local people named the bridge and stream after him in gratitude. It was repaired in 1779 and later converted several times for road traffic. The present two-span stone arch bridge was built in 1977 and retains two stone lions from the earlier structure.",
+    "dynastyTag": "Northern Song reconstruction in 1058; present bridge rebuilt in 1977"
+  },
+  "br_new_244": {
+    "name": "Xiachuan Bridge",
+    "province": "Zhejiang",
+    "type": "three-span stone beam bridge",
+    "material": "bluestone and rubble stone",
+    "level": "Cultural Heritage Site",
+    "history": "Xiachuan Bridge is a north-south three-span stone beam bridge. Its three openings and two piers divide the lake water into three channels which, when seen from a distance, resemble the Chinese character chuan, meaning river. At sunset, red evening clouds shine through the bridge openings and are reflected on the calm water. This picturesque scene gave the bridge the name Xiachuan, meaning Rosy-Cloud River Bridge.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_245": {
+    "name": "Chang'an Bridge (Xingfu Bridge)",
+    "province": "Zhejiang",
+    "type": "single-span stone arch covered bridge",
+    "material": "pebbles, rubble stone and timber",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Chang'an Bridge, also known as Xingfu Bridge, is located in Qixiakeng Village, Xikou Town, Ningbo. The existing bridge was rebuilt around the beginning of the Tongzhi reign of the Qing dynasty, although local records also preserve traditions of an earlier Ming or early Qianlong-period bridge. The bridge is 18 metres long and crosses the Junxi Stream. Its arch and deck are built from pebbles and rubble stone, while a timber-covered corridor above provides shelter from sun and rain. The corridor contains statues of Guanyin, Weituo and the local Earth God.",
+    "dynastyTag": "Earlier origin uncertain; rebuilt during the Qing dynasty"
+  },
+  "br_new_246": {
+    "name": "Lequ Bridge",
+    "province": "Zhejiang",
+    "type": "three-span stone arch bridge",
+    "material": "stone",
+    "level": "Xinchang County Cultural Heritage Site",
+    "history": "Lequ Bridge is located in Nanshan Village, Ru'ao Town, Xinchang County, Shaoxing, Zhejiang, and crosses Wannian Stream. The surviving three-span stone arch bridge was rebuilt through donations raised by Yang Guilin, Li Guibin and others in 1895, the twenty-first year of the Guangxu reign of the Qing dynasty. Its name comes from an inscription on the Lequ Bridge Stele, combining the ideas that 'doing good brings the greatest joy' and 'taking from others in order to do good.' The bridge is 34 metres long, 4 metres wide and 7.35 metres high. Its three spans measure 8.2, 9.2 and 8.2 metres. It has longitudinally joined arch rings, a pointed cutwater pier, solid stone parapets, approach steps and a pavilion containing construction and donation steles. The bridge was repeatedly destroyed by floods in earlier periods, and the present structure dates from the Guangxu reign. It represents the traditional stone-arch bridge-building techniques of eastern Zhejiang and was designated a Xinchang County cultural heritage site in 2006.",
+    "dynastyTag": "Qing dynasty, rebuilt in 1895"
+  },
+  "br_new_247": {
+    "name": "Liulihe Bridge",
+    "province": "Beijing",
+    "type": "eleven-span stone arch bridge",
+    "material": "granite",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Liulihe Bridge is located in Liulihe Town, Fangshan District, Beijing, and crosses the Liuli River. It is the largest stone arch bridge in Fangshan and is second in scale only to Lugou Bridge among the area's historic bridges. Emperor Yongle ordered its construction in 1418, and it was restored in 1545 during the Jiajing reign of the Ming dynasty. Historically, it formed the first of the Eight Scenic Views of Liangxiang, known as 'The Long Bridge of Yangu.' The bridge runs north to south and has eleven stone arches, with the central arch being the largest. It is approximately 191 metres long, 11 metres wide and 8 metres high. Water-controlling animal heads are carved above the arches, while the parapets and posts bear decorative patterns. Deep wheel ruts preserved on the deck were formed by iron-axled carts over several centuries and provide valuable evidence for the study of ancient transportation. In 2013, the bridge was designated a Major Historical and Cultural Site Protected at the National Level.",
+    "dynastyTag": "Ming dynasty, 1418"
+  },
+  "br_new_248": {
+    "name": "Qinglong Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "single-span stone arch covered bridge",
+    "material": "stone, brick and timber",
+    "level": "Not specified",
+    "history": "Qinglong Bridge is located in Fuchuan Yao Autonomous County, Guangxi. Together with Huilan Bridge, it is traditionally known as one of the Yin-Yang Bridges. It was first built in 1624, the fourth year of the Tianqi reign of the Ming dynasty. The bridge consists of a single-span stone arch, a covered corridor, a central pavilion and a multi-storey gateway tower. The pavilion has a traditional hip-and-gable roof and a column-and-tie timber structure. At the southern end stands a three-storey brick-and-timber tower with double-eaved hip-and-gable roofs and entrances facing south, north and east. Each level is surrounded by thirty-two decorative wooden windows, while the columns rest on lotus-shaped drum bases. Several historical stone steles are embedded in the interior walls of the ground floor.",
+    "dynastyTag": "Ming dynasty, 1624"
+  },
+  "br_new_249": {
+    "name": "Xinjiang Bridge",
+    "province": "Zhejiang",
+    "type": "modern multi-span urban bridge",
+    "material": "rubble stone, dressed stone, reinforced concrete and steel",
+    "level": "Not specified",
+    "history": "Xinjiang Bridge is an important crossing of the Yao River in Ningbo, Zhejiang. It is situated between the junction of Zhongshan East Road and Jiangxia Street and the junction of Yangshan Road and Renmin Road, forming the last bridge over the Yao River before it joins the Yong River. The crossing was first established in 1862 as a floating bridge built by British residents. In 1970, it was replaced by a three-span reinforced-concrete double-curvature arch bridge. Because of serious structural defects, the old bridge was classified as a Grade E dangerous bridge and closed in September 2006. A temporary bridge opened in January 2007, and demolition of the old structure began later that year. Construction of the permanent replacement started in 2013, and one side opened to traffic in September 2015. The new bridge retains historic arch-shaped design elements and carries six traffic lanes, serving as an important connection between Ningbo's Haishu and Jiangbei districts.",
+    "dynastyTag": "First built in 1862; modern bridge reconstructed in the 21st century"
+  },
+  "br_new_250": {
+    "name": "Haitang Bridge",
+    "province": "Guangxi",
+    "type": "single-span stone arch bridge",
+    "material": "earth and stone",
+    "level": "Hengzhou Municipal Cultural Heritage Site",
+    "history": "Haitang Bridge is located in Haitang Park in Hengzhou, Guangxi, and crosses Xiangdao Stream. The bridge is traditionally said to have originated during the Tang dynasty, while the surviving earth-and-stone structure was rebuilt in 1742 during the Qianlong reign of the Qing dynasty. It is 32 metres long, 4 metres wide and 8 metres high, and once formed an important route from the ancient city of Hengzhou toward the west. Its name is associated with the Northern Song poet Qin Guan, who wrote of crabapple blossoms after arriving in the region in exile. Qin Guan established a teaching site near the bridge, later developed into Huaihai Academy, and is also traditionally credited with teaching local people sericulture. His Treatise on Silkworms is regarded as China's earliest surviving specialised work on silkworm cultivation. The bridge preserves memories of historic Hengzhou landscapes, including 'Auspicious Purple Waters' and 'Evening Rain over the Crabapple Blossoms.'",
+    "dynastyTag": "Tang dynasty origin; rebuilt during the Qing dynasty in 1742"
+  },
+  "br_new_251": {
+    "name": "Yuantong Bridge",
+    "province": "Zhejiang",
+    "type": "single-span stone arch bridge",
+    "material": "bluestone and rubble stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Yuantong Bridge, historically called Xuantong Bridge, is located in Gongli Natural Village, Dongxiaogong Village, Qingshanhu Subdistrict, Lin'an District, Hangzhou. It was built in 1184 during the Chunxi reign of the Southern Song dynasty. The small north-south bridge crosses a village stream and is 6.55 metres long, with a clear deck width of 2.7 metres, a span of 1.8 metres and a rise of 0.8 metres. Its arch is formed from three sections of bluestone slabs, while its abutments are built of irregular rubble stone. Square posts and solid grooved parapets line both sides of the deck, and the parapets preserve inscriptions recording the original Southern Song construction, a Yuan-dynasty restoration, and later Qing-dynasty names and dates. The bridge once formed part of the ceremonial route to Dongxiao Palace and provides important evidence of the area's Daoist history and Southern Song imperial rituals. It was designated a county-level cultural heritage site in 1988.",
+    "dynastyTag": "Southern Song dynasty, 1184"
+  },
+  "br_new_252": {
+    "name": "Wuxian Bridges",
+    "province": "Fujian",
+    "type": "stone slab bridge group with boat-shaped piers",
+    "material": "stone",
+    "level": "Xiamen Municipal Cultural Heritage Site",
+    "history": "The Wuxian Bridges are a group of three historic stone bridges in Wuxian Town, Tong'an District, Xiamen, Fujian. They were constructed during the Dade reign of the Yuan dynasty between 1297 and 1307. The First Wuxian Stream Bridge, west of Wuxian Village, has boat-shaped piers, eight piers and nine openings. Three long stone slabs span each opening. It was restored during the Chongzhen reign of the Ming dynasty with funds donated by Chen Jiyu, a scholar from Kinmen, and is now a protected cultural heritage site of Xiamen. The Second Wuxian Stream Bridge was rebuilt in 1971 as a seventeen-span stone slab bridge. The Third Wuxian Stream Bridge once stood north of Anlu Village and had three piers and four openings, but disappeared after the stream changed course. Historically, the bridges formed part of the old road from Tong'an to Quanzhou and served as an important starting point for water transport toward Kinmen.",
+    "dynastyTag": "Yuan dynasty, 1297–1307"
+  },
+  "br_new_253": {
+    "name": "Qingshui Sluice Bridge",
+    "province": "Zhejiang",
+    "type": "historic sluice bridge",
+    "material": "stone and reinforced concrete",
+    "level": "Zhejiang Provincial Cultural Heritage Site",
+    "history": "Qingshui Sluice Bridge is located in Haoba Village, Cao'e Subdistrict, Shangyu District, Shaoxing. It was a vital connection between ancient Jian Lake and the Cao'e River, an important hub of the Eastern Zhejiang Canal, and a landmark marking the end of the Xiaoshan–Shaoxing seawall. Its predecessor can be traced to Tongming Sluice, built between 1004 and 1007 during the Northern Song dynasty as one of Shangyu's earliest structures for tidal protection, irrigation and drainage. It was abandoned in the early Southern Song dynasty, rebuilt in 1208 and reconstructed again in 1348. The present sluice originated in 1537 during the Jiajing reign of the Ming dynasty and was rebuilt at a new location in 1899 after the original Haokou sluice became blocked by sediment. During the Qing dynasty, additional sluices and waterways were constructed to strengthen flood discharge, bring water from the Cao'e River and clear accumulated silt. In 1966, the sluice was incorporated into the Cao'e River pumping project and fitted with reinforced-concrete gates and electric screw-lift equipment. It underwent further alterations and repairs in 1973 and 1984, while the present Tongming, or Qingshui, Sluice was reconstructed during the Upper Yao River West Drainage Project in 2017. In 2011, it was included as Shangyu's representative heritage site in the Grand Canal World Heritage nomination.",
+    "dynastyTag": "Northern Song origin; rebuilt during the Ming and Qing dynasties"
+  },
+  "br_new_254": {
+    "name": "Xianglin Bridge",
+    "province": "Zhejiang",
+    "type": "single-span seven-sided stone arch bridge",
+    "material": "stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Xianglin Bridge is located in Changlou Village, Daoxu Town, Shangyu District, Shaoxing, and crosses Yemaolong. It is a Ming-dynasty single-span stone arch bridge measuring 17.8 metres long, with an arch rise of 2.6 metres. The bridge uses a rare seven-sided arch structure and preserves an inscription recording that it was rebuilt during the Chongzhen reign of the Ming dynasty, as well as a stele documenting repairs in 1883 during the Guangxu reign of the Qing dynasty. Inscriptions on the bridge record donations from residents of Kuaiji and Shanyin counties. According to local history, villagers on both banks jointly restored the bridge with the assistance of monks from the nearby Xianglin Temple. Located approximately twenty-five metres northwest of the bridge, the temple and bridge form a historic architectural group. Xianglin Bridge is regarded as the only surviving ancient seven-sided stone arch bridge in Shaoxing and provides valuable physical evidence for the study of bridge-building techniques in eastern Zhejiang. It was designated a Shangyu municipal cultural heritage site in 2006.",
+    "dynastyTag": "Ming dynasty; restored during the Qing dynasty"
+  },
+  "br_new_255": {
+    "name": "Diliu Bridge",
+    "province": "Zhejiang",
+    "type": "single-span semicircular stone arch bridge",
+    "material": "stone slabs and rubble stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Diliu Bridge is located approximately 500 metres west of Xilü Bridge in Shengzhou. It is a simple and robust single-span semicircular stone arch bridge built before 1671, the tenth year of the Kangxi reign of the Qing dynasty. The bridge is 18 metres long, 3.44 metres wide and 4.2 metres high. Its clear span is 5.8 metres and its arch rise is 3.62 metres. The deck is paved with stone slabs and contains a square central stone, while nine stone steps rise from both the northern and southern approaches. The arch ring is dry-laid with dressed stone blocks, and the side walls are constructed from irregular rubble stone. A stone marker beside the bridge identifies it as a protected cultural heritage site of Shengzhou.",
+    "dynastyTag": "Early Qing dynasty; built before 1671"
+  },
+  "br_new_256": {
+    "name": "Xugong Bridge",
+    "province": "Jiangsu",
+    "type": "single-span stone arch bridge",
+    "material": "granite and bluestone",
+    "level": "Suzhou Municipal Cultural Heritage Site",
+    "history": "Xugong Bridge is located in Xugongqiao Village, Huaqiao Town, Suzhou, Jiangsu. It is a Qing-dynasty single-span arch bridge crossing Xugong Creek from east to west. The bridge was first built in 1809, the fourteenth year of the Jiaqing reign, and repaired in 1820. It is 19.6 metres long and 2.9 metres wide, with a clear span of 7.1 metres and an arch rise of 3.96 metres. Its arch ring was constructed using longitudinally linked parallel sections. The bridge combines granite and bluestone, and the name Xugong Bridge is carved in relief on the crown stone, with couplets inscribed on both sides. During restoration work in 2018, an earlier construction inscription was discovered on the arch ring, although its exact date still requires further study. The bridge was repaired from March to May 2018 according to the principle of preserving its historic appearance.",
+    "dynastyTag": "Qing dynasty, 1809"
+  },
+  "br_new_257": {
+    "name": "Dongyuan Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "stone beam covered bridge",
+    "material": "stone, brick and timber",
+    "level": "Not specified",
+    "history": "Dongyuan Wind-and-Rain Bridge is located among the fields of Baimianzhai Village, Chaodong Town, Fuchuan Yao Autonomous County. It was built in 1769, the thirty-fourth year of the Qianlong reign of the Qing dynasty. The bridge is a stone beam structure with a blue-brick deck. Above the deck stands a five-bay covered corridor and bridge pavilion constructed with traditional column-and-tie timber framing and roofed with small grey tiles. Horse-head walls form the entrances at both ends of the bridge. The bridge is 15.4 metres long and represents the characteristic covered-bridge architecture of the local Yao region.",
+    "dynastyTag": "Qing dynasty, 1769"
+  },
+  "br_new_258": {
+    "name": "Longgui Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "timber beam covered bridge",
+    "material": "dressed stone, fir timber and timber framing",
+    "level": "Not specified",
+    "history": "Longgui Wind-and-Rain Bridge is located in Longgui Village, Chaodong Town, Fuchuan County, and crosses a small stream running through the surrounding fields. It was built in 1775, the fortieth year of the Qianlong reign of the Qing dynasty. The bridge's abutments and piers are constructed from dressed stone, while its main beams are made of fir timber and covered with wooden planks to form the deck. Above the deck stands a five-bay covered corridor and pavilion built with traditional column-and-tie timber framing and roofed with small grey tiles. Horse-head walls mark the entrances at both ends. The bridge is 14.3 metres long, with a span of 7.91 metres.",
+    "dynastyTag": "Qing dynasty, 1775"
+  },
+  "br_new_259": {
+    "name": "Xinglong Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "timber beam covered bridge",
+    "material": "dressed stone, fir timber and timber framing",
+    "level": "Protected as part of the Fuchuan Yao Wind-and-Rain Bridge Group",
+    "history": "Xinglong Wind-and-Rain Bridge is located in Chashan Village, Chaodong Town, Fuchuan County, Hezhou, and crosses a small stream within the village. It was built in 1813, the eighteenth year of the Jiaqing reign of the Qing dynasty. The bridge is 22.34 metres long and 6.2 metres wide, while its pavilion rises to approximately 7.15 metres. Its main body is constructed from fir timber and covered with wooden planks. An eight-bay covered corridor with a small grey-tiled roof extends across the bridge, and a two-storey hip-and-gable pavilion stands above it. Horse-head walls form the bridge entrances. Xinglong Bridge is a landmark of Chashan Village and is often used as a gathering place during festivals and welcoming ceremonies. It belongs to the protected group of Yao wind-and-rain bridges in Fuchuan, and the area within ten metres of the structure is included in its protection zone. The bridge has undergone conservation and repair work in recent years.",
+    "dynastyTag": "Qing dynasty, 1813"
+  },
+  "br_new_260": {
+    "name": "Batuan Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "two-level timber covered bridge with two spans and three pavilions",
+    "material": "timber and stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Batuan Bridge, also known as Batuan Wind-and-Rain Bridge, crosses the Mengjiang River beside Batuan Village in Dudong Town, Sanjiang Dong Autonomous County, Liuzhou, Guangxi. Construction began in 1896 during the Guangxu reign of the Qing dynasty and was completed in 1910, taking thirteen years. It was designed and built by Shi Hanzhang, Wu Jintian and others. The bridge is 50 metres long, with a distance of 30.14 metres between the abutments. It has two spans, one central pier and three pavilions. Its general structure resembles Chengyang Bridge, but it includes a separate lower passage for livestock beside the pedestrian corridor, creating a two-level timber bridge with a vertical difference of approximately 1.5 metres. Separating people and animals helped keep the pedestrian passage clean and safe while also extending the bridge's service life. This functional division is considered a pioneering example of three-dimensional bridge design and has earned the bridge the title 'Dong Ethnic Overpass.' It was designated a Major Historical and Cultural Site Protected at the National Level in 2001.",
+    "dynastyTag": "Late Qing dynasty, 1896–1910"
+  },
+  "br_new_261": {
+    "name": "Da'an Bridge",
+    "province": "Guangxi",
+    "type": "seven-span stone beam bridge",
+    "material": "dressed stone and granite",
+    "level": "Not specified",
+    "history": "Da'an Ancient Stone Bridge was built in 1826, the sixth year of the Daoguang reign of the Qing dynasty, and remains structurally sound. According to local tradition, its design was based on the classical cosmological sequence in which the Supreme Ultimate produces the Two Forms, the Two Forms produce the Four Images, and the Four Images produce the Eight Trigrams. The complete bridge represents the Supreme Ultimate, while its two principal piers represent the Two Forms. The piers are shaped like boats, with pointed upstream ends that reduce the force of the current. The deck is divided into seven spans, each paved with trapezoidal stone strips approximately one chi wide. Their broader surfaces face upward and their narrower sides downward, allowing rainwater and mud to drain through the joints. Natural rock at the northern end provides additional protection. The bridge's refined engineering design continues to be admired by bridge-construction specialists.",
+    "dynastyTag": "Qing dynasty, 1826"
+  },
+  "br_new_262": {
+    "name": "Jushan Bridge",
+    "province": "Shanghai",
+    "type": "single-span stone arch bridge with stepped deck",
+    "material": "stone",
+    "level": "Jiading District Cultural Heritage Site",
+    "history": "Jushan Bridge, popularly known as Qiu Bridge, is also called Women's Bridge because many of those who donated toward its construction were women. It was first built in 1380 during the Hongwu reign of the Ming dynasty, rebuilt in 1612, repaired in 1864 and restored again in 1990. Running north to south across the Lianqi River, it is a single-span stone arch bridge nearly 28 metres long and more than 4 metres wide. Its arch has a clear span of 9.3 metres and a rise of 5 metres, while the deck is formed by stone steps. Inscriptions on the bridge record its name, dates and the names of donors. The bridge is valuable for the study of Jiading's historic street layout, local cultural history and bridge architecture. It was designated a Jiading County cultural heritage site in 1992 and a Jiading District cultural heritage site in 2000.",
+    "dynastyTag": "Ming dynasty, 1380"
+  },
+  "br_new_263": {
+    "name": "Fengyi Bridge",
+    "province": "Sichuan",
+    "type": "seven-span stone arch bridge",
+    "material": "stone",
+    "level": "Historic Bridge Heritage Site",
+    "history": "Fengyi Bridge crosses the Yazi River in Shidongnian Community, Danjingshan Town, Pengzhou. Built during the Wanli reign of the Ming dynasty, it has stood over the river for more than four centuries and is the oldest surviving bridge in Pengzhou. It is also one of the most representative non-hydraulic structures within the Jianjiang Weir heritage system. The bridge is 70 metres long, 5 metres wide and 9 metres high. Its central arch is the largest, while the three arches on either side gradually decrease in size, giving the deck a natural curved profile that echoes the distant mountains. The most distinctive feature is the pointed fish-mouth design at the upstream side of the piers. Similar in principle to the fish-mouth water divider at Dujiangyan, these structures divide floodwater, reduce the direct force of the current and block floating timber and rocks carried down by mountain floods. The bridge reflects the western Sichuan hydraulic principle of guiding water according to its natural flow rather than resisting it.",
+    "dynastyTag": "Ming dynasty, Wanli reign"
+  },
+  "br_new_264": {
+    "name": "Wanyuan Bridge",
+    "province": "Jiangsu",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "Jiangsu Provincial Cultural Heritage Site",
+    "history": "Wanyuan Bridge is located in Benniu Town, Xinbei District, Changzhou, Jiangsu, and crosses the old Meng River. It was originally built during the Song dynasty and rebuilt in 1878 during the Guangxu reign of the Qing dynasty. Its name is traditionally associated with the story that funds for construction were collected through donations from thousands of households. Stone seats known locally as 'beauty rests' are installed on both sides of the bridge's crown, a feature considered unique among Changzhou's historic bridges. In 1937, the bridge witnessed a defensive battle against Japanese forces. It remains an important passage in the ancient town and was designated a Jiangsu Provincial Cultural Heritage Site in 2011.",
+    "dynastyTag": "Song dynasty origin; rebuilt during the Qing dynasty in 1878"
+  },
+  "br_new_265": {
+    "name": "Bitang Bridge and Causeway",
+    "province": "Zhejiang",
+    "type": "historic stone causeway incorporating bridges and a pavilion",
+    "material": "dressed stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Bitang Bridge, also known as the Yangcha Lake Shelter Causeway, is located on Yangcha Lake in Lingzhi Town, Yuecheng District, Shaoxing. Rather than a single bridge, it is a long stone causeway begun during the Tianqi reign of the Ming dynasty and completed in 1642. Approximately 3.5 kilometres long and 2.3 metres wide, it runs north to south and is composed of solid stone embankments, several stone bridges and a stone pavilion. The causeway served both as a sheltered route for boats during strong winds and as a towpath. Its stone courses were laid transversely and joined with interlocking mortise-and-tenon-like grooves, while boats could enter the protected inner lake through openings beneath the bridges. According to tradition, a stonemason who survived a boat accident vowed to build the causeway but was unable to complete the work. Zhang Xianchen of Kuaiji later donated six thousand taels of silver, allowing the project to be completed after five years. It was originally called Tianji Causeway. The structure was repaired repeatedly during the Qing dynasty and in modern times. After land reclamation in 1969, approximately two kilometres of the southern section became an embankment, while about 1.5 kilometres of the northern section remained surrounded by water. It was designated a national-level protected cultural heritage site in 2013 and was included in Zhejiang's first group of important water-conservancy heritage resources in 2023.",
+    "dynastyTag": "Ming dynasty, completed in 1642"
+  },
+  "br_new_266": {
+    "name": "Huangdu Bridge",
+    "province": "Zhejiang",
+    "type": "large single-span stone arch bridge",
+    "material": "dressed stone",
+    "level": "Xinchang County Cultural Heritage Site",
+    "history": "Huangdu Bridge, also historically known as Wangdu Bridge and Hengdu Bridge, is located in Hengduqiao Village, Ru'ao Town, Xinchang County, Zhejiang. The bridge runs north to south across Duxi Stream on the ancient postal route between Xinchang and Tiantai. Its original construction date is unknown. It was recorded as Wangdu Bridge in the 1477 Xinchang County Gazetteer and as Huangdu Bridge in the 1579 edition. After the Qing dynasty it was often called Huangdu Bridge with a different character, and in the early 1950s it was renamed Hengdu Bridge. Its historic name Huangdu Bridge was restored in 2019. The bridge was destroyed by flooding in 1844 and rebuilt through public subscriptions, with the present structure completed in 1851. According to legend, Zhao Gou, later Emperor Gaozong of the Southern Song dynasty, was pursued by Jin troops and received supernatural assistance in crossing the river here, giving the bridge its imperial name. The bridge is 23.9 metres long, approximately 4.5 metres wide and has a clear span of about 17 metres. Its body and arch are built from staggered dressed-stone courses. Solid stone parapets and decorated posts line both sides, with carvings of white elephants, lions and lotus pedestals. The characters 'Huangdu Bridge' are carved on the face of one arch. A Qing-dynasty bridge temple and a construction stele survive approximately one hundred metres north of the bridge.",
+    "dynastyTag": "Recorded during the Ming dynasty; present bridge completed in 1851"
+  },
+  "br_new_267": {
+    "name": "Taiping Bridge",
+    "province": "Jiangsu",
+    "type": "single-span stone arch bridge",
+    "material": "dressed stone",
+    "level": "Not specified",
+    "history": "Taiping Bridge has been used as a historical place name for several bridges and settlements in China. The Taiping Bridge in Gongzhuling was begun in August 1910 by the Japanese colonial authorities and completed in 1911 as a steel pedestrian overpass crossing the railway area north of Gongzhuling Station. Thick wooden planks were laid across its deck, and the trains passing below could be seen through the gaps, making the bridge a distinctive viewing platform for local residents. It also served as an important connection between residential areas on both sides of the railway until it was demolished following construction of the new railway station after 2000. The bridge used a riveted steel structure without fully enclosed railings, and its wooden deck was replaced approximately every five years. Nearby remains of a road built for Japanese military tanks and the former bridge site together bear physical witness to the history of occupation. Other historic bridges bearing the same name include the surviving single-span stone arch bridge in Fengjing Ancient Town and a Qing-dynasty bridge associated with the Hua clan in the Cixi region.",
+    "dynastyTag": "Built in 1910–1911"
+  },
+
+  "br_new_268": {
+    "name": "Xilü Bridge",
+    "province": "Zhejiang",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Xilü Bridge, also locally known as Xiji Bridge, is located over Kui Stream in Kuixi Village, Guangli Township, Chongren Town, Shengzhou, Shaoxing. It is a single-span stone arch bridge measuring 10.2 metres long, 3.6 metres wide and 4.2 metres high. The characters 'Xilü Bridge' are carved into the central arch ring. During the Eastern Jin dynasty, the nearby Huatian Temple attracted many worshippers, and the bridge was built to make travel easier both for pilgrims and for villagers working in the fields. According to legend, the famous scholar, sculptor and recluse Dai Kui, who lived from 327 to 396, was invited to name the bridge. After walking across it, he noticed that his wooden clogs had left muddy marks on the clean deck. He immediately removed and washed them as an apology. Inspired by this scene, the villagers proposed the name Xilü, meaning 'Washing the Footwear,' and asked Dai Kui to write the three characters that were later carved on the bridge.",
+    "dynastyTag": "Eastern Jin dynasty tradition"
+  },
+  "br_new_269": {
+    "name": "Hushang Bridge",
+    "province": "Zhejiang",
+    "type": "semicircular stone arch bridge",
+    "material": "stone",
+    "level": "Not specified",
+    "history": "Hushang Bridge is located in Hushang Village, Shaoxing, Zhejiang. It is a semicircular stone arch bridge constructed with transversely connected parallel arch sections. The bridge is 11 metres long, 4.2 metres high and 3 metres wide, with a span of 4.5 metres. It was built before the Qing dynasty and is an important historic bridge crossing the Jian Lake water system.",
+    "dynastyTag": "Built before the Qing dynasty"
+  },
+  "br_new_270": {
+    "name": "Shouchang Bridge",
+    "province": "Zhejiang",
+    "type": "single-span solid-spandrel circular stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Shouchang Bridge is located in Erdu Village, Xiazhuhu Subdistrict, Deqing County, Huzhou, Zhejiang. It was built during the Southern Song dynasty as part of the ancient postal route from Wukang to Hangzhou, crossing the Shangzhu River. The north-south bridge is a single-span solid-spandrel circular stone arch bridge. Its present length is approximately 50 metres, although the original bridge was recorded as 32.85 metres long. It is 9.45 metres high, with a clear span of 17.4 metres and an arch rise of 7.16 metres. The bridge base is 4.25 metres wide, narrowing gradually upward to a deck width of 2.74 metres. It is considered the largest and most completely preserved Song-dynasty single-span stone arch bridge discovered in Zhejiang and the wider Yangtze River Delta. Its main structure remains intact and largely preserves its Southern Song appearance, demonstrating the advanced bridge-building techniques used in the waterways of the Jiangnan region. On 25 May 2006, it was designated a Major Historical and Cultural Site Protected at the National Level.",
+    "dynastyTag": "Southern Song dynasty"
+  },
+  "br_new_271": {
+    "name": "Yuanbao Bridge (Yunti Bridge)",
+    "province": "Zhejiang",
+    "type": "single-span three-segment polygonal stone arch bridge",
+    "material": "stone",
+    "level": "County-Level Cultural Heritage Site",
+    "history": "Yuanbao Bridge, also known as Yunti Bridge, is located in Zhanglou Village, Huashe Subdistrict, Keqiao District, Shaoxing. It was traditionally built in 1596 during the Wanli reign of the Ming dynasty, although another record dates its construction to 1606. The bridge is said to have received the name Yuanbao in connection with an episode during an imperial tour in the Qianlong reign of the Qing dynasty. Its unusual single-span, three-segment polygonal stone arch resembles the shape of a traditional Chinese silver ingot. The bridge is 7 metres long, with a 2.7-metre-long deck, a width of 2 metres and a height of 4 metres. It was restored through public donations in 1913, and inscriptions on the parapets record the reconstruction and preserve decorative patterns and the name Yunti Bridge. The bridge is regarded as a representative example of three-segment arch construction in Shaoxing and as a transitional structural form between beam and arch bridges. It was designated a county-level cultural heritage site in 2002 and has been preserved in its original location as part of the landscape of a nearby residential development.",
+    "dynastyTag": "Ming dynasty, traditionally dated to 1596; restored in 1913"
+  },
+  "br_new_272": {
+    "name": "Maju Bridge",
+    "province": "Beijing",
+    "type": "nine-span stone arch bridge",
+    "material": "stone",
+    "level": "Beijing Municipal Cultural Heritage Site",
+    "history": "Maju Bridge, officially named Hongren Bridge by imperial decree, is commonly known as Maju Bridge. It is one of the Four Famous Bridges of Ming-dynasty Beijing. The place was originally a pasture for raising young horses during the Liao and Jin dynasties, giving rise to the name Maju. A wooden bridge stood here during the Yongle reign and was replaced in 1463, the seventh year of the Tianshun reign of the Ming dynasty, by the present nine-span stone arch bridge. The bridge has long served as an important crossing over the Liangshui River on the southern route out of Beijing and remains one of the city's best-preserved historic stone bridges.",
+    "dynastyTag": "Ming dynasty, rebuilt in 1463"
+  },
+  "br_new_273": {
+    "name": "Huilan Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "three-span stone arch covered bridge",
+    "material": "stone, brick and timber",
+    "level": "Cultural Heritage Site",
+    "history": "Huilan Wind-and-Rain Bridge is located in Chaodong Town, Fuchuan Yao Autonomous County, Guangxi, crossing the Huangsha River between Youmu and Mulong villages. Built in 1602 during the Wanli reign of the Ming dynasty, it consists of a three-span stone arch bridge, a covered corridor, bridge pavilions and towers. The brick walls are decorated with murals depicting people, flowers and birds, while the upturned eaves and ridge decorations display refined traditional craftsmanship. The bridge has preserved most of its original appearance and is regarded as an important example of Yao ethnic bridge architecture.",
+    "dynastyTag": "Ming dynasty, 1602"
+  },
+  "br_new_274": {
+    "name": "Xiajing Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "stone beam covered bridge",
+    "material": "stone and timber",
+    "level": "Cultural Heritage Site",
+    "history": "Xiajing Wind-and-Rain Bridge is located in Xiajing Village, Fuchuan County, Guangxi, crossing a small stream through the surrounding fields. It was built in 1847 during the Daoguang reign of the Qing dynasty. The bridge has two stone spans supported by dressed-stone piers, above which stands a traditional five-bay covered corridor and bridge pavilion constructed with timber framing and roofed with grey tiles. It is one of the representative wind-and-rain bridges preserved in the Fuchuan Yao region.",
+    "dynastyTag": "Qing dynasty, 1847"
+  },
+  "br_new_275": {
+    "name": "Luoshan Bridge",
+    "province": "Zhejiang",
+    "type": "combined three-arch and seven-span beam bridge",
+    "material": "stone",
+    "level": "Cultural Heritage Site",
+    "history": "Luoshan Bridge is located in Wucun, Yangxunqiao Town, Shaoxing, Zhejiang, crossing the Xixiao River. Built during the Ming dynasty, it is a rare combined bridge consisting of a three-span stone arch section and a seven-span stone beam section. The bridge connects the historic counties of Xiaoshan and Shaoxing and takes its name from the two Luoshan hills standing on either side. It represents an outstanding example of combined arch-and-beam bridge construction in eastern China.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_276": {
+    "name": "Xian'an Bridge",
+    "province": "Jiangsu",
+    "type": "single-span flat stone slab bridge",
+    "material": "granite",
+    "level": "Changzhou Municipal Cultural Heritage Site",
+    "history": "Xian'an Bridge is located in Jiaoxi Village, Zhenglu Town, Tianning District, Changzhou, Jiangsu. It was first built in 1743 during the Qianlong reign of the Qing dynasty and repaired during the Xianfeng reign. The north-south bridge is a single-span granite slab bridge measuring 18.4 metres in length. It forms one of the historic 'One River, Four Bridges' landscape of Jiaoxi Ancient Village and was listed as a municipal cultural heritage site in 2008.",
+    "dynastyTag": "Qing dynasty, 1743"
+  },
+  "br_new_277": {
+    "name": "Xinguan Bridge",
+    "province": "Zhejiang",
+    "type": "seven-span stone beam bridge",
+    "material": "stone",
+    "level": "Shengzhou Cultural Heritage Site",
+    "history": "Xinguan Bridge is located in Xinguanqiao Village, Chongren Town, Shengzhou, Zhejiang, crossing Kui Stream. The seven-span stone beam bridge measures approximately 40 metres in length and dates back to the Jiatai period of the Southern Song dynasty between 1201 and 1204. It was repeatedly damaged by floods and rebuilt several times, including a major reconstruction during the Qianlong reign of the Qing dynasty. The bridge was designated a Shengzhou cultural heritage site in 2002.",
+    "dynastyTag": "Southern Song dynasty"
+  },
+  "br_new_278": {
+    "name": "Lianjian Bridge",
+    "province": "Zhejiang",
+    "type": "three-span stone beam bridge",
+    "material": "stone",
+    "level": "Municipal Cultural Heritage Site",
+    "history": "Lianjian Bridge is located in Lianxing Village, Dongguan Subdistrict, Shangyu District, Shaoxing. It is a three-span stone beam bridge built during the Qing dynasty and extends north to south across the local waterway. The bridge is 28.6 metres long and is associated with the legend that King Goujian of Yue forged swords at this site after returning from captivity. Historical records suggest that the original bridge may have existed before the Southern Song dynasty and was rebuilt during the Kangxi reign of the Qing dynasty. It is now protected as a municipal cultural heritage site.",
+    "dynastyTag": "Earlier origin; rebuilt during the Qing dynasty"
+  },
+  "br_new_279": {
+    "name": "Guyue Bridge",
+    "province": "Zhejiang",
+    "type": "single-span five-sided stone arch bridge",
+    "material": "stone",
+    "level": "Zhejiang Provincial Cultural Heritage Site",
+    "history": "Guyue Bridge, formerly known as Daqiao Bridge and Yeshu Bridge, is located in Yazhi Village, Chi'an Town, Yiwu, Zhejiang. It was built in 1213 during the Jiading reign of the Southern Song dynasty and has a history of more than 800 years. The bridge features a rare five-sided polygonal arch and is 31.2 metres long with a clear span of 15 metres and a deck width of 4.5 metres. Its arch consists of three tiers of carefully laid stone blocks forming a distinctive folded polygonal structure. Guyue Bridge is regarded as one of China's finest surviving examples of polygonal stone-arch bridge engineering.",
+    "dynastyTag": "Southern Song dynasty, 1213"
+  },
+  "br_new_280": {
+    "name": "Heshang Bridge",
+    "province": "Zhejiang",
+    "type": "single-span three-segment polygonal stone arch bridge",
+    "material": "stone",
+    "level": "Cultural Heritage Site",
+    "history": "Heshang Bridge is located over a small stream near Pukou, Shengzhou, Zhejiang. It was originally built during the Song dynasty, and although repaired many times, most of its original stone structure has survived. The bridge was recorded in the Jiatai Gazetteer of Kuaiji. It measures 8 metres long, 2 metres wide and 4 metres high. The stream bends before reaching the bridge, forming a deep pool that slows the current and reduces erosion around the foundations. This natural setting has contributed greatly to the bridge's remarkable preservation. It is regarded as the earliest historically documented three-segment polygonal stone bridge in the Shaoxing region.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_281": {
+    "name": "Yunti Bridge",
+    "province": "Zhejiang",
+    "type": "single-span stone beam bridge",
+    "material": "stone",
+    "level": "Shaoxing County Cultural Heritage Site",
+    "history": "Yunti Bridge is located in Zhanglou Village, Huashe Subdistrict, Shaoxing, Zhejiang. Built during the Ming dynasty, it is popularly known as Yuanbao Bridge. The north-south bridge is 7.6 metres long and 2.2 metres wide. Both approaches include three stepped platforms and ten stone steps. Decorative stone posts, drum-shaped bases and carved scroll patterns remain well preserved. An inscription on the bridge records construction during the Bingwu year of the Wanli reign of the Ming dynasty. The unusual deck shape resembles a traditional Chinese silver ingot, giving rise to its popular name Yuanbao Bridge.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_282": {
+    "name": "Tongyun Bridge",
+    "province": "Beijing",
+    "type": "three-span stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Tongyun Bridge is located beside the ancient walls of Zhangjiawan Town in Tongzhou District, Beijing. Built in 1564 during the Jiajing reign of the Ming dynasty, it formed one of the most important transportation and logistics hubs at the northern end of the Grand Canal. The bridge is approximately 40 metres long and 10 metres wide, with three stone arches. Together with the remaining city walls, it preserves valuable evidence of Beijing's canal transport system, military defence and commercial development during the Ming and Qing dynasties.",
+    "dynastyTag": "Ming dynasty, 1564"
+  },
+  "br_new_283": {
+    "name": "Lucitang Lantong Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "four-span stone beam covered bridge",
+    "material": "stone and timber",
+    "level": "Cultural Heritage Site",
+    "history": "Lucitang Lantong Wind-and-Rain Bridge is located in Baojian Village, Mailing Town, Fuchuan Yao Autonomous County, Guangxi. Built in 1770 during the Qianlong reign of the Qing dynasty, it has four stone spans supported by dressed-stone piers. Above the bridge stands a traditional five-bay timber corridor and pavilion covered with grey tiles. Hitching stones are preserved at both entrances. The bridge is 27.15 metres long, 4.31 metres wide and remains an important example of traditional Yao covered-bridge architecture.",
+    "dynastyTag": "Qing dynasty, 1770"
+  },
+  "br_new_284": {
+    "name": "Huanghouquan Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "stone beam covered bridge",
+    "material": "stone and timber",
+    "level": "Cultural Heritage Site",
+    "history": "Huanghouquan Wind-and-Rain Bridge is located in Huanghouquan Village, Mailing Town, Fuchuan Yao Autonomous County. It was built in 1626 during the Tianqi reign of the Ming dynasty. The bridge consists of stone beams resting on dressed-stone abutments, above which stands a covered timber corridor with bridge pavilions and traditional horse-head gable walls. It represents the characteristic architectural style of Yao wind-and-rain bridges in southern Guangxi.",
+    "dynastyTag": "Ming dynasty, 1626"
+  },
+  "br_new_285": {
+    "name": "Fushou Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "timber beam covered bridge",
+    "material": "stone and Chinese fir timber",
+    "level": "Cultural Heritage Site",
+    "history": "Fushou Wind-and-Rain Bridge is located in Fengxi Village, Chengbei Town, Fuchuan Yao Autonomous County. It was built in 1608 during the Wanli reign of the Ming dynasty. Stone abutments were constructed directly on the natural bedrock, while massive Chinese fir beams support the timber deck. Above the bridge is a traditional five-bay covered corridor and pavilion roofed with grey tiles. Horse-head entrance walls stand at both ends. The bridge is one of the representative surviving timber wind-and-rain bridges of the Yao ethnic region.",
+    "dynastyTag": "Ming dynasty, 1608"
+  },
+  "br_new_286": {
+    "name": "Chaoyang Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "timber beam covered bridge",
+    "material": "stone and timber",
+    "level": "Cultural Heritage Site",
+    "history": "Chaoyang Wind-and-Rain Bridge is located in Fengxi Village, Chengbei Town, Fuchuan Yao Autonomous County, Guangxi. It was built in 1607 during the Wanli reign of the Ming dynasty. The bridge consists of a stone arch foundation with timber beams dividing the deck into three spans. A traditional covered corridor and bridge pavilion stand above the deck. It is one of the representative historic wind-and-rain bridges preserved in the Yao ethnic region.",
+    "dynastyTag": "Ming dynasty, 1607"
+  },
+  "br_new_287": {
+    "name": "Yangshou Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "timber beam covered bridge",
+    "material": "rubble stone and Chinese fir timber",
+    "level": "Cultural Heritage Site",
+    "history": "Yangshou Wind-and-Rain Bridge is located in Liangyuan Village, Chengbei Town, Fuchuan Yao Autonomous County. Built in 1817 during the Jiaqing reign of the Qing dynasty, it has rubble-stone abutments supporting large Chinese fir beams. Above the deck stands a traditional three-bay covered corridor and pavilion roofed with grey tiles. The bridge is 9.93 metres long, 3.38 metres wide and remains an important example of traditional Yao bridge architecture.",
+    "dynastyTag": "Qing dynasty, 1817"
+  },
+  "br_new_288": {
+    "name": "Yongjifu Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "stone beam covered bridge",
+    "material": "dressed stone and timber",
+    "level": "Cultural Heritage Site",
+    "history": "Yongjifu Wind-and-Rain Bridge is located in Weifeng Village, Chengbei Town, Fuchuan Yao Autonomous County. It was built in 1827 during the Daoguang reign of the Qing dynasty. Stone abutments and the bridge deck are constructed from dressed stone, while a three-bay timber corridor and pavilion stand above the bridge. Decorative ridge animals and horse-head entrance walls are preserved, reflecting the traditional architectural style of the Yao people.",
+    "dynastyTag": "Qing dynasty, 1827"
+  },
+  "br_new_289": {
+    "name": "Jinqiao Wind-and-Rain Bridge",
+    "province": "Guangxi",
+    "type": "stone arch covered bridge",
+    "material": "stone and timber",
+    "level": "Cultural Heritage Site",
+    "history": "Jinqiao Wind-and-Rain Bridge is located in Fuxi Village, Chaodong Town, Fuchuan Yao Autonomous County. Built in 1842 during the Daoguang reign of the Qing dynasty, it is a stone arch bridge with a bluestone deck. A traditional three-bay timber corridor and bridge pavilion with hip-and-gable roofs stand above the bridge, while horse-head entrance walls decorate both ends.",
+    "dynastyTag": "Qing dynasty, 1842"
+  },
+  "br_new_290": {
+    "name": "Qiaotou Bridge",
+    "province": "Hebei",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Qiaotou Bridge, also known as Hengshui Anji Bridge, was originally built as a wooden bridge and reconstructed as a stone bridge in 1553 during the Jiajing reign of the Ming dynasty. It suffered repeated destruction and repairs before being completed in its present form in 1766 during the Qianlong reign of the Qing dynasty. The central arch was destroyed during the Second Sino-Japanese War in 1937, temporarily replaced by timber in 1956, and rebuilt in reinforced concrete in 1982. The bridge remains in service today and was listed as a Hebei Provincial Cultural Heritage Site in 1993 and a National Key Cultural Heritage Site in 2013.",
+    "dynastyTag": "Ming dynasty origin; rebuilt during the Qing dynasty"
+  },
+  "br_new_291": {
+    "name": "Masi Bridge",
+    "province": "Jiangsu",
+    "type": "historic stone bridge",
+    "material": "stone",
+    "level": "Suzhou Toponymic Cultural Heritage",
+    "history": "Masi Bridge refers to two historic Song-dynasty bridges located on opposite sides of Jiyang Lake between Zhangjiagang and Jiangyin in Jiangsu Province. The bridges have a history of more than 900 years and are associated with the stories of the Song general Han Shizhong resisting the Jin army and Su Shi providing disaster relief. Originally built of timber and later rebuilt in stone, the surviving western bridge was reconstructed in 2017 as a modern concrete bridge preserving its historic location. In 2023, Masi Bridge was included in the Second Batch of Suzhou Toponymic Cultural Heritage Protection List.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_new_292": {
+    "name": "Sanli Bridge",
+    "province": "Jiangsu",
+    "type": "single-span granite stone arch bridge",
+    "material": "granite",
+    "level": "Major Historical and Cultural Site Protected at the National Level (Grand Canal)",
+    "history": "Sanli Bridge is located in Wujiang District, Suzhou, Jiangsu, crossing the Grand Canal. It was first built in 1324 during the Yuan dynasty and rebuilt several times during the Ming and Qing dynasties, including in 1462, 1797, 1875 and 1885. The bridge is 50.4 metres long, 4.65 metres wide, with a span of 16 metres and a height of 12.5 metres. It is the tallest surviving historic bridge in Wujiang and forms part of the UNESCO World Heritage Grand Canal.",
+    "dynastyTag": "Yuan dynasty, 1324"
+  },
+  "br_new_293": {
+    "name": "Wanling Bridge",
+    "province": "Zhejiang",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "Not specified",
+    "history": "Wanling Bridge is located in Tangjiabu Village, Lushan Subdistrict, Fuyang District, Hangzhou, Zhejiang, crossing Jiuqu Creek from east to west. Built during the Ming dynasty, it is a single-span stone arch bridge measuring 15.5 metres long and 3.5 metres wide. The bridge is decorated with four large stone lions and eight smaller lions on the parapet posts. The arch bears the inscription 'Wanling Bridge', while four carved animal-head waterspouts decorate the bridge body. Two carved centipedes are preserved at the base of the bridge piers, making the bridge distinctive among historic bridges in the Hangzhou region.",
+    "dynastyTag": "Ming dynasty"
+  },
+  "br_new_294": {
+    "name": "Yanzi Bridge",
+    "province": "Hunan",
+    "type": "timber wind-and-rain covered bridge",
+    "material": "timber",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Yanzi Bridge in Anhua County, Yiyang, Hunan, was built in 1822 during the Daoguang reign of the Qing dynasty. It is a traditional timber wind-and-rain covered bridge with pavilions on the roof. The bridge received its name because numerous swallow-like fossils were discovered nearby. In 2013, it was included in the seventh batch of National Key Cultural Heritage Sites as part of the Anhua Wind-and-Rain Bridges. A comprehensive conservation project was carried out in 2022. Other historic bridges sharing the same name once existed in Xiangtan and other parts of Hunan.",
+    "dynastyTag": "Qing dynasty, 1822"
+  },
+  "br_new_295": {
+    "name": "Hushang Bridge",
+    "province": "Zhejiang",
+    "type": "semicircular stone arch bridge",
+    "material": "stone",
+    "level": "Not specified",
+    "history": "Hushang Bridge is located in Hushang Village, Shaoxing, Zhejiang. It is a semicircular stone arch bridge constructed with transversely connected parallel arch sections. The bridge measures 11 metres long, 3 metres wide and 4.2 metres high, with a span of 4.5 metres. Built before the Qing dynasty, it is one of the important historic bridges crossing the Jian Lake water system.",
+    "dynastyTag": "Built before the Qing dynasty"
+  },
+  "br_new_296": {
+    "name": "Liyu Bridge",
+    "province": "Hubei",
+    "type": "brick-and-stone arch bridge",
+    "material": "brick and stone",
+    "level": "Not specified",
+    "history": "Liyu Bridge is located in Yicheng, Hubei Province, crossing the former channel of Gumu Canal. It is a brick-and-stone arch bridge dating from the Ming and Qing dynasties. The bridge rises gently at the centre and slopes downward toward both ends, resembling the shape of a carp, from which it takes its name. It was originally built by the local resident Gao Jin, rebuilt in 1620 during the Taichang reign of the Ming dynasty by Magistrate Qiu Yuncheng, and reconstructed again in 1871 during the Tongzhi reign of the Qing dynasty. Historically it formed part of the main north-south postal road through Yicheng. Although the original bridge no longer survives, a new bridge bearing the same name was reconstructed in 2011 near the Liyu Bridge Reservoir.",
+    "dynastyTag": "Ming dynasty origin; rebuilt during the Qing dynasty"
+  },
+  "br_new_297": {
+    "name": "Songxi Bridge",
+    "province": "Guangdong",
+    "type": "stone slab bridge",
+    "material": "stone",
+    "level": "Municipal Cultural Heritage Site",
+    "history": "Songxi Bridge spans the Songxi River between Jiafeng and Tuanxi villages in Chagan Town, Pingyuan County, Meizhou, Guangdong. It was first built in 1776 during the Qianlong reign of the Qing dynasty, while the present bridge dates from a reconstruction carried out in 1831 during the Daoguang reign. About six kilometres of the associated ancient postal road survive, paved with cobblestones approximately 1.67 metres wide. Historically the route served as an important migration corridor for Han settlers moving south during the late Western Jin period. Between 1929 and 1930 the Red Fourth Army passed through the area twice, and scenes from the 2019 film *Faith in Life and Death* were filmed here. Songxi Bridge was listed as a Meizhou Municipal Cultural Heritage Site in 2014.",
+    "dynastyTag": "Qing dynasty, first built in 1776; rebuilt in 1831"
   }
 }
