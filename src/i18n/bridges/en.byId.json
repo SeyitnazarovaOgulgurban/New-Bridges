@@ -4892,5 +4892,131 @@
     "level": "Heritage checkpoint",
     "dynastyTag": "Ming–Qing period",
     "history": "Mountain stream in Wuyi hot-spring resort area, Jinhua — Qing village stone arch. Distinct from the 1998 Wenquan Highway Bridge in county seat; name reflects Wuyi’s fame as China’s hot-spring city."
+  },
+  "br_95e3fce3680a": {
+    "name": "Duanhong Bridge",
+    "province": "Beijing",
+    "type": "single-span stone arch bridge",
+    "material": "white marble",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Duanhong Bridge stands over the Inner Golden Water River inside Beijing's Forbidden City, between the Gate of Supreme Harmony and the Hall of Martial Valor. The white-marble bridge is 18.7 m long and 9.2 m wide. Its balustrades include twenty posts, thirty-four stone lions in varied poses, eighteen carved panels, and powerful stone beasts at both approaches. Historical research identifies it with the Zhou Bridge outside the Yuan-dynasty Chongtian Gate. The original structure reportedly had three rainbow-shaped sections. After the imperial palace was rebuilt in the Ming dynasty, two sections were removed and only one remained, giving rise to the name Duanhong, meaning 'Broken Rainbow Bridge'.",
+    "dynastyTag": "Yuan origin; rebuilt in the Ming dynasty"
+  },
+  "br_702c59401a5e": {
+    "name": "Jin'ao Yudong Bridge",
+    "province": "Beijing",
+    "type": "nine-span stone arch bridge (original form)",
+    "material": "stone / white marble",
+    "level": "Representative historic Chinese embankment-type stone arch bridge",
+    "history": "Jin'ao Yudong Bridge, commonly called Beihai Bridge, crosses the water between Beihai and Zhongnanhai beside the Round City in Beijing. Wooden bridges existed here in the Yuan dynasty. In the Ming dynasty they were replaced by a stone arch bridge, completed in 1489. Memorial archways once stood at both ends, bearing the inscriptions Jin'ao in the west and Yudong in the east, from which the bridge took its name. The historic bridge measured about 156.73 m long and 9.48 m wide and originally had nine stone arches. Its white-marble balustrades, carved water-beast heads, imperial inscriptions, and unusually massive piers made it a distinctive example of an old Chinese embankment-style stone bridge.",
+    "dynastyTag": "Yuan origin; rebuilt in the Ming dynasty"
+  },
+  "br_786e28958619": {
+    "name": "Duiyun Jicui Bridge",
+    "province": "Beijing",
+    "type": "three-span stone bridge",
+    "material": "stone / white marble",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Duiyun Jicui Bridge, also called Yong'an Bridge, is located in Beihai Park in Beijing. A single-span wooden bridge was first built here in 1266. In 1743, during the Qing dynasty, it was replaced by the present three-span stone bridge. The bridge is 85 m long and 7.6 m wide and has white-marble balustrades. Ceremonial gateways at its two ends bear the inscriptions Duiyun, 'Piled Clouds', and Jicui, 'Accumulated Verdure', which gave the bridge its name. It links the Round City with the entrance to Yong'an Temple and forms one of Beihai Park's best-known scenic compositions with lotus flowers and the White Dagoba.",
+    "dynastyTag": "Yuan origin; rebuilt in the Qing dynasty"
+  },
+  "br_f9fbc7131fad": {
+    "name": "Xiuyi Bridge",
+    "province": "Beijing",
+    "type": "high single-span stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Xiuyi Bridge was built in 1750 and stands near the South Ruyi Gate of Beijing's Summer Palace, where the Long River enters Kunming Lake. In imperial times, boats carrying the emperor and empress passed beneath it on their way into the lake, and the bridge became known as the 'First Bridge of Kunming Lake'. It is a high single-span stone arch bridge, 44.8 m long and 5.8 m wide, widening to about 19 m at the approaches. The bridge name and the couplets carved on both sides were written by the Qianlong Emperor.",
+    "dynastyTag": "Qing dynasty"
+  },
+  "br_2df85ce13914": {
+    "name": "Qiaolou Hall Bridge",
+    "province": "Hebei",
+    "type": "open-spandrel single-span stone arch bridge supporting a hall",
+    "material": "stone / timber",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Qiaolou Hall Bridge is the landmark structure of Fuqing Temple on Cangyan Mountain in Jingxing County, Hebei. It combines a stone arch bridge below with a two-storey timber hall above. The open-spandrel stone arch resembles the structural principle of Zhaozhou Bridge. It is 15 m long, 9 m wide, and spans 10.7 m across a gorge about 70 m deep. The bridge arch is decorated with carvings of animals, horses, and human figures. Above it stands a five-bay, double-eaved hall facing east. Seen from the valley, the bridge resembles a rainbow suspended between cliffs, making the complex one of China's most dramatic bridge-and-building compositions.",
+    "dynastyTag": "Historic period not clearly specified"
+  },
+  "br_ba0a0377843c": {
+    "name": "Yunjian First Bridge",
+    "province": "Shanghai",
+    "type": "three-span stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Yunjian First Bridge, also known as Ku塘 Bridge, crosses the ancient Putang waterway in western Songjiang, Shanghai. A wooden bridge stood here in the Southern Song dynasty, but it collapsed under the weight of spectators watching a dragon-boat race. During the Chenghua era of the Ming dynasty, between 1465 and 1487, the official Wang Heng sponsored a stone replacement. Songjiang was historically called Yunjian, and because this was the largest bridge in the area, it became known as the 'First Bridge of Yunjian'. The three-span bridge is 49.3 m long and about 8 m high, with slender piers, stone balustrades, and refined Jiangnan workmanship.",
+    "dynastyTag": "Southern Song origin; rebuilt in the Ming dynasty"
+  },
+  "br_5d5f3d969ec4": {
+    "name": "Jinlian Bridge",
+    "province": "Jiangsu",
+    "type": "three-span stone beam bridge",
+    "material": "stone",
+    "level": "Jiangsu Provincial Cultural Heritage Site",
+    "history": "Jinlian Bridge stands in front of the Imperial Stele Pavilion at Huishan Temple in Wuxi, Jiangsu. It was built in the Song dynasty under the direction of the renowned general Li Gang. The three-span stone beam bridge is 10.7 m long and 3.4 m wide. Its central opening is higher, while the two side openings are lower and wedge-shaped. Carved dragon heads decorate the piers, fish-head forms appear at the ends of the beams, and the outer balustrade panels carry elegant Song-dynasty peony motifs symbolizing prosperity and good fortune. The bridge takes its name from the nearby Golden Lotus Pond and is valued for its balanced structure and refined stone carving.",
+    "dynastyTag": "Song dynasty"
+  },
+  "br_a1fa0bd21f30": {
+    "name": "Qiweng Bridge (Qiqiaoweng Bridge)",
+    "province": "Jiangsu",
+    "type": "seven-span stone arch bridge",
+    "material": "bluestone / granite",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Qiweng Bridge, also known as Qiqiaoweng Bridge, crosses the Qinhuai River outside Guanghua Gate in Nanjing. It was first built in the early Ming dynasty and was originally called Shangfang Bridge. After a Qing-dynasty restoration it became known as Qiqiaoweng, referring to its seven semicircular arch openings. The bridge is 89.6 m long, 13 m wide, and has six piers and seven arches. The central span is 10.4 m, while the outer spans narrow to 8.7 m. Boat-shaped cutwaters and carved stone beasts decorate the piers. Built originally of bluestone and later repaired with granite, the bridge served Nanjing's inland water traffic for more than six centuries.",
+    "dynastyTag": "Ming origin; restored in the Qing dynasty"
+  },
+  "br_d550b5bf6645": {
+    "name": "Miedu Bridge",
+    "province": "Jiangsu",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Miedu Bridge crosses the ancient canal at Midu Bay outside Suzhou. Before the bridge was built, travellers had to rely on ferries, and some boatmen charged excessive fares. According to historical accounts, the monk Jingxiu was mistreated because he had no money, so he began raising funds for a bridge with the help of local supporters. Construction was completed in 1300. Because the new bridge eliminated the need for the ferry, it was named Miedu, meaning 'ending the crossing by ferry'. The single-span stone arch bridge is 78.5 m long, 4.5 m wide, and spans 19.8 m. Its broad approaches, protective masonry, projecting stone beams, and carved beast heads give it a simple but monumental appearance.",
+    "dynastyTag": "Yuan dynasty"
+  },
+  "br_de7c3b84a473": {
+    "name": "Shuxi Bridge",
+    "province": "Zhejiang",
+    "type": "nine-span stone-and-timber covered bridge",
+    "material": "stone / timber",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Shuxi Bridge crosses the Shuxi River in Wuyi County, Zhejiang. It was first built in 1207 during the Southern Song dynasty and was repeatedly rebuilt after floods and fires. The surviving bridge is a stone-and-timber covered cantilever bridge and one of China's early bridges designed to shelter pedestrians from wind and rain. It is 140 m long and 4.8 m wide, with nine openings, ten piers, and forty-nine covered bays, including three double-eaved pavilions. Benches divide the deck into three lanes, historically separating vehicles from pedestrians. At the centre stands the two-storey octagonal Fajiao Pavilion, richly carved with animals and figures.",
+    "dynastyTag": "Southern Song origin"
+  },
+  "br_745ddc9bcc9a": {
+    "name": "Sanxia Bridge",
+    "province": "Jiangxi",
+    "type": "single-span stone arch bridge",
+    "material": "stone",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Sanxia Bridge lies below Shiren Peak on the southern foot of Mount Lu in Jiangxi and crosses the steep Sanxia ravine. The writer Su Shi compared the ravine's cliffs, rocks, and rushing water to the Three Gorges, giving the bridge its name. It is also known as Qixian Bridge because Qixian Temple stands nearby, and later as Guanyin Bridge after a Guanyin pavilion was built at the bridgehead. An inscription records that the bridge was built in 1014 under the direction of the monks Wenxiu and Delang. Constructed from 107 stone slabs, it is 20.4 m long, 4.94 m wide, and spans 10.33 m, using the natural rock walls as abutments.",
+    "dynastyTag": "Northern Song dynasty"
+  },
+  "br_3e54a5c9f2ad": {
+    "name": "Lushui Bridge",
+    "province": "Hunan",
+    "type": "ten-span continuous stone bridge",
+    "material": "granite",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Lushui Bridge crosses the Lushui River in Liling, Hunan. It originated in the Southern Song dynasty, when a timber cantilever bridge with stone piers was built here. The bridge was rebuilt many times through the Yuan, Ming, and Qing dynasties. At different periods it carried covered galleries, a central pavilion dedicated to Zhenwu, and dozens of wooden shops, becoming a busy commercial centre. The present structure dates from a 1928 reconstruction. It is a ten-span continuous granite bridge about 203 m long and 5.37 m wide, with approach sections at both ends. The bridge preserves an inscription by Kang Youwei and a historical stele composed by the Liling scholar Fu Xiongxiang.",
+    "dynastyTag": "Southern Song origin; rebuilt in 1928"
+  },
+  "br_cf055e3731a8": {
+    "name": "Zili Bridge (Jinlong Bridge)",
+    "province": "Yunnan",
+    "type": "iron-chain suspension bridge",
+    "material": "iron / timber",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Zili Bridge, also called Jinlong Bridge, spans the Jinsha River in Lijiang, Yunnan. It was privately funded by Jiang Zonghan, a former official in Guizhou. Construction began in 1876 and was completed in 1880. The bridge uses sixteen iron chains: fourteen support the two-layer timber deck and two form the handrails. Each chain consists of about five hundred linked iron rings. The bridge is 116 m long, 3 m wide, and has a 90 m main span. It was an important crossing on the Ancient Tea Horse Road, carrying caravans and communities of different ethnic groups and serving as a witness to trade and cultural exchange in southwest China.",
+    "dynastyTag": "Late Qing dynasty"
+  },
+  "br_29f4929262b1": {
+    "name": "Puxiu Bridge",
+    "province": "Hunan",
+    "type": "timber wind-and-rain covered bridge",
+    "material": "timber",
+    "level": "Major Historical and Cultural Site Protected at the National Level",
+    "history": "Puxiu Bridge crosses the Pingtan River in Tongdao Dong Autonomous County, Huaihua, Hunan. It was first built during the Qianlong reign of the Qing dynasty, destroyed by flooding, and rebuilt in 1803. The 57.7 m long and 4.2 m wide timber structure combines a bridge, covered corridor, and pavilions. Twenty-one covered bays are decorated with traditional lattice windows, and three pavilions divide the corridor. The two side pavilions have triple eaves, while the central pavilion rises through seven closely spaced eaves. A black clay bird on its roof can turn in the wind and produce sound, adding to the bridge's distinctive silhouette.",
+    "dynastyTag": "Qing dynasty"
   }
 }
